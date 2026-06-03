@@ -1,0 +1,5 @@
+.git/
+.cloudflared/
+node_modules/
+*.log
+*.tmp
