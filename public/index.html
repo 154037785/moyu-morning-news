@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#111111">
+    <meta name="description" content="自动更新的中文新闻播报，支持移动端语音播放、逐句字幕和社交分享。">
+    <meta property="og:title" content="摸鱼早报">
+    <meta property="og:description" content="自动更新的中文新闻播报，支持移动端语音播放、逐句字幕和社交分享。">
+    <meta property="og:type" content="website">
+    <title>摸鱼早报</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="top-bar">
+        <div>
+          <p class="eyebrow">联网自动更新</p>
+          <h1>摸鱼早报</h1>
+        </div>
+        <button class="icon-button" id="refreshButton" type="button" aria-label="刷新新闻" title="刷新新闻">
+          <span aria-hidden="true">↻</span>
+        </button>
+      </header>
+
+      <main>
+        <section class="now-playing">
+          <div>
+            <p class="label">今日播报</p>
+            <h2 id="heroTitle">正在加载新闻</h2>
+            <p id="heroMeta">连接服务器中...</p>
+          </div>
+          <button class="primary-button" id="playHeroButton" type="button">开始听</button>
+        </section>
+
+        <section class="episode-strip" aria-label="早报选集">
+          <div class="section-heading">
+            <h2>早报选集</h2>
+            <span id="updateStatus">等待更新</span>
+          </div>
+          <div class="episode-list" id="episodeList"></div>
+        </section>
+
+        <section class="sections" id="sections"></section>
+      </main>
+    </div>
+
+    <div class="sheet" id="playerSheet" aria-hidden="true">
+      <div class="sheet-scrim" id="sheetScrim"></div>
+      <article class="player-panel" id="playerPanel" role="dialog" aria-modal="true" aria-labelledby="playerTitle">
+        <nav class="player-nav">
+          <div class="nav-group">
+            <button class="icon-button" id="closePlayerButton" type="button" aria-label="下滑退出" title="下滑退出">
+              <span aria-hidden="true">⌄</span>
+            </button>
+            <button class="text-button" id="openPickerButton" type="button">选集</button>
+          </div>
+          <div class="nav-group">
+            <button class="icon-button" id="favoriteButton" type="button" aria-label="收藏" title="收藏">
+              <span aria-hidden="true">☆</span>
+            </button>
+            <button class="icon-button" id="shareButton" type="button" aria-label="转发" title="转发">
+              <span aria-hidden="true">↗</span>
+            </button>
+          </div>
+        </nav>
+
+        <div class="broadcast-card">
+          <p id="playerCategory">综合</p>
+          <h2 id="playerTitle">摸鱼早报</h2>
+          <span id="playerSubtitle">准备播报</span>
+        </div>
+
+        <div class="progress-wrap">
+          <div class="progress-meta">
+            <span id="currentTime">00:00</span>
+            <span id="durationTime">00:00</span>
+          </div>
+          <input id="progressSlider" type="range" min="0" max="100" value="0" aria-label="播放进度">
+        </div>
+
+        <div class="transport">
+          <button class="round-button" id="backButton" type="button" aria-label="后退10秒" title="后退10秒">
+            <span aria-hidden="true">-10</span>
+          </button>
+          <button class="play-button" id="mainPlayButton" type="button" aria-label="播放">
+            <span id="playIcon" aria-hidden="true">▶</span>
+          </button>
+          <button class="round-button" id="forwardButton" type="button" aria-label="快进10秒" title="快进10秒">
+            <span aria-hidden="true">+10</span>
+          </button>
+        </div>
+
+        <div class="speed-row" id="speedRow" aria-label="播放速度"></div>
+
+        <div class="voice-panel">
+          <div class="voice-row" id="voiceModeRow" aria-label="声音模式"></div>
+          <select id="voiceSelect" aria-label="指定声音"></select>
+          <p id="voiceStatus">正在读取可用人声...</p>
+        </div>
+
+        <div class="script-box">
+          <div class="lyric-list" id="scriptText" aria-label="逐句字幕"></div>
+        </div>
+      </article>
+    </div>
+
+    <div class="share-sheet" id="shareSheet" aria-hidden="true">
+      <div class="share-scrim" id="shareScrim"></div>
+      <div class="share-panel">
+        <div class="section-heading">
+          <h2>转发</h2>
+          <button class="icon-button" id="closeShareButton" type="button" aria-label="关闭转发" title="关闭转发">
+            <span aria-hidden="true">×</span>
+          </button>
+        </div>
+        <div class="share-grid">
+          <button class="share-item" type="button" data-share-target="native">系统</button>
+          <button class="share-item" type="button" data-share-target="wechat">微信</button>
+          <button class="share-item" type="button" data-share-target="qq">QQ</button>
+          <button class="share-item" type="button" data-share-target="douyin">抖音</button>
+          <button class="share-item" type="button" data-share-target="xiaohongshu">小红书</button>
+          <button class="share-item" type="button" data-share-target="copy">复制</button>
+        </div>
+        <p id="shareStatus"></p>
+      </div>
+    </div>
+
+    <div class="picker" id="episodePicker" aria-hidden="true">
+      <div class="picker-panel">
+        <div class="section-heading">
+          <h2>选择早报</h2>
+          <button class="icon-button" id="closePickerButton" type="button" aria-label="关闭选集" title="关闭选集">
+            <span aria-hidden="true">×</span>
+          </button>
+        </div>
+        <div id="pickerList"></div>
+      </div>
+    </div>
+
+    <script src="/app.js"></script>
+  </body>
+</html>

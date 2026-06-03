@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: moyu-morning-news
+    runtime: node
+    plan: free
+    buildCommand: npm install --omit=dev
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+      - key: DEEPSEEK_MODEL
+        value: deepseek-chat
+      - key: CACHE_TTL_MS
+        value: 1800000
+      - key: FEED_TIMEOUT_MS
+        value: 30000
+      - key: TARGET_EPISODE_SECONDS
+        value: 1200
+      - key: DEEPSEEK_API_KEY
+        sync: false

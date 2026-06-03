@@ -1,0 +1,20 @@
+{
+  "name": "moyu-morning-news",
+  "version": "1.0.0",
+  "description": "A mobile-first podcast-style news briefing website.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "news",
+    "rss",
+    "podcast",
+    "mobile"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
