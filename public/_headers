@@ -1,0 +1,5 @@
+/data/news.json
+  Cache-Control: no-store
+
+/*
+  Cache-Control: public, max-age=3600

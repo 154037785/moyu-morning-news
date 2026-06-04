@@ -39,6 +39,46 @@ http://你的电脑IP:3000
 
 `trycloudflare.com` quick tunnel 是临时网址，会过期，不适合长期分享。
 
+### Cloudflare Pages 免费固定网址
+
+这是推荐的免费稳定方案。Cloudflare Pages 会给固定网址，例如：
+
+```text
+https://moyu-morning-news.pages.dev
+```
+
+这个版本不需要常驻 Node 后端。GitHub Actions 会定时抓新闻、调用 DeepSeek、生成：
+
+```text
+public/data/news.json
+```
+
+Cloudflare Pages 只托管静态页面和 JSON 数据，因此不会像 Render 免费版那样休眠。
+
+部署步骤：
+
+1. 打开 GitHub 仓库 Settings -> Secrets and variables -> Actions。
+2. 新增 Repository secret：
+
+```text
+DEEPSEEK_API_KEY=你的 DeepSeek key
+```
+
+3. 打开 Actions -> Update static news -> Run workflow，先手动生成一次新闻。
+4. 打开 Cloudflare Dashboard -> Workers & Pages -> Create application -> Pages。
+5. 选择 GitHub 仓库 `154037785/moyu-morning-news`。
+6. 构建设置：
+
+```text
+Framework preset: None
+Build command: 留空
+Build output directory: public
+```
+
+7. 部署完成后使用 Cloudflare 给出的 `pages.dev` 固定网址。
+
+新闻会由 GitHub Actions 每 4 小时自动更新一次。也可以手动点 Run workflow 立即更新。
+
 ### Render 免费固定网址
 
 不买域名时，推荐部署到 Render。免费版会给一个固定网址，例如：

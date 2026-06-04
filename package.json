@@ -4,7 +4,9 @@
   "description": "A mobile-first podcast-style news briefing website.",
   "main": "server.js",
   "scripts": {
+    "build": "node scripts/generate-static-news.js",
     "dev": "node server.js",
+    "generate": "node scripts/generate-static-news.js",
     "start": "node server.js"
   },
   "keywords": [

@@ -1,0 +1,36 @@
+name: Update static news
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate news JSON
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_MODEL: deepseek-chat
+          FEED_TIMEOUT_MS: "30000"
+          TARGET_EPISODE_SECONDS: "1200"
+        run: node scripts/generate-static-news.js
+
+      - name: Commit news update
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update static news data"
+          file_pattern: public/data/news.json

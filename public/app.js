@@ -329,8 +329,23 @@ function renderAll() {
 
 async function loadNews(force = false) {
   els.updateStatus.textContent = "更新中...";
-  const res = await fetch(force ? "/api/refresh" : "/api/news");
-  state.payload = await res.json();
+  const endpoints = force
+    ? ["/api/refresh", `/data/news.json?t=${Date.now()}`]
+    : [`/data/news.json?t=${Date.now()}`, "/api/news"];
+  let lastError;
+
+  for (const endpoint of endpoints) {
+    try {
+      const res = await fetch(endpoint);
+      if (!res.ok) throw new Error(`${endpoint} ${res.status}`);
+      state.payload = await res.json();
+      break;
+    } catch (error) {
+      lastError = error;
+    }
+  }
+
+  if (!state.payload) throw lastError || new Error("新闻数据加载失败");
   renderAll();
   const episodeFromHash = decodeURIComponent(window.location.hash.replace(/^#episode=/, ""));
   if (episodeFromHash && window.location.hash.startsWith("#episode=") && !state.currentEpisode) {
