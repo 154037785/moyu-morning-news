@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T10:27:16.413Z",
+  "updatedAt": "2026-07-05T13:58:36.299Z",
   "statusText": "12/12 个来源更新成功",
   "sourceStatus": [
     {
@@ -34,14 +34,14 @@
       "name": "CNA Asia",
       "category": "亚太",
       "ok": true,
-      "count": 11,
+      "count": 10,
       "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511"
     },
     {
       "name": "CNA Business",
       "category": "财经",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6936"
     },
     {
@@ -55,7 +55,7 @@
       "name": "CNA World",
       "category": "国际要闻",
       "ok": true,
-      "count": 20,
+      "count": 18,
       "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311"
     },
     {
@@ -99,9 +99,45 @@
       "image": "",
       "source": "Anthropic News Feed",
       "category": "大模型",
-      "publishedAt": "2026-07-05T10:22:56.694Z",
+      "publishedAt": "2026-07-05T13:53:50.192Z",
       "displayTitle": "大模型消息",
       "displayDescription": "消息显示，相关动态集中在人工智能、安全与监管。有新的产品或能力发布。"
+    },
+    {
+      "id": "63f6c3daff98bd2b",
+      "title": "Horner returns to F1 paddock a year after sacking",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/sport/horner-returns-f1-paddock-year-after-sacking-6233166",
+      "image": "",
+      "source": "CNA Sport",
+      "category": "体育",
+      "publishedAt": "2026-07-05T13:15:44.000Z",
+      "displayTitle": "体育消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+    },
+    {
+      "id": "0b273fd40bbb33d0",
+      "title": "泰勒絲大婚不收禮 英國倒有人靠隨禮做試管嬰兒",
+      "description": "雖然泰勒絲和凱爾西奉行「不收禮」政策，但如今請柬上常見這樣的說法：「你們的到場就是最好的禮物，但如果你想送我們點什麼，請捐入我們的蜜月基金。」",
+      "link": "https://www.bbc.com/zhongwen/articles/c982r8ej49zo/trad?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed09/live/eee79ae0-76da-11f1-b976-0b9c15b0ccfc.jpg",
+      "source": "BBC中文",
+      "category": "国际要闻",
+      "publishedAt": "2026-07-05T11:10:40.000Z",
+      "displayTitle": "泰勒絲大婚不收禮 英國倒有人靠隨禮做試管嬰兒",
+      "displayDescription": "雖然泰勒絲和凱爾西奉行「不收禮」政策，但如今請柬上常見這樣的說法：「你們的到場就是最好的禮物，但如果你想送我們點什麼，請捐入我們的蜜月基金。」"
+    },
+    {
+      "id": "b0f4dd1cbfedea41",
+      "title": "Real Madrid sign Dutch full-back Dumfries from Inter Milan",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/sport/real-madrid-sign-dutch-full-back-dumfries-inter-milan-6233116",
+      "image": "https://dam.mediacorp.sg/image/upload/s--1jrNlgjW--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T110403Z_1_LYNXMPEM64053_RTROPTP_3_SOCCER-WORLDCUP-TUN-NLD.JPG?itok=Ik_ruJQO",
+      "source": "CNA Sport",
+      "category": "体育",
+      "publishedAt": "2026-07-05T11:04:03.000Z",
+      "displayTitle": "体育消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
       "id": "7db3a429c286c02e",
@@ -132,7 +168,7 @@
       "title": "What's in a song? The story behind the music playing at World Cup stadiums",
       "description": "暂无摘要。",
       "link": "https://www.channelnewsasia.com/sport/whats-in-song-story-behind-music-playing-world-cup-stadiums-6233111",
-      "image": "https://dam.mediacorp.sg/image/upload/s--l6T-l1p3--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T100458Z_1_LYNXMPEM6404O_RTROPTP_3_SOCCER-WORLDCUP-COD-UZB.JPG?itok=W25X38gv",
+      "image": "",
       "source": "CNA Sport",
       "category": "体育",
       "publishedAt": "2026-07-05T10:04:58.000Z",
@@ -284,15 +320,15 @@
       "displayDescription": "东方盛虹7月5日发布业绩预告，预计2026年上半年实现归母净利润42亿元—50亿元，同比增长987.39%—1194.51%。2026年上半年，石化化工行业供需格局改善导致景气度有所提升。同时，地缘局势紧张带动国际原油价格中枢上移，受成本抬升以及原料供应偏紧的影响，石化产品价格整体呈上升趋势，公司主要产品价差扩大带动整体盈利能力提升。（证券时报）"
     },
     {
-      "id": "c29748d3d5006941",
-      "title": "OPEC+ set to clear another oil output increase: Sources",
+      "id": "75d1871f978f08f7",
+      "title": "OPEC+ approves further oil output increase as Hormuz exports start to recover",
       "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/world/oil-supply-increase-opec-exports-6233046",
+      "link": "https://www.channelnewsasia.com/world/oil-supply-increase-opec-exports-hormuz-6233046",
       "image": "https://dam.mediacorp.sg/image/upload/s--NzUqjmx9--/c_crop,h_449,w_799,x_1,y_31/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-02T013010Z_3_LYNXMPEM61037_RTROPTP_3_CANADA-OIL.JPG?itok=k6QnB9gu",
-      "source": "CNA Business",
-      "category": "财经",
+      "source": "CNA World",
+      "category": "国际要闻",
       "publishedAt": "2026-07-05T08:07:00.000Z",
-      "displayTitle": "财经消息",
+      "displayTitle": "国际要闻消息",
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
@@ -356,15 +392,15 @@
       "displayDescription": "消息显示，相关动态集中在智能体、研究进展。释放出新的行业信号。"
     },
     {
-      "id": "89b94b5bfa6e9944",
+      "id": "183db13ce112d71a",
       "title": "China, Russia to hold joint naval drills",
       "description": "The drills come about two months after Russia's President Vladimir Putin visited China.",
       "link": "https://www.channelnewsasia.com/world/china-russia-hold-joint-navy-drills-6233026",
       "image": "https://dam.mediacorp.sg/image/upload/s--BKe3N1fr--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/05/2026-07-05t070844z_354003146_rc262jab0x83_rtrmadp_3_china-russia-military_1.jpg?itok=bnsFWeIx",
-      "source": "CNA Asia",
-      "category": "亚太",
+      "source": "CNA World",
+      "category": "国际要闻",
       "publishedAt": "2026-07-05T07:49:57.000Z",
-      "displayTitle": "亚太消息",
+      "displayTitle": "国际要闻消息",
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
@@ -488,15 +524,15 @@
       "displayDescription": "7月4日，工业和信息化部装备工业发展中心正式公布《2026年度工业母机创新产品典型案例名单》。华工科技复杂曲面六轴激光加工装备成功入选。（证券时报）"
     },
     {
-      "id": "09c733acf6103d16",
+      "id": "f3fc49dacb424391",
       "title": "Pipe dreams: Bangladesh surfers chase waves at Asian Games",
       "description": "The surfers from Cox's Bazar in Bangladesh are hoping to carve out a place for the sport in a country obsessed with cricket and football.",
       "link": "https://www.channelnewsasia.com/sport/bangladesh-surfing-asian-games-coxs-bazar-6232916",
       "image": "https://dam.mediacorp.sg/image/upload/s--zp0zMBYq--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/05/000_b8dp6nr.jpg?itok=UMzgpIN7",
-      "source": "CNA Asia",
-      "category": "亚太",
+      "source": "CNA Sport",
+      "category": "体育",
       "publishedAt": "2026-07-05T05:42:56.000Z",
-      "displayTitle": "亚太消息",
+      "displayTitle": "体育消息",
       "displayDescription": "消息显示，相关动态集中在行业变化。监管和法律风险受到关注。"
     },
     {
@@ -848,18 +884,6 @@
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
-      "id": "30d68134cab93d58",
-      "title": "Keys ticks off bucket list Centre Court appearance",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/keys-ticks-bucket-list-centre-court-appearance-6232586",
-      "image": "",
-      "source": "CNA Sport",
-      "category": "体育",
-      "publishedAt": "2026-07-04T20:57:08.000Z",
-      "displayTitle": "体育消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
       "id": "bb1ac35c656d3265",
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
@@ -870,18 +894,6 @@
       "publishedAt": "2026-07-04T20:55:25.000Z",
       "displayTitle": "大模型消息",
       "displayDescription": "消息显示，相关动态集中在人工智能。释放出新的行业信号。"
-    },
-    {
-      "id": "87f53498c234f7d2",
-      "title": "Ounahi repays faith in new role for Morocco with goals",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/ounahi-repays-faith-in-new-role-morocco-goals-6232591",
-      "image": "https://dam.mediacorp.sg/image/upload/s--zHcXTfaE--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-04T205435Z_1_LYNXMPEM630NN_RTROPTP_3_SOCCER-WORLDCUP-CAN-MAR.JPG?itok=mOQS3zLO",
-      "source": "CNA Sport",
-      "category": "体育",
-      "publishedAt": "2026-07-04T20:54:35.000Z",
-      "displayTitle": "体育消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
       "id": "a9d1b114a6ae8b30",
@@ -1054,14 +1066,14 @@
     {
       "id": "50f3dbfba126982d",
       "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
-      "description": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。 7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。 当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科技",
+      "description": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。 7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。 当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策��，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科",
       "link": "https://36kr.com/p/3880770270425089?f=rss",
       "image": "",
       "source": "36氪综合资讯",
       "category": "科技商业",
       "publishedAt": "2026-07-04T03:25:22.000Z",
       "displayTitle": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
-      "displayDescription": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。 7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。 当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科技"
+      "displayDescription": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。 7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。 当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策��，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科"
     },
     {
       "id": "fb611499537f5e72",
@@ -1388,30 +1400,6 @@
       "displayDescription": "日本京都府八幡市35歲女市長川田祥子，即將成為日本史上首位在任休產假的市長。她計劃產前產後各休兩個月，由副市長代理職務。此舉卻引發當地社群激辯，凸顯日本女性從政與育兒的制度困境。"
     },
     {
-      "id": "e21df4aa37923e9a",
-      "title": "乙女遊戲：在「2.5次元」中，談一場模糊虛擬與現實的戀愛",
-      "description": "中國乙女遊戲基本都已能陪玩家工作、學習，甚至睡覺；玩家還可以給角色發微信消息、瀏覽他們的微信朋友圈。這些設計都在不斷強化一種體驗：讓「紙片人老公」盡可能地進入玩家的現實生活。",
-      "link": "https://www.bbc.com/zhongwen/articles/c3ry32ypn7zo/trad?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64f3/live/71bf3a50-76b2-11f1-925a-557464d48d36.jpg",
-      "source": "BBC中文",
-      "category": "国际要闻",
-      "publishedAt": "2026-07-03T13:14:32.000Z",
-      "displayTitle": "乙女遊戲：在「2.5次元」中，談一場模糊虛擬與現實的戀愛",
-      "displayDescription": "中國乙女遊戲基本都已能陪玩家工作、學習，甚至睡覺；玩家還可以給角色發微信消息、瀏覽他們的微信朋友圈。這些設計都在不斷強化一種體驗：讓「紙片人老公」盡可能地進入玩家的現實生活。"
-    },
-    {
-      "id": "87d2be8d8d598e32",
-      "title": "India's Modi to visit Indonesia, Australia, New Zealand next week",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/asia/india-pm-modi-visit-indonesia-australia-new-zealand-next-week-6230676",
-      "image": "https://dam.mediacorp.sg/image/upload/s--GvBODQZy--/c_crop,h_450,w_800,x_0,y_0/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-20T133229Z_1_LYNXMPEM4J19Z_RTROPTP_3_ITALY-INDIA.JPG?itok=ZZxqG0Vu",
-      "source": "CNA Asia",
-      "category": "亚太",
-      "publishedAt": "2026-07-03T13:11:26.000Z",
-      "displayTitle": "亚太消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
       "id": "efed27993a12c581",
       "title": "400家starup聚集、阿斯利康重押13亿欧元，创新药出海欧洲绕不开这座城｜最前线",
       "description": "文｜胡香赟 编辑｜海若镜 2026年6月底，西班牙瓦尔德希伯伦大学医院（Vall d’Hebron University Hospital）宣布完成欧洲首例单孔机器人儿科肾输尿管切除术。 瓦尔德希伯伦大学医院是西班牙规模最大的综合医院之一，年接诊量过百万人次，在整个欧洲医疗系统内，这家医院对前沿医疗技术、产品的探索都称得上“先锋”。此前，世界首例供体来自安乐死患者的面部移植手术就在这里完成。 本次，医院方面对36氪表示，支持完成这场“有里程碑意义的儿科手术”的核心设备，来自中",
@@ -1434,18 +1422,6 @@
       "publishedAt": "2026-07-03T12:20:07.000Z",
       "displayTitle": "「韓國足球已死！」世界盃敗戰後 憤怒的球迷要求徹底改革",
       "displayDescription": "世界盃提前出局後，球迷怒斥「韓國足球已死」，痛批該國足協用人唯親、缺乏透明與長期策略。總統李在明同聲要求徹底改革。"
-    },
-    {
-      "id": "1bee348864ad9c68",
-      "title": "AI hiring outpaces overall IT recruitment in India, report shows",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/business/ai-hiring-outpaces-overall-it-recruitment-in-india-report-shows-6230576",
-      "image": "https://dam.mediacorp.sg/image/upload/s--rLMc115f--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-03T121607Z_1_LYNXMPEM620OK_RTROPTP_3_INDIA-HIRING-AI.JPG?itok=iDiLA7Zv",
-      "source": "CNA Business",
-      "category": "财经",
-      "publishedAt": "2026-07-03T12:16:54.000Z",
-      "displayTitle": "财经消息",
-      "displayDescription": "消息显示，相关动态集中在人工智能。释放出新的行业信号。"
     },
     {
       "id": "1021668e6e9cc397",
@@ -1518,18 +1494,6 @@
       "publishedAt": "2026-07-03T11:09:57.000Z",
       "displayTitle": "美國建國250週年：五個鮮為人知的中美關係歷史細節",
       "displayDescription": "2026年7月4日，美國建國250週年。250年的歷史，足夠兩個國家從陌生人變成好友、對手，再到如今演變成複雜且難以定義的關係。BBC中文從歷史中截取五個與中國相關，卻鮮為人知的交匯瞬間，回顧兩國錯綜複雜的過往。"
-    },
-    {
-      "id": "b09197903f43ee01",
-      "title": "Climate change behind sweltering World Cup, scientists say",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sustainability/climate-change-behind-sweltering-world-cup-scientists-say-6230461",
-      "image": "https://dam.mediacorp.sg/image/upload/s--icz4SZQ_--/c_crop,h_449,w_799,x_1,y_66/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-03T110347Z_1_LYNXMPEM620M8_RTROPTP_3_SOCCER-WORLDCUP-DAILY-LIFE.JPG?itok=A0akPmDG",
-      "source": "CNA World",
-      "category": "国际要闻",
-      "publishedAt": "2026-07-03T11:03:00.000Z",
-      "displayTitle": "国际要闻消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
       "id": "69cb53ac23e33218",
@@ -2216,16 +2180,16 @@
       "displayDescription": "消息显示，英伟达相关动态集中在人工智能、云和数据中心、研究进展。释放出新的行业信号。"
     },
     {
-      "id": "68f28ba91f5a877e",
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-      "description": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM mi",
-      "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg",
+      "id": "784317d810a339a5",
+      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "description": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers w",
+      "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/vera-cpu-lanl-1920x1080-1.jpg",
       "source": "NVIDIA Blog",
       "category": "大模型",
       "publishedAt": "2026-06-22T13:00:20.000Z",
       "displayTitle": "大模型消息",
-      "displayDescription": "消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。"
+      "displayDescription": "消息显示，英伟达、惠普企业相关动态集中在人工智能、智能体。释放出新的行业信号。"
     },
     {
       "id": "d70aec1644a92ba5",
@@ -2516,18 +2480,6 @@
       "displayDescription": "消息显示，Anthropic、Claude相关动态集中在人工智能、大模型。释放出新的行业信号。"
     },
     {
-      "id": "a5d7197f058482bb",
-      "title": "Anthropic and Teach For All launch global AI training initiative for educators",
-      "description": "Anthropic is partnering with Teach For All to bring AI tools and training to educators in 63 countries. Through the AI Literacy & Creator Collective (LCC), more than 100,000 teachers and alumni across Teach For All's network—which serves mo",
-      "link": "https://www.anthropic.com/news/anthropic-teach-for-all",
-      "image": "",
-      "source": "Anthropic News Feed",
-      "category": "大模型",
-      "publishedAt": "2026-01-21T00:00:00.000Z",
-      "displayTitle": "大模型消息",
-      "displayDescription": "消息显示，Anthropic相关动态集中在人工智能。有新的产品或能力发布，出现新的合作关系。"
-    },
-    {
       "id": "17a09ac4d0069c72",
       "title": "Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
       "description": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a new member of the Trust. The Long-Term Benefit Trust is an independent body designed to help Anthropic achieve its public benefit missio",
@@ -2538,6 +2490,18 @@
       "publishedAt": "2026-01-21T00:00:00.000Z",
       "displayTitle": "大模型消息",
       "displayDescription": "消息显示，Anthropic相关动态集中在行业变化。有新的产品或能力发布。"
+    },
+    {
+      "id": "a5d7197f058482bb",
+      "title": "Anthropic and Teach For All launch global AI training initiative for educators",
+      "description": "Anthropic is partnering with Teach For All to bring AI tools and training to educators in 63 countries. Through the AI Literacy & Creator Collective (LCC), more than 100,000 teachers and alumni across Teach For All's network—which serves mo",
+      "link": "https://www.anthropic.com/news/anthropic-teach-for-all",
+      "image": "",
+      "source": "Anthropic News Feed",
+      "category": "大模型",
+      "publishedAt": "2026-01-21T00:00:00.000Z",
+      "displayTitle": "大模型消息",
+      "displayDescription": "消息显示，Anthropic相关动态集中在人工智能。有新的产品或能力发布，出现新的合作关系。"
     },
     {
       "id": "197587893e28a7de",
@@ -2600,18 +2564,6 @@
       "displayDescription": "消息显示，相关动态集中在人工智能、安全与监管。释放出新的行业信号。"
     },
     {
-      "id": "4ba142348cb57ce2",
-      "title": "Working with the US Department of Energy to unlock the next era of scientific discovery",
-      "description": "Anthropic and the US Department of Energy (DOE) are announcing a multi-year partnership as part of the Genesis Mission— the Department’s initiative to use AI to cement America’s leadership in science. Our partnership focuses on three domain",
-      "link": "https://www.anthropic.com/news/genesis-mission-partnership",
-      "image": "",
-      "source": "Anthropic News Feed",
-      "category": "大模型",
-      "publishedAt": "2025-12-18T00:00:00.000Z",
-      "displayTitle": "大模型消息",
-      "displayDescription": "消息显示，Anthropic相关动态集中在人工智能。出现新的合作关系。"
-    },
-    {
       "id": "1e8b955d33d64fe8",
       "title": "Protecting the well-being of our users",
       "description": "People use AI for a wide variety of reasons, and for some that may include emotional support. Our Safeguards team leads our efforts to ensure that Claude handles these conversations appropriately—responding with empathy, being honest about ",
@@ -2624,16 +2576,16 @@
       "displayDescription": "消息显示，Claude相关动态集中在人工智能。释放出新的行业信号。"
     },
     {
-      "id": "5100a49da8990ab0",
-      "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
-      "description": "Today, we’re donating the Model Context Protocol (MCP) to the Agentic AI Foundation (AAIF), a directed fund under the Linux Foundation , co-founded by Anthropic, Block and OpenAI, with support from Google, Microsoft, Amazon Web Services (AW",
-      "link": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+      "id": "4ba142348cb57ce2",
+      "title": "Working with the US Department of Energy to unlock the next era of scientific discovery",
+      "description": "Anthropic and the US Department of Energy (DOE) are announcing a multi-year partnership as part of the Genesis Mission— the Department’s initiative to use AI to cement America’s leadership in science. Our partnership focuses on three domain",
+      "link": "https://www.anthropic.com/news/genesis-mission-partnership",
       "image": "",
       "source": "Anthropic News Feed",
       "category": "大模型",
-      "publishedAt": "2025-12-09T00:00:00.000Z",
+      "publishedAt": "2025-12-18T00:00:00.000Z",
       "displayTitle": "大模型消息",
-      "displayDescription": "消息显示，OpenAI、Anthropic、微软相关动态集中在人工智能、大模型、智能体。释放出新的行业信号。"
+      "displayDescription": "消息显示，Anthropic相关动态集中在人工智能。出现新的合作关系。"
     },
     {
       "id": "3c41cad209eb29eb",
@@ -2648,16 +2600,16 @@
       "displayDescription": "消息显示，Anthropic相关动态集中在人工智能、企业落地。有新的产品或能力发布，出现新的合作关系。"
     },
     {
-      "id": "95b6b65d4888659e",
-      "title": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
-      "description": "Today, we announce a significant expansion of our strategic partnership with Snowflake. The multi-year, $200 million agreement will not only make Anthropic’s Claude models available in the Snowflake platform to more than 12,600 global custo",
-      "link": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
+      "id": "5100a49da8990ab0",
+      "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
+      "description": "Today, we’re donating the Model Context Protocol (MCP) to the Agentic AI Foundation (AAIF), a directed fund under the Linux Foundation , co-founded by Anthropic, Block and OpenAI, with support from Google, Microsoft, Amazon Web Services (AW",
+      "link": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
       "image": "",
       "source": "Anthropic News Feed",
       "category": "大模型",
-      "publishedAt": "2025-12-03T00:00:00.000Z",
+      "publishedAt": "2025-12-09T00:00:00.000Z",
       "displayTitle": "大模型消息",
-      "displayDescription": "消息显示，Anthropic、Claude相关动态集中在人工智能、大模型、智能体、企业落地。有新的产品或能力发布，出现新的合作关系。其中提到的关键数字包括$200 million、$200 million。"
+      "displayDescription": "消息显示，OpenAI、Anthropic、微软相关动态集中在人工智能、大模型、智能体。释放出新的行业信号。"
     },
     {
       "id": "0336ad02088bb6f4",
@@ -2670,6 +2622,18 @@
       "publishedAt": "2025-12-03T00:00:00.000Z",
       "displayTitle": "大模型消息",
       "displayDescription": "消息显示，Anthropic、Claude相关动态集中在人工智能、大模型、智能体、开发者工具。释放出新的行业信号。"
+    },
+    {
+      "id": "95b6b65d4888659e",
+      "title": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
+      "description": "Today, we announce a significant expansion of our strategic partnership with Snowflake. The multi-year, $200 million agreement will not only make Anthropic’s Claude models available in the Snowflake platform to more than 12,600 global custo",
+      "link": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
+      "image": "",
+      "source": "Anthropic News Feed",
+      "category": "大模型",
+      "publishedAt": "2025-12-03T00:00:00.000Z",
+      "displayTitle": "大模型消息",
+      "displayDescription": "消息显示，Anthropic、Claude相关动态集中在人工智能、大模型、智能体、企业落地。有新的产品或能力发布，出现新的合作关系。其中提到的关键数字包括$200 million、$200 million。"
     },
     {
       "id": "cbc4b7e77882a9fe",
@@ -2766,7 +2730,7 @@
         "image": "",
         "source": "Anthropic News Feed",
         "category": "大模型",
-        "publishedAt": "2026-07-05T10:22:56.694Z",
+        "publishedAt": "2026-07-05T13:53:50.192Z",
         "displayTitle": "大模型消息",
         "displayDescription": "消息显示，相关动态集中在人工智能、安全与监管。有新的产品或能力发布。"
       },
@@ -3611,16 +3575,16 @@
         "displayDescription": "消息显示，英伟达相关动态集中在人工智能、云和数据中心、研究进展。释放出新的行业信号。"
       },
       {
-        "id": "68f28ba91f5a877e",
-        "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-        "description": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM mi",
-        "link": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-        "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/cuda-press-corp-blog-isc26-1920x1080-1.jpg",
+        "id": "784317d810a339a5",
+        "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+        "description": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers w",
+        "link": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+        "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/vera-cpu-lanl-1920x1080-1.jpg",
         "source": "NVIDIA Blog",
         "category": "大模型",
         "publishedAt": "2026-06-22T13:00:20.000Z",
         "displayTitle": "大模型消息",
-        "displayDescription": "消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。"
+        "displayDescription": "消息显示，英伟达、惠普企业相关动态集中在人工智能、智能体。释放出新的行业信号。"
       },
       {
         "id": "d70aec1644a92ba5",
@@ -3887,18 +3851,6 @@
         "displayDescription": "消息显示，Anthropic、Claude相关动态集中在人工智能、大模型。释放出新的行业信号。"
       },
       {
-        "id": "a5d7197f058482bb",
-        "title": "Anthropic and Teach For All launch global AI training initiative for educators",
-        "description": "Anthropic is partnering with Teach For All to bring AI tools and training to educators in 63 countries. Through the AI Literacy & Creator Collective (LCC), more than 100,000 teachers and alumni across Teach For All's network—which serves mo",
-        "link": "https://www.anthropic.com/news/anthropic-teach-for-all",
-        "image": "",
-        "source": "Anthropic News Feed",
-        "category": "大模型",
-        "publishedAt": "2026-01-21T00:00:00.000Z",
-        "displayTitle": "大模型消息",
-        "displayDescription": "消息显示，Anthropic相关动态集中在人工智能。有新的产品或能力发布，出现新的合作关系。"
-      },
-      {
         "id": "17a09ac4d0069c72",
         "title": "Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
         "description": "Anthropic’s Long-Term Benefit Trust announced the appointment of Mariano-Florentino (Tino) Cuéllar as a new member of the Trust. The Long-Term Benefit Trust is an independent body designed to help Anthropic achieve its public benefit missio",
@@ -3909,6 +3861,18 @@
         "publishedAt": "2026-01-21T00:00:00.000Z",
         "displayTitle": "大模型消息",
         "displayDescription": "消息显示，Anthropic相关动态集中在行业变化。有新的产品或能力发布。"
+      },
+      {
+        "id": "a5d7197f058482bb",
+        "title": "Anthropic and Teach For All launch global AI training initiative for educators",
+        "description": "Anthropic is partnering with Teach For All to bring AI tools and training to educators in 63 countries. Through the AI Literacy & Creator Collective (LCC), more than 100,000 teachers and alumni across Teach For All's network—which serves mo",
+        "link": "https://www.anthropic.com/news/anthropic-teach-for-all",
+        "image": "",
+        "source": "Anthropic News Feed",
+        "category": "大模型",
+        "publishedAt": "2026-01-21T00:00:00.000Z",
+        "displayTitle": "大模型消息",
+        "displayDescription": "消息显示，Anthropic相关动态集中在人工智能。有新的产品或能力发布，出现新的合作关系。"
       },
       {
         "id": "197587893e28a7de",
@@ -3971,18 +3935,6 @@
         "displayDescription": "消息显示，相关动态集中在人工智能、安全与监管。释放出新的行业信号。"
       },
       {
-        "id": "4ba142348cb57ce2",
-        "title": "Working with the US Department of Energy to unlock the next era of scientific discovery",
-        "description": "Anthropic and the US Department of Energy (DOE) are announcing a multi-year partnership as part of the Genesis Mission— the Department’s initiative to use AI to cement America’s leadership in science. Our partnership focuses on three domain",
-        "link": "https://www.anthropic.com/news/genesis-mission-partnership",
-        "image": "",
-        "source": "Anthropic News Feed",
-        "category": "大模型",
-        "publishedAt": "2025-12-18T00:00:00.000Z",
-        "displayTitle": "大模型消息",
-        "displayDescription": "消息显示，Anthropic相关动态集中在人工智能。出现新的合作关系。"
-      },
-      {
         "id": "1e8b955d33d64fe8",
         "title": "Protecting the well-being of our users",
         "description": "People use AI for a wide variety of reasons, and for some that may include emotional support. Our Safeguards team leads our efforts to ensure that Claude handles these conversations appropriately—responding with empathy, being honest about ",
@@ -3995,16 +3947,16 @@
         "displayDescription": "消息显示，Claude相关动态集中在人工智能。释放出新的行业信号。"
       },
       {
-        "id": "5100a49da8990ab0",
-        "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
-        "description": "Today, we’re donating the Model Context Protocol (MCP) to the Agentic AI Foundation (AAIF), a directed fund under the Linux Foundation , co-founded by Anthropic, Block and OpenAI, with support from Google, Microsoft, Amazon Web Services (AW",
-        "link": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+        "id": "4ba142348cb57ce2",
+        "title": "Working with the US Department of Energy to unlock the next era of scientific discovery",
+        "description": "Anthropic and the US Department of Energy (DOE) are announcing a multi-year partnership as part of the Genesis Mission— the Department’s initiative to use AI to cement America’s leadership in science. Our partnership focuses on three domain",
+        "link": "https://www.anthropic.com/news/genesis-mission-partnership",
         "image": "",
         "source": "Anthropic News Feed",
         "category": "大模型",
-        "publishedAt": "2025-12-09T00:00:00.000Z",
+        "publishedAt": "2025-12-18T00:00:00.000Z",
         "displayTitle": "大模型消息",
-        "displayDescription": "消息显示，OpenAI、Anthropic、微软相关动态集中在人工智能、大模型、智能体。释放出新的行业信号。"
+        "displayDescription": "消息显示，Anthropic相关动态集中在人工智能。出现新的合作关系。"
       },
       {
         "id": "3c41cad209eb29eb",
@@ -4019,16 +3971,16 @@
         "displayDescription": "消息显示，Anthropic相关动态集中在人工智能、企业落地。有新的产品或能力发布，出现新的合作关系。"
       },
       {
-        "id": "95b6b65d4888659e",
-        "title": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
-        "description": "Today, we announce a significant expansion of our strategic partnership with Snowflake. The multi-year, $200 million agreement will not only make Anthropic’s Claude models available in the Snowflake platform to more than 12,600 global custo",
-        "link": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
+        "id": "5100a49da8990ab0",
+        "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
+        "description": "Today, we’re donating the Model Context Protocol (MCP) to the Agentic AI Foundation (AAIF), a directed fund under the Linux Foundation , co-founded by Anthropic, Block and OpenAI, with support from Google, Microsoft, Amazon Web Services (AW",
+        "link": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
         "image": "",
         "source": "Anthropic News Feed",
         "category": "大模型",
-        "publishedAt": "2025-12-03T00:00:00.000Z",
+        "publishedAt": "2025-12-09T00:00:00.000Z",
         "displayTitle": "大模型消息",
-        "displayDescription": "消息显示，Anthropic、Claude相关动态集中在人工智能、大模型、智能体、企业落地。有新的产品或能力发布，出现新的合作关系。其中提到的关键数字包括$200 million、$200 million。"
+        "displayDescription": "消息显示，OpenAI、Anthropic、微软相关动态集中在人工智能、大模型、智能体。释放出新的行业信号。"
       },
       {
         "id": "0336ad02088bb6f4",
@@ -4041,6 +3993,18 @@
         "publishedAt": "2025-12-03T00:00:00.000Z",
         "displayTitle": "大模型消息",
         "displayDescription": "消息显示，Anthropic、Claude相关动态集中在人工智能、大模型、智能体、开发者工具。释放出新的行业信号。"
+      },
+      {
+        "id": "95b6b65d4888659e",
+        "title": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
+        "description": "Today, we announce a significant expansion of our strategic partnership with Snowflake. The multi-year, $200 million agreement will not only make Anthropic’s Claude models available in the Snowflake platform to more than 12,600 global custo",
+        "link": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
+        "image": "",
+        "source": "Anthropic News Feed",
+        "category": "大模型",
+        "publishedAt": "2025-12-03T00:00:00.000Z",
+        "displayTitle": "大模型消息",
+        "displayDescription": "消息显示，Anthropic、Claude相关动态集中在人工智能、大模型、智能体、企业落地。有新的产品或能力发布，出现新的合作关系。其中提到的关键数字包括$200 million、$200 million。"
       },
       {
         "id": "cbc4b7e77882a9fe",
@@ -4127,7 +4091,261 @@
         "displayDescription": "消息显示，相关动态集中在人工智能、云和数据中心。有新的产品或能力发布。"
       }
     ],
+    "体育": [
+      {
+        "id": "63f6c3daff98bd2b",
+        "title": "Horner returns to F1 paddock a year after sacking",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/horner-returns-f1-paddock-year-after-sacking-6233166",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T13:15:44.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "b0f4dd1cbfedea41",
+        "title": "Real Madrid sign Dutch full-back Dumfries from Inter Milan",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/real-madrid-sign-dutch-full-back-dumfries-inter-milan-6233116",
+        "image": "https://dam.mediacorp.sg/image/upload/s--1jrNlgjW--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T110403Z_1_LYNXMPEM64053_RTROPTP_3_SOCCER-WORLDCUP-TUN-NLD.JPG?itok=Ik_ruJQO",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T11:04:03.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "1f9bbf5ff8906a89",
+        "title": "International Swimming League to pay overdue 2021 prize money, eyes comeback",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/international-swimming-league-pay-overdue-2021-prize-money-eyes-comeback-6233106",
+        "image": "https://dam.mediacorp.sg/image/upload/s--mt5TZxua--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T100702Z_1_LYNXMPEM6404P_RTROPTP_3_OLYMPICS-2024-SWIMMING.JPG?itok=JFPdLbhA",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T10:07:02.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "30b1db6b968df8f9",
+        "title": "What's in a song? The story behind the music playing at World Cup stadiums",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/whats-in-song-story-behind-music-playing-world-cup-stadiums-6233111",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T10:04:58.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "31ecedb62f18c2a0",
+        "title": "Pakistan replace Masood with Babar as test captain ahead of West Indies, England series",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/pakistan-replace-masood-babar-test-captain-ahead-west-indies-england-series-6233036",
+        "image": "https://dam.mediacorp.sg/image/upload/s--iR3hDX4v--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T075747Z_1_LYNXMPEM6404A_RTROPTP_3_CRICKET-CHAMPIONSTROPHY-PAK-NZL.JPG?itok=6UUlSHw9",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T07:57:47.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "1446e212a6272267",
+        "title": "Davis-Woodhall opens up on mental health struggles after Eugene victory",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/davis-woodhall-opens-up-mental-health-struggles-after-eugene-victory-6233016",
+        "image": "https://dam.mediacorp.sg/image/upload/s--oajgujN9--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T070928Z_1_LYNXMPEM6403P_RTROPTP_3_ATHLETICS.JPG?itok=3X-Dh3lk",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T07:09:28.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "f3fc49dacb424391",
+        "title": "Pipe dreams: Bangladesh surfers chase waves at Asian Games",
+        "description": "The surfers from Cox's Bazar in Bangladesh are hoping to carve out a place for the sport in a country obsessed with cricket and football.",
+        "link": "https://www.channelnewsasia.com/sport/bangladesh-surfing-asian-games-coxs-bazar-6232916",
+        "image": "https://dam.mediacorp.sg/image/upload/s--zp0zMBYq--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/05/000_b8dp6nr.jpg?itok=UMzgpIN7",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T05:42:56.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。监管和法律风险受到关注。"
+      },
+      {
+        "id": "013275bfe9643084",
+        "title": "In soccer-crazy Brazil, streaming upstart pulls World Cup viewers from TV to YouTube",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/in-soccer-crazy-brazil-streaming-upstart-pulls-world-cup-viewers-tv-youtube-6232926",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T04:05:08.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "880853ea9beb8a26",
+        "title": "No complaints but open wounds for Paraguay coach",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/no-complaints-open-wounds-paraguay-coach-6232831",
+        "image": "https://dam.mediacorp.sg/image/upload/s--cyHm9OhP--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T015753Z_1_LYNXMPEM6401U_RTROPTP_3_SOCCER-WORLDCUP-PRY-FRA.JPG?itok=mddAPERt",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T01:57:53.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "f23a78f748e4227b",
+        "title": "England ready to write their own chapter in iconic match, says Tuchel",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/england-ready-write-their-own-chapter-in-iconic-match-says-tuchel-6232826",
+        "image": "https://dam.mediacorp.sg/image/upload/s--qG2L1YNg--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T013557Z_1_LYNXMPEM6401J_RTROPTP_3_SOCCER-WORLDCUP-MEX-ENG-PREVIEW.JPG?itok=HihT2D97",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T01:35:57.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "6bfc4be2d6bb8bbc",
+        "title": "Deschamps keeps his cool as France survive Paraguay's provocation",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/deschamps-keeps-his-cool-france-survive-paraguays-provocation-6232801",
+        "image": "https://dam.mediacorp.sg/image/upload/s--EyDhgpUr--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T010237Z_1_LYNXMPEM64014_RTROPTP_3_SOCCER-WORLDCUP-PRY-FRA.JPG?itok=Q9HaYt9r",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T01:02:37.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "c70ff279d9775397",
+        "title": "Ancelotti hopeful of Raphinha return as Brazil plot Haaland shutdown",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/ancelotti-hopeful-raphinha-return-brazil-plot-haaland-shutdown-6232786",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T00:18:32.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "be852f6c508a8a0c",
+        "title": "France survive Paraguay's prickly test but warning lights flash",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/france-survive-paraguays-prickly-test-warning-lights-flash-6232781",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-05T00:13:33.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "4d33108ae2102b0d",
+        "title": "Deschamps feared Paraguay would 'chop down' Mbappe as France advance",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/deschamps-feared-paraguay-would-chop-down-mbappe-france-advance-6232746",
+        "image": "https://dam.mediacorp.sg/image/upload/s--knapxW5P--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-04T233553Z_1_LYNXMPEM630R5_RTROPTP_3_SOCCER-WORLDCUP-PRY-FRA.JPG?itok=PigsLNtL",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-04T23:35:53.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "3b25f108e20eaa7b",
+        "title": "France battle past Paraguay to set up Morocco World Cup showdown",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/france-paraguay-world-cup-morocco-6232696",
+        "image": "https://dam.mediacorp.sg/image/upload/s--wOf_p3oj--/c_crop,h_562,w_1000,x_0,y_103/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Paraguay_France_WCup_Soccer_16638.jpg?itok=7xv895HW",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-04T23:13:00.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "4d56ce87dbc36de3",
+        "title": "Mbappe keeps cool as France survive furnace against Paraguay",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/mbappe-keeps-cool-france-survive-furnace-against-paraguay-6232701",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-04T23:11:07.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "e1549b54ed481ae3",
+        "title": "Coach Aguirre says selfless Mexico ready for England test",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/coach-aguirre-says-selfless-mexico-ready-england-test-6232666",
+        "image": "https://dam.mediacorp.sg/image/upload/s--2RAeRL7L--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-04T223501Z_1_LYNXMPEM630PY_RTROPTP_3_SOCCER-WORLDCUP-MEX-ENG-PREVIEW.JPG?itok=ew1GX8fe",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-04T22:35:01.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "bf97b04e66ba17c4",
+        "title": "Canada tell fans 'the journey is only just beginning' after Morocco defeat",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/canada-tell-fans-journey-only-just-beginning-after-morocco-defeat-6232636",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-04T21:30:47.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "63d2a12e395b0010",
+        "title": "A year after Wimbledon heartache, Dimitrov sees off Berrettini for return to fourth round",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/year-after-wimbledon-heartache-dimitrov-sees-berrettini-return-fourth-round-6232621",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-04T21:22:31.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "219a27e5c230cfc4",
+        "title": "Marsch proud despite Canada's World Cup exit, rues Davies absence",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/marsch-proud-despite-canadas-world-cup-exit-rues-davies-absence-6232606",
+        "image": "https://dam.mediacorp.sg/image/upload/s--ZtjNllMJ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-04T210445Z_1_LYNXMPEM630NV_RTROPTP_3_SOCCER-WORLDCUP-CAN-MAR-PREVIEW.JPG?itok=x5H82Z2_",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-04T21:04:45.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      }
+    ],
     "国际要闻": [
+      {
+        "id": "0b273fd40bbb33d0",
+        "title": "泰勒絲大婚不收禮 英國倒有人靠隨禮做試管嬰兒",
+        "description": "雖然泰勒絲和凱爾西奉行「不收禮」政策，但如今請柬上常見這樣的說法：「你們的到場就是最好的禮物，但如果你想送我們點什麼，請捐入我們的蜜月基金。」",
+        "link": "https://www.bbc.com/zhongwen/articles/c982r8ej49zo/trad?at_medium=RSS&at_campaign=rss",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed09/live/eee79ae0-76da-11f1-b976-0b9c15b0ccfc.jpg",
+        "source": "BBC中文",
+        "category": "国际要闻",
+        "publishedAt": "2026-07-05T11:10:40.000Z",
+        "displayTitle": "泰勒絲大婚不收禮 英國倒有人靠隨禮做試管嬰兒",
+        "displayDescription": "雖然泰勒絲和凱爾西奉行「不收禮」政策，但如今請柬上常見這樣的說法：「你們的到場就是最好的禮物，但如果你想送我們點什麼，請捐入我們的蜜月基金。」"
+      },
       {
         "id": "7db3a429c286c02e",
         "title": "中國地下教會牧師金明日「在中美元首交流後」獲釋",
@@ -4141,6 +4359,18 @@
         "displayDescription": "美國對華援助協會表示，北京錫安教會牧師金明日被執法部門拘禁八個月後獲釋，並送抵洛杉磯。"
       },
       {
+        "id": "75d1871f978f08f7",
+        "title": "OPEC+ approves further oil output increase as Hormuz exports start to recover",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/world/oil-supply-increase-opec-exports-hormuz-6233046",
+        "image": "https://dam.mediacorp.sg/image/upload/s--NzUqjmx9--/c_crop,h_449,w_799,x_1,y_31/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-02T013010Z_3_LYNXMPEM61037_RTROPTP_3_CANADA-OIL.JPG?itok=k6QnB9gu",
+        "source": "CNA World",
+        "category": "国际要闻",
+        "publishedAt": "2026-07-05T08:07:00.000Z",
+        "displayTitle": "国际要闻消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
         "id": "e69b56d428adb959",
         "title": "泰勒絲與凱爾西紐約盛大完婚——重溫一天經過",
         "description": "美國流行樂壇超級巨星泰勒絲與美式足球員凱爾西，在紐約市麥迪遜廣場花園一場星光熠熠的慶典上，正式許下山盟海誓。BBC記者庫什（Floyd Cush）全程見證了紐約市的氣氛。",
@@ -4151,6 +4381,18 @@
         "publishedAt": "2026-07-05T08:00:21.000Z",
         "displayTitle": "泰勒絲與凱爾西紐約盛大完婚——重溫一天經過",
         "displayDescription": "美國流行樂壇超級巨星泰勒絲與美式足球員凱爾西，在紐約市麥迪遜廣場花園一場星光熠熠的慶典上，正式許下山盟海誓。BBC記者庫什（Floyd Cush）全程見證了紐約市的氣氛。"
+      },
+      {
+        "id": "183db13ce112d71a",
+        "title": "China, Russia to hold joint naval drills",
+        "description": "The drills come about two months after Russia's President Vladimir Putin visited China.",
+        "link": "https://www.channelnewsasia.com/world/china-russia-hold-joint-navy-drills-6233026",
+        "image": "https://dam.mediacorp.sg/image/upload/s--BKe3N1fr--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/05/2026-07-05t070844z_354003146_rc262jab0x83_rtrmadp_3_china-russia-military_1.jpg?itok=bnsFWeIx",
+        "source": "CNA World",
+        "category": "国际要闻",
+        "publishedAt": "2026-07-05T07:49:57.000Z",
+        "displayTitle": "国际要闻消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       },
       {
         "id": "931cfe28a04ac419",
@@ -4441,18 +4683,6 @@
         "displayDescription": "日本京都府八幡市35歲女市長川田祥子，即將成為日本史上首位在任休產假的市長。她計劃產前產後各休兩個月，由副市長代理職務。此舉卻引發當地社群激辯，凸顯日本女性從政與育兒的制度困境。"
       },
       {
-        "id": "e21df4aa37923e9a",
-        "title": "乙女遊戲：在「2.5次元」中，談一場模糊虛擬與現實的戀愛",
-        "description": "中國乙女遊戲基本都已能陪玩家工作、學習，甚至睡覺；玩家還可以給角色發微信消息、瀏覽他們的微信朋友圈。這些設計都在不斷強化一種體驗：讓「紙片人老公」盡可能地進入玩家的現實生活。",
-        "link": "https://www.bbc.com/zhongwen/articles/c3ry32ypn7zo/trad?at_medium=RSS&at_campaign=rss",
-        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/64f3/live/71bf3a50-76b2-11f1-925a-557464d48d36.jpg",
-        "source": "BBC中文",
-        "category": "国际要闻",
-        "publishedAt": "2026-07-03T13:14:32.000Z",
-        "displayTitle": "乙女遊戲：在「2.5次元」中，談一場模糊虛擬與現實的戀愛",
-        "displayDescription": "中國乙女遊戲基本都已能陪玩家工作、學習，甚至睡覺；玩家還可以給角色發微信消息、瀏覽他們的微信朋友圈。這些設計都在不斷強化一種體驗：讓「紙片人老公」盡可能地進入玩家的現實生活。"
-      },
-      {
         "id": "bcf9f0bc25583c73",
         "title": "「韓國足球已死！」世界盃敗戰後 憤怒的球迷要求徹底改革",
         "description": "世界盃提前出局後，球迷怒斥「韓國足球已死」，痛批該國足協用人唯親、缺乏透明與長期策略。總統李在明同聲要求徹底改革。",
@@ -4487,18 +4717,6 @@
         "publishedAt": "2026-07-03T11:09:57.000Z",
         "displayTitle": "美國建國250週年：五個鮮為人知的中美關係歷史細節",
         "displayDescription": "2026年7月4日，美國建國250週年。250年的歷史，足夠兩個國家從陌生人變成好友、對手，再到如今演變成複雜且難以定義的關係。BBC中文從歷史中截取五個與中國相關，卻鮮為人知的交匯瞬間，回顧兩國錯綜複雜的過往。"
-      },
-      {
-        "id": "b09197903f43ee01",
-        "title": "Climate change behind sweltering World Cup, scientists say",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sustainability/climate-change-behind-sweltering-world-cup-scientists-say-6230461",
-        "image": "https://dam.mediacorp.sg/image/upload/s--icz4SZQ_--/c_crop,h_449,w_799,x_1,y_66/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-03T110347Z_1_LYNXMPEM620M8_RTROPTP_3_SOCCER-WORLDCUP-DAILY-LIFE.JPG?itok=A0akPmDG",
-        "source": "CNA World",
-        "category": "国际要闻",
-        "publishedAt": "2026-07-03T11:03:00.000Z",
-        "displayTitle": "国际要闻消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       },
       {
         "id": "2537468d08bf213e",
@@ -4621,236 +4839,6 @@
         "displayDescription": "你可以從這裡下載並打印免費的2026世界盃賽程海報，全面追蹤這項全球最大足球盛事的每一場賽程與比賽結果。"
       }
     ],
-    "体育": [
-      {
-        "id": "1f9bbf5ff8906a89",
-        "title": "International Swimming League to pay overdue 2021 prize money, eyes comeback",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/international-swimming-league-pay-overdue-2021-prize-money-eyes-comeback-6233106",
-        "image": "https://dam.mediacorp.sg/image/upload/s--mt5TZxua--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T100702Z_1_LYNXMPEM6404P_RTROPTP_3_OLYMPICS-2024-SWIMMING.JPG?itok=JFPdLbhA",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-05T10:07:02.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "30b1db6b968df8f9",
-        "title": "What's in a song? The story behind the music playing at World Cup stadiums",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/whats-in-song-story-behind-music-playing-world-cup-stadiums-6233111",
-        "image": "https://dam.mediacorp.sg/image/upload/s--l6T-l1p3--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T100458Z_1_LYNXMPEM6404O_RTROPTP_3_SOCCER-WORLDCUP-COD-UZB.JPG?itok=W25X38gv",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-05T10:04:58.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "31ecedb62f18c2a0",
-        "title": "Pakistan replace Masood with Babar as test captain ahead of West Indies, England series",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/pakistan-replace-masood-babar-test-captain-ahead-west-indies-england-series-6233036",
-        "image": "https://dam.mediacorp.sg/image/upload/s--iR3hDX4v--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T075747Z_1_LYNXMPEM6404A_RTROPTP_3_CRICKET-CHAMPIONSTROPHY-PAK-NZL.JPG?itok=6UUlSHw9",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-05T07:57:47.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "1446e212a6272267",
-        "title": "Davis-Woodhall opens up on mental health struggles after Eugene victory",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/davis-woodhall-opens-up-mental-health-struggles-after-eugene-victory-6233016",
-        "image": "https://dam.mediacorp.sg/image/upload/s--oajgujN9--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T070928Z_1_LYNXMPEM6403P_RTROPTP_3_ATHLETICS.JPG?itok=3X-Dh3lk",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-05T07:09:28.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "013275bfe9643084",
-        "title": "In soccer-crazy Brazil, streaming upstart pulls World Cup viewers from TV to YouTube",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/in-soccer-crazy-brazil-streaming-upstart-pulls-world-cup-viewers-tv-youtube-6232926",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-05T04:05:08.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "880853ea9beb8a26",
-        "title": "No complaints but open wounds for Paraguay coach",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/no-complaints-open-wounds-paraguay-coach-6232831",
-        "image": "https://dam.mediacorp.sg/image/upload/s--cyHm9OhP--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T015753Z_1_LYNXMPEM6401U_RTROPTP_3_SOCCER-WORLDCUP-PRY-FRA.JPG?itok=mddAPERt",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-05T01:57:53.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "f23a78f748e4227b",
-        "title": "England ready to write their own chapter in iconic match, says Tuchel",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/england-ready-write-their-own-chapter-in-iconic-match-says-tuchel-6232826",
-        "image": "https://dam.mediacorp.sg/image/upload/s--qG2L1YNg--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T013557Z_1_LYNXMPEM6401J_RTROPTP_3_SOCCER-WORLDCUP-MEX-ENG-PREVIEW.JPG?itok=HihT2D97",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-05T01:35:57.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "6bfc4be2d6bb8bbc",
-        "title": "Deschamps keeps his cool as France survive Paraguay's provocation",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/deschamps-keeps-his-cool-france-survive-paraguays-provocation-6232801",
-        "image": "https://dam.mediacorp.sg/image/upload/s--EyDhgpUr--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-05T010237Z_1_LYNXMPEM64014_RTROPTP_3_SOCCER-WORLDCUP-PRY-FRA.JPG?itok=Q9HaYt9r",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-05T01:02:37.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "c70ff279d9775397",
-        "title": "Ancelotti hopeful of Raphinha return as Brazil plot Haaland shutdown",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/ancelotti-hopeful-raphinha-return-brazil-plot-haaland-shutdown-6232786",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-05T00:18:32.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "be852f6c508a8a0c",
-        "title": "France survive Paraguay's prickly test but warning lights flash",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/france-survive-paraguays-prickly-test-warning-lights-flash-6232781",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-05T00:13:33.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "4d33108ae2102b0d",
-        "title": "Deschamps feared Paraguay would 'chop down' Mbappe as France advance",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/deschamps-feared-paraguay-would-chop-down-mbappe-france-advance-6232746",
-        "image": "https://dam.mediacorp.sg/image/upload/s--knapxW5P--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-04T233553Z_1_LYNXMPEM630R5_RTROPTP_3_SOCCER-WORLDCUP-PRY-FRA.JPG?itok=PigsLNtL",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-04T23:35:53.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "3b25f108e20eaa7b",
-        "title": "France battle past Paraguay to set up Morocco World Cup showdown",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/france-paraguay-world-cup-morocco-6232696",
-        "image": "https://dam.mediacorp.sg/image/upload/s--wOf_p3oj--/c_crop,h_562,w_1000,x_0,y_103/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Paraguay_France_WCup_Soccer_16638.jpg?itok=7xv895HW",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-04T23:13:00.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "4d56ce87dbc36de3",
-        "title": "Mbappe keeps cool as France survive furnace against Paraguay",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/mbappe-keeps-cool-france-survive-furnace-against-paraguay-6232701",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-04T23:11:07.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "e1549b54ed481ae3",
-        "title": "Coach Aguirre says selfless Mexico ready for England test",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/coach-aguirre-says-selfless-mexico-ready-england-test-6232666",
-        "image": "https://dam.mediacorp.sg/image/upload/s--2RAeRL7L--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-04T223501Z_1_LYNXMPEM630PY_RTROPTP_3_SOCCER-WORLDCUP-MEX-ENG-PREVIEW.JPG?itok=ew1GX8fe",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-04T22:35:01.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "bf97b04e66ba17c4",
-        "title": "Canada tell fans 'the journey is only just beginning' after Morocco defeat",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/canada-tell-fans-journey-only-just-beginning-after-morocco-defeat-6232636",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-04T21:30:47.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "63d2a12e395b0010",
-        "title": "A year after Wimbledon heartache, Dimitrov sees off Berrettini for return to fourth round",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/year-after-wimbledon-heartache-dimitrov-sees-berrettini-return-fourth-round-6232621",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-04T21:22:31.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "219a27e5c230cfc4",
-        "title": "Marsch proud despite Canada's World Cup exit, rues Davies absence",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/marsch-proud-despite-canadas-world-cup-exit-rues-davies-absence-6232606",
-        "image": "https://dam.mediacorp.sg/image/upload/s--ZtjNllMJ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-04T210445Z_1_LYNXMPEM630NV_RTROPTP_3_SOCCER-WORLDCUP-CAN-MAR-PREVIEW.JPG?itok=x5H82Z2_",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-04T21:04:45.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "30d68134cab93d58",
-        "title": "Keys ticks off bucket list Centre Court appearance",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/keys-ticks-bucket-list-centre-court-appearance-6232586",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-04T20:57:08.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "87f53498c234f7d2",
-        "title": "Ounahi repays faith in new role for Morocco with goals",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/ounahi-repays-faith-in-new-role-morocco-goals-6232591",
-        "image": "https://dam.mediacorp.sg/image/upload/s--zHcXTfaE--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-04T205435Z_1_LYNXMPEM630NN_RTROPTP_3_SOCCER-WORLDCUP-CAN-MAR.JPG?itok=mOQS3zLO",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-04T20:54:35.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      }
-    ],
     "亚太": [
       {
         "id": "2f94ca5f5c0a70eb",
@@ -4861,18 +4849,6 @@
         "source": "CNA Asia",
         "category": "亚太",
         "publishedAt": "2026-07-05T09:42:51.000Z",
-        "displayTitle": "亚太消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "89b94b5bfa6e9944",
-        "title": "China, Russia to hold joint naval drills",
-        "description": "The drills come about two months after Russia's President Vladimir Putin visited China.",
-        "link": "https://www.channelnewsasia.com/world/china-russia-hold-joint-navy-drills-6233026",
-        "image": "https://dam.mediacorp.sg/image/upload/s--BKe3N1fr--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/05/2026-07-05t070844z_354003146_rc262jab0x83_rtrmadp_3_china-russia-military_1.jpg?itok=bnsFWeIx",
-        "source": "CNA Asia",
-        "category": "亚太",
-        "publishedAt": "2026-07-05T07:49:57.000Z",
         "displayTitle": "亚太消息",
         "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       },
@@ -4899,18 +4875,6 @@
         "publishedAt": "2026-07-05T05:53:53.000Z",
         "displayTitle": "亚太消息",
         "displayDescription": "消息显示，相关动态集中在行业变化。有新的产品或能力发布。"
-      },
-      {
-        "id": "09c733acf6103d16",
-        "title": "Pipe dreams: Bangladesh surfers chase waves at Asian Games",
-        "description": "The surfers from Cox's Bazar in Bangladesh are hoping to carve out a place for the sport in a country obsessed with cricket and football.",
-        "link": "https://www.channelnewsasia.com/sport/bangladesh-surfing-asian-games-coxs-bazar-6232916",
-        "image": "https://dam.mediacorp.sg/image/upload/s--zp0zMBYq--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/05/000_b8dp6nr.jpg?itok=UMzgpIN7",
-        "source": "CNA Asia",
-        "category": "亚太",
-        "publishedAt": "2026-07-05T05:42:56.000Z",
-        "displayTitle": "亚太消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。监管和法律风险受到关注。"
       },
       {
         "id": "eb738b9b0045fc29",
@@ -4959,18 +4923,6 @@
         "publishedAt": "2026-07-04T02:19:50.000Z",
         "displayTitle": "亚太消息",
         "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "87d2be8d8d598e32",
-        "title": "India's Modi to visit Indonesia, Australia, New Zealand next week",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/asia/india-pm-modi-visit-indonesia-australia-new-zealand-next-week-6230676",
-        "image": "https://dam.mediacorp.sg/image/upload/s--GvBODQZy--/c_crop,h_450,w_800,x_0,y_0/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-05-20T133229Z_1_LYNXMPEM4J19Z_RTROPTP_3_ITALY-INDIA.JPG?itok=ZZxqG0Vu",
-        "source": "CNA Asia",
-        "category": "亚太",
-        "publishedAt": "2026-07-03T13:11:26.000Z",
-        "displayTitle": "亚太消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       }
     ],
     "财经": [
@@ -4985,18 +4937,6 @@
         "publishedAt": "2026-07-05T09:23:12.000Z",
         "displayTitle": "财经消息",
         "displayDescription": "消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。"
-      },
-      {
-        "id": "c29748d3d5006941",
-        "title": "OPEC+ set to clear another oil output increase: Sources",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/world/oil-supply-increase-opec-exports-6233046",
-        "image": "https://dam.mediacorp.sg/image/upload/s--NzUqjmx9--/c_crop,h_449,w_799,x_1,y_31/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-02T013010Z_3_LYNXMPEM61037_RTROPTP_3_CANADA-OIL.JPG?itok=k6QnB9gu",
-        "source": "CNA Business",
-        "category": "财经",
-        "publishedAt": "2026-07-05T08:07:00.000Z",
-        "displayTitle": "财经消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       },
       {
         "id": "0b1f1aade3e0a8ba",
@@ -5057,18 +4997,6 @@
         "publishedAt": "2026-07-03T14:59:13.000Z",
         "displayTitle": "财经消息",
         "displayDescription": "消息显示，相关动态集中在机器人。释放出新的行业信号。"
-      },
-      {
-        "id": "1bee348864ad9c68",
-        "title": "AI hiring outpaces overall IT recruitment in India, report shows",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/business/ai-hiring-outpaces-overall-it-recruitment-in-india-report-shows-6230576",
-        "image": "https://dam.mediacorp.sg/image/upload/s--rLMc115f--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-03T121607Z_1_LYNXMPEM620OK_RTROPTP_3_INDIA-HIRING-AI.JPG?itok=iDiLA7Zv",
-        "source": "CNA Business",
-        "category": "财经",
-        "publishedAt": "2026-07-03T12:16:54.000Z",
-        "displayTitle": "财经消息",
-        "displayDescription": "消息显示，相关动态集中在人工智能。释放出新的行业信号。"
       }
     ],
     "科技商业": [
@@ -5351,14 +5279,14 @@
       {
         "id": "50f3dbfba126982d",
         "title": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
-        "description": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。 7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。 当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科技",
+        "description": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。 7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。 当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策��，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科",
         "link": "https://36kr.com/p/3880770270425089?f=rss",
         "image": "",
         "source": "36氪综合资讯",
         "category": "科技商业",
         "publishedAt": "2026-07-04T03:25:22.000Z",
         "displayTitle": "对话傲鲨创始人徐振华：当科幻机甲成为户外装备，外骨骼如何重新定义人机关系？",
-        "displayDescription": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。 7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。 当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科技"
+        "displayDescription": "《流浪地球2》与游戏《死亡搁浅》中，主角身穿外骨骼行走的人类未来图景，正在成为户外爱好者的真实装备。 7月4日，阳澄湖半岛度假区，十几个人身穿“机甲”在湖畔徒步。他们穿的是傲鲨VIATRIX增程动力外骨骼机器人，走几步后很快步伐变得轻盈，这是外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使6公里的徒步体验更像一次悠闲的City walk。 当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策��，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科"
       },
       {
         "id": "933e0ac0d4becec2",
@@ -5442,6 +5370,9 @@
       "category": "综合",
       "itemIds": [
         "db2d4d5bfc75e2bf",
+        "63f6c3daff98bd2b",
+        "0b273fd40bbb33d0",
+        "b0f4dd1cbfedea41",
         "7db3a429c286c02e",
         "1f9bbf5ff8906a89",
         "30b1db6b968df8f9",
@@ -5457,13 +5388,13 @@
         "9904f1d05d919aae",
         "a05f536f9c5b12e3",
         "f03fa3c2990504db",
-        "c29748d3d5006941",
+        "75d1871f978f08f7",
         "d9e136878d0671ae",
         "9c7f14713f43cef5",
         "e69b56d428adb959",
         "31ecedb62f18c2a0",
         "10ab2fed73b22d10",
-        "89b94b5bfa6e9944",
+        "183db13ce112d71a",
         "931cfe28a04ac419",
         "1446e212a6272267",
         "11fcfa507d9c1d9c",
@@ -5474,21 +5405,18 @@
         "4f0b6f0e5d9197f0",
         "7ccfd539a7fea93c",
         "aabb160dcb949105",
-        "09c733acf6103d16",
+        "f3fc49dacb424391",
         "dab84e930255c97e",
         "622ff351d9b9724b",
         "2804c7b3d9387ae9",
         "06014cb9ff245238",
-        "a45578bbf2ad3c47",
-        "9da8f499397243a7",
-        "013275bfe9643084",
-        "eb738b9b0045fc29"
+        "a45578bbf2ad3c47"
       ],
       "count": 42,
-      "durationHint": 1538,
-      "script": "人工智能公司Anthropic今天发布了一项对其负责任扩展政策的重要更新。这项政策是该公司用于防范前沿人工智能系统可能带来灾难性风险的治理框架。根据官方消息，此次更新引入了更加灵活和细致的风险管控机制，旨在适应快速演进的大模型技术生态。Anthropic表示，新版政策将更注重实际应用场景中的风险评估，而非单纯依赖模型参数规模等静态指标。这一调整反映出业界对AI安全治理正从粗放式管理转向精细化运作。\n国际关系方面传来一则引人关注的消息。据美国对华援助协会披露，北京锡安教会牧师金明日在被执法部门拘禁八个月后，已于近日获释，并被送抵美国洛杉矶。金明日是一名长期在中国从事地下教会活动的美籍牧师，他的案件此前曾引发中美两国宗教自由议题的讨论。值得注意的是，他的获释时间点恰好在中美元首近期进行交流之后，外界普遍认为这一进展与两国高层沟通存在关联。目前，中方尚未就此事发布官方声明，但这一动向已被视为中美关系在人文交流领域可能出现的积极信号。\n体育赛场上同样有值得关注的消息。国际游泳联盟宣布，将补发2021赛季拖欠的奖金，并计划重启赛事运营。该联盟此前因财务问题陷入停滞，导致众多顶尖游泳运动员未能按时获得应得的比赛报酬。此次补发奖金不仅是对运动员权益的保障，也被视为该联盟试图重返国际泳坛竞争格局的重要一步。与此同时，世界杯赛场上的音乐文化也成为热议话题。有媒体深入挖掘了本届世界杯各场馆播放歌曲背后的故事，这些精心挑选的曲目不仅烘托了比赛氛围，更承载着主办国的文化符号与历史记忆。从传统民谣到现代流行乐，每一首歌曲的选择都经过反复考量，旨在为全球观众呈现一场超越竞技本身的文化盛宴。\n尼泊尔总理巴伦德拉·沙阿上任已满一百天。这位三十六岁、从说唱歌手转型为政治人物的领导人自今年三月就职以来，一直保持着异常低调的行事风格。在执政百日之际，他并未举行大规模庆祝活动或发表长篇讲话，而是以快速推进政策调整和有限的公开表态来标记这一节点。外界分析认为，这种“少说多做”的姿态，既是对尼泊尔传统政治生态的一种有意疏离，也反映出新政府试图在复杂的党派博弈中，通过务实行动而非高调宣传来巩固执政基础。\n在东北亚，韩国政府正计划利用半导体产业带来的巨额收益，设立一只“未来应对基金”，以推动经济增长并缓解社会不平等。一位高级官员透露，该基金的资金将主要来源于芯片行业的超额利润，旨在为重大国家投资项目提供融资，并增强国家的长期竞争力。这一举措的背景是，韩国半导体出口持续强劲，为财政创造了意外红利，而政府希望将这种短期产业景气转化为支撑基础设施、技术研发和社会福利的长期资本，从而在应对人口老龄化、地区发展失衡等结构性挑战时拥有更充足的财政工具。\n国内方面，医药企业益盛药业发布公告称，已于七月一日收到吉林省药品监督管理局出具的《采取风险控制措施通知书》。由于公司产品补金片在生产过程中被发现存在严重缺陷，监管部门决定暂停该公司生脉注射液和补金片两条生产线的生产与销售。根据公告，2025年度，涉事的生脉注射液销售收入占公司总营收的7.65%，而补金片的占比仅为0.01%。目前，益盛药业已启动对补金片的三级召回程序，并强调尚未收到任何与涉事产品相关的不良安全事件报告。公司表示将积极配合监管部门进行整改，以尽快消除质量隐患。\n与此同时，另一家上市公司奥来德发布了2026年半年度业绩预告，预计归属于上市公司股东的净利润将达到1.6亿元至1.9亿元，与去年同期相比，增幅高达492.49%至603.58%。公司方面解释，业绩爆发式增长的主要原因是其设备业务的核心竞争壁垒持续巩固，产品在技术上的领先优势和市场卡位能力得到了充分体现，从而带动相关业务收入大幅增长，盈利能力显著提升。这一数据反映出，在部分行业面临监管收紧和市场调整的同时，具备核心技术能力的企业依然能够在细分领域实现突破性增长。\n贝斯特公司发布公告称，其股票在连续三个交易日内收盘价格涨幅偏离值累计超过30%，已构成股票交易异常波动。公司注意到市场对人形机器人等热点概念关注度较高，但需要明确的是，公司的人形机器人零部件业务目前仍处于样品阶段。2026年上半年，相关样品实现的营业收入仅为22.30万元，占公司总营收的比重约为0.03%，业务规模非常小，对公司整体业绩不产生重大影响，未来收益也存在重大不确定性。这一表态旨在提醒投资者理性看待市场热点，避免盲目跟风。\n与此同时，多家上市公司发布了2026年半年度业绩预告，整体表现亮眼。浙富控股预计，2026年上半年归属于上市公司股东的净利润将达到12.50亿元至14.50亿元，与上年同期相比增长120.78%至156.11%。公司方面表示，业绩大幅增长的主要原因是危废处置及再生资源综合利用业务保持稳健运营，产品销量稳步攀升，带动营业收入和盈利水平较去年同期实现较大幅度增长。\n招商轮船也发布了业绩预告，预计2026年上半年实现归属于上市公司股东的净利润66亿元至73亿元，同比增加214%至248%。公司分析指出，受供需结构变化及地缘局势等多种因素影响，国际油轮运输市场进入了超级景气周期，报告期内部分航线的现货运费率甚至创出历史新高。同时，国际干散货市场受益于供需持续改善，BDI指数稳步回升。在核心业务板块中，油轮船队承接了第一季度的优秀表现，第二季度克服了海峡封锁后油轮供过于求的阶段性困难，抓住市场机会再次取得良好业绩，环比一季度预计实现利润贡献增长50%左右。此外，公司的干散货板块表现同样出色，第二季度也贡献了可观的利润。\n永鼎股份同样发布了业绩预增公告，预计2026年上半年实现归属于上市公司股东的净利润5亿元至7亿元，与上年同期相比增加57%至120%。公司方面表示，业绩增长主要得益于主营业务持续向好，具体原因将在后续的正式报告中详细披露。\n从这些业绩预告来看，不同行业的企业在2026年上半年均展现出较强的增长动力。浙富控股受益于环保和资源循环利用业务的稳定发展，招商轮船则抓住了国际航运市场的超级景气周期，而永鼎股份也在自身主营业务上取得了显著进展。这些数据反映出，尽管宏观经济环境存在不确定性，但部分行业和企业通过精准把握市场机遇、优化运营管理，依然实现了可观的业绩增长。投资者在关注市场热点概念的同时，也应更多关注企业基本面和实际业绩表现，以做出更为理性的投资决策。\n天山铝业今天发布业绩预告，预计2026年上半年实现归母净利润42亿元，同比增长101.52%。公司表示，受益于全球铝行业供需变化，电解铝产品销售价格明显上涨。同时，公司140万吨电解铝绿色低碳能效提升项目按计划推进，量价协同效应叠加一体化成本管控成效，带动电解铝板块盈利大幅增长。不过，报告期内，公司下属全资子公司新疆生产建设兵团第八师天山铝业有限公司上调了所得税率，影响了当期所得税费用。此外，下游铝深加工板块中，高纯铝受电解电容器行业需求增加等积极因素影响，表现也较为突出。\n同样在今天发布业绩预告的还有东方盛虹。公司预计2026年上半年实现归母净利润42亿元至50亿元，同比增长987.39%到1194.51%。东方盛虹分析说，上半年石化化工行业供需格局改善，景气度有所提升。地缘局势紧张导致国际原油价格中枢上移，成本抬升和原料供应偏紧共同推动石化产品价格整体上升，公司主要产品价差扩大，整体盈利能力因此提升。\n再看鸿海集团，公司今天公布6月销售额为8218亿元新台币，同比增长52.1%。鸿海此前表示，第二季度业绩远超预期，实现显著增长。虽然第二季度是ICT行业的传统淡季，但预计AI机架将继续保持增长趋势。\n在股东减持方面，仕佳光子发布公告称，持股5%以上股东鹤壁投资集团基于自身经营需求，计划从公告披露之日起15个交易日后的3个月内，通过集中竞价方式减持不超过452万股，即不超过公司总股本的1%。截至公告日，鹤壁投资集团持有仕佳光子3000万股，占总股本的6.64%。\n从这些企业的最新动态来看，天山铝业和东方盛虹的业绩大幅预增，反映出上游资源品和化工行业在供需改善和价格上行背景下的强劲表现。天山铝业的电解铝业务受益于全球铝行业供需变化和绿色低碳项目推进，而东方盛虹则得益于石化行业景气度回升和原油价格中枢上移带来的价差扩大。鸿海集团的销售额增长则凸显了AI相关产品对ICT行业的拉动作用，尤其是在传统淡季仍能保持高增长。仕佳光子的股东减持计划，则体现了部分股东基于自身资金需求的调整，但减持比例较小，对市场影响有限。整体来看，这些公司的最新公告，从不同侧面展示了当前经济环境下企业盈利分化和行业趋势的演变。\n据路透社援引消息人士报道，石油输出国组织及其盟友，也就是OPEC+，已基本达成共识，将在近期批准新一轮的增产计划。这一决定意味着全球原油供应量将进一步增加，可能对国际油价产生下行压力。目前，OPEC+内部仍在就具体的增产幅度和分配方案进行最后磋商，但消息人士透露，各方立场正趋于一致，正式宣布增产的可能性很高。\n将目光转向资本市场。最新数据显示，南向资金近期持续加仓港股，上周共有16只个股的南向资金持股量环比增长超过10%。其中，云知声的增幅最为显著，达到66.22%，位居首位。紧随其后的是壁仞科技、东鹏饮料和英矽智能，它们的持股量环比增幅分别为44.22%、34.2%和26.62%。这一数据反映出内地资金对部分科技和消费类港股的兴趣正在升温。\n在国内生物医药领域，生物股份发布了亮眼的半年度业绩预告。公司预计2026年上半年实现归属于上市公司股东的净利润在9100万元到1.09亿元之间，与去年同期相比，增幅预计达到50.6%至80.39%。公司方面表示，业绩大幅增长主要得益于反刍动物和宠物动保业务的强劲表现，以及产业并购带来的协同效应开始显现。同时，公司持续推进数字化和精益化管理，有效降低了销售、管理及制造成本，研发成果转化率也在提升，叠加新产品上市等多重因素，共同推动了经营业绩的显著改善。\n最后来看一条国际娱乐消息。美国流行乐坛巨星泰勒·斯威夫特与美式足球明星特拉维斯·凯尔西，在纽约市地标性建筑麦迪逊广场花园举行了一场盛大的婚礼，正式结为夫妻。据BBC记者现场报道，这场星光熠熠的庆典吸引了众多名人到场，整个纽约市都沉浸在浪漫的氛围之中。婚礼从下午开始，持续到深夜，现场不仅有精彩的音乐表演，还有精心设计的仪式环节，为这对备受瞩目的情侣开启了人生的新篇章。\n巴基斯坦板球委员会宣布，巴巴尔·阿扎姆将重新出任国家队测试赛队长，接替此前担任这一职务的沙恩·马苏德。这一人事调整发生在巴基斯坦队即将迎战西印度群岛和英格兰系列赛前夕。巴巴尔·阿扎姆曾于2020年至2023年期间担任测试赛队长，并在2023年11月辞去全部三个赛制队长职务。此次回归意味着巴基斯坦板球管理层希望借助他的经验和领导力，在即将到来的高强度赛程中稳定军心、提升战绩。西印度群岛和英格兰队均以强大的板球传统著称，巴基斯坦队面临的挑战不容小觑。\n在人工智能领域，LlamaIndex团队发布了名为“legal-kb”的公开参考应用。该应用基于Index v2平台，为智能体提供类似文件系统的文档知识库访问能力。具体而言，它集成了检索、查找、读取和grep四种工具，其中检索功能采用混合语义搜索技术。这一设计使得智能体能够像操作本地文件一样高效地管理和提取法律文档中的信息，并支持自动化的每文件版本控制。legal-kb的推出，标志着大模型在专业领域知识管理方面迈出了实用化的一步，尤其对需要处理大量法律文本的机构具有参考价值。\n国际军事合作方面，中国和俄罗斯宣布将举行联合海军演习。此次演习的宣布时间，距离俄罗斯总统普京今年5月访问中国大约两个月。中俄两国近年来在军事领域的互动频繁，联合演习涵盖海上、空中和陆地多个维度。此次海军演习的具体地点、参演舰艇规模和科目细节尚未公布，但分析认为，此举旨在深化两军战略互信，提升共同应对海上安全威胁的能力。在当前全球地缘政治格局下，中俄军事合作持续引发国际社会关注。\n美国于7月4日举行了建国250周年庆典活动。由于雷暴雨天气，庆典一度推迟。随后，前总统特朗普在演讲中表示，这仅仅是“黄金时代的序幕”。他在讲话中重申了近期频繁提及的政治议题，包括反对共产主义、支持他提出的《拯救美国法案》立法，以及捍卫持枪权。特朗普的言论延续了他一贯的政治立场，并试图将国家庆典与自身政治议程相结合。美国建国250周年纪念活动在全国多地展开，但政治分歧在庆典期间依然明显。特朗普的演讲内容预计将进一步激化围绕这些议题的全国性辩论。\n新加坡总理黄循财将于近日访问雅加达，出席新加坡与印度尼西亚领导人非正式峰会。此次会谈将重点回顾自去年峰会以来双边合作项目的进展情况，并讨论中东局势对区域经济与安全带来的影响。两国领导人预计将就深化经贸、投资与互联互通等议题交换意见，进一步巩固战略伙伴关系。\n在体育领域，美国田径名将戴维斯-伍德霍尔在尤金站夺冠后，首次公开谈及自己长期面临的心理健康挑战。她表示，竞技体育的高压环境与公众期待曾让她陷入焦虑与自我怀疑，但通过专业心理辅导与团队支持，她逐渐学会在赛场内外寻找平衡。她的坦诚发言引发了体育界对运动员心理健康的广泛关注。\n科技与商业领域传来两则重磅融资消息。由香港大学教授创立的“忆生科技”宣布完成数亿元人民币天使轮融资，投资方包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等产业资本与国资平台。该公司致力于从科学第一性原理出发，构建基于“感知—预测—交互”闭环的机器人“大脑与小脑”统一系统，目标是开发下一代可解释的自主智能。本轮融资将主要用于可解释具身控制大模型与物理世界模型的研发。\n与此同时，具身智能公司“光象科技”也宣布完成累计数亿元天使轮融资。最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本以及上市公司行云科技等机构参与，老股东零一创投与L2F光源创业者基金继续跟投。光象科技成立于2025年4月，由清华大学车辆与运载学院与人工智能学院联合孵化，创始团队为清华车辆学院的师兄弟。公司计划将本轮资金重点投入物理原生基座模型的研发迭代，并加速具身智能机器人在汽车制造等工业场景的商业化落地。\n两起融资事件反映出资本市场对具身智能与机器人操作系统赛道的高度关注。忆生科技侧重从认知科学角度构建机器人的记忆与决策系统，而光象科技则聚焦于物理世界中的自主操作与工业应用。两者虽路径不同，但都指向同一个核心命题：如何让机器人真正理解并适应复杂动态环境。随着大模型与硬件技术的快速迭代，具身智能正从实验室走向产业前线，汽车、电子制造、物流等领域有望率先迎来规模化部署。\n由小米前高管唐沐创立的通用餐饮具身机器人公司“影智XBOT”，近期连续完成两轮融资，总金额达到数亿元人民币。其中，A轮融资2亿元由香港简坤资本GPTX出资，B轮融资规模在3到5亿元人民币之间，参与方包括多支政府基金、美元基金和产业投资方。这是目前餐饮垂直机器人领域规模最大的融资之一。在此之前，影智XBOT还完成了一轮天使融资，出资人阵容相当豪华，包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋，以及港科大首席副校长郭毅可等人。这家公司的成立和快速融资，显示出资本市场对餐饮自动化、具身智能方向的持续看好。\n在宏观经济与大宗商品领域，中金公司7月5日发布研报指出，历经2023到2025年全球农产品持续累库、价格深度下行的调整周期后，2026年农产品板块可能正式迎来周期拐点。中金认为，全品类价格底部已经充分夯实，整体确立了易涨难跌的运行格局。综合判断，2026年下半年全球大宗农产品没有单边下跌的基础，成本筑牢底部、供给收缩确立趋势、天气提供脉冲弹性、需求打开上行空间，板块整体将逐步开启周期向上态势。中金给出的板块行情排序为：油脂、棉花、天然橡胶、白糖优先于大豆、玉米，再优先于其他品种。当前二季度板块估值已经合理回调，建议中长期逢低布局农产品多头行情，把握各品类的阶段性机会。\n在文化娱乐市场方面，电影《小黄人与大怪兽》上映仅3天，总票房已经突破9000万元。这一成绩反映出暑期档动画电影的强劲需求，也说明该片在观众中的口碑和吸引力正在快速释放。\n另外，根据新加坡亚洲新闻台报道，一位名为Ezra Jin Mingri的牧师在中国被释放。他于去年10月与其他17名教会领袖一同被拘留，这是中国数十年来对单一教会规模最大的打击行动之一。报道提到，这位牧师获释的时间点，是在美国总统特朗普要求释放他之后几周。这一事件涉及宗教自由和外交层面的互动，目前没有更多细节披露。\n工业和信息化部装备工业发展中心正式公布了2026年度工业母机创新产品典型案例名单，华工科技自主研发的复杂曲面六轴激光加工装备成功入选。这一装备主要针对航空航天、汽车制造等领域中复杂曲面零部件的高精度加工需求，能够实现六轴联动激光切割与焊接，在加工效率和精度上都有显著提升。工业母机作为制造业的基础装备，其创新水平直接关系到整个产业链的竞争力。此次入选典型案例，也意味着该装备在技术成熟度和产业化应用方面得到了国家层面的认可。\n中金公司近日迎来关键人事变动，集团战略部负责人马葵正式兼任中金国际副总裁。马葵1996年毕业于对外经济贸易大学，先后获得国际经济合作专业学士学位与国际金融硕士学位，1998年加入中金公司，至今已在中金体系内工作超过28年。她曾先后担任财务部、市场风险部、计划分析部、运营支持部等多个部门的负责人，历任助理首席财务官、财务总监等职务。2024年2月，根据工作安排，她辞去财务总监一职，转而出任中金公司战略部负责人。此次兼任中金国际副总裁，意味着她将同时负责集团战略规划与国际业务的统筹协调。中金国际是中金公司开展境外业务的核心平台，这一人事安排也反映出中金在全球化布局和战略执行层面的进一步整合。\n青年作家蒋方舟7月5日在其个人社交平台再次发文，回应清华大学教授肖鹰此前对其论文造假的指控。这篇题为《关于肖鹰教授指控我论文“全面造假”的逐项说明》的文章中，蒋方舟逐条反驳了肖鹰提出的质疑，认为对方的指控存在系统性的夸大与失实，特别是“全面造假”这一表述严重损害了她的名誉。她表示，已于7月4日向公安机关报案，并将相关材料递交给清华大学相关部门，同时保留通过法律途径维护自身权益的权利。蒋方舟毕业于清华大学，此前曾因文学创作和公共表达受到广泛关注。此次论文造假指控引发了学术诚信与名誉权保护之间的讨论，目前清华大学方面尚未就此事件作出正式回应。\n在亚洲体育赛场上，来自孟加拉国科克斯巴扎尔的冲浪选手们正在为亚运会做准备。科克斯巴扎尔拥有世界上最长的天然海滩之一，近年来逐渐成为冲浪运动在孟加拉国发展的起点。在一个以板球和足球为主导的国家，冲浪仍然是一项非常小众的运动，但这些选手希望通过在亚运会上的表现，为这项运动争取更多的关注和资源。他们面对的不仅是技术上的挑战，还有基础设施和训练条件的限制。尽管如此，选手们依然在努力追赶亚洲其他冲浪强国的步伐，希望能在亚运赛场上证明自己。",
+      "durationHint": 1312,
+      "script": "人工智能公司Anthropic今天发布了其负责任扩展政策的重要更新。这一政策是该公司用于防范前沿人工智能系统可能带来灾难性风险的治理框架。根据官方消息，本次更新引入了更加灵活和精细的风险管理机制，旨在平衡技术创新与安全管控。Anthropic表示，新版本政策将允许根据模型的实际能力动态调整安全措施，而非采用一刀切的限制方式。这一调整反映出业界对AI风险治理正从粗放式管理转向更精准的评估与应对。\n体育方面，F1围场迎来一位熟悉的面孔。克里斯蒂安·霍纳在被解雇一年后，重新回到了F1的围场。这位前红牛车队领队曾因内部调查事件在2025年离开车队，如今他的回归引发了围场内的广泛关注。目前尚未有关于他具体职务的官方确认，但业内人士分析，霍纳的回归可能意味着他将在F1管理层或某支车队担任顾问角色。与此同时，皇家马德里俱乐部官方宣布，已从国际米兰签下荷兰边后卫邓弗里斯。这位28岁的荷兰国脚以出色的边路突破和传中能力著称，他的加盟将进一步充实皇马的后防线。转会费细节尚未公布，但据西班牙媒体报道，这笔交易的金额在4000万欧元左右。\n国际娱乐圈则传来一则别具特色的婚讯。美国流行歌手泰勒·斯威夫特与男友凯尔西即将举行婚礼，但这对新人明确表示不收礼金。这一做法在名人婚礼中并不罕见，但有趣的是，在英国，有人却利用婚礼随礼的传统来筹集试管婴儿费用。据BBC中文报道，如今婚礼请柬上常见这样的说法：“你们的到场就是最好的礼物，但如果你想送我们点什么，请捐入我们的蜜月基金。”这种将礼金转化为特定用途捐款的做法，正在成为一种新的社交趋势。有社会学者指出，这反映出年轻一代对传统婚俗的重新定义，他们更倾向于将婚礼与个人价值观或实际需求相结合。泰勒·斯威夫特选择不收礼，或许也是希望宾客能将注意力集中在婚礼本身的情感价值上，而非物质交换。\n先来看一条国际要闻。据BBC中文报道，北京锡安教会牧师金明日，在被执法部门拘禁八个月后，于近日获释，并已被送抵美国洛杉矶。美国对华援助协会证实了这一消息。值得注意的是，金明日的获释时间点，恰在中美元首近期进行交流之后。外界普遍认为，这一进展可能与此前两国高层沟通中涉及的人道主义关切有关。金明日是中国地下教会的知名牧师，其案件此前曾引发国际社会关注。\n视线转向体育领域。国际游泳联赛方面传来新动向。据亚洲新闻台体育频道报道，该联赛已承诺将支付拖欠的2021年赛事奖金，并正在考虑重新启动。国际游泳联赛曾在全球范围内吸引众多顶尖泳将参赛，但近年来因财务问题陷入停滞。此次表态支付旧账并寻求复出，被视作该赛事试图重建信誉、重返国际泳坛竞争格局的重要一步。不过，联赛能否真正实现重启，还需看后续资金落实和赛事组织情况。\n同样在体育领域，世界杯赛场的背景音乐也成了话题。亚洲新闻台体育频道的一篇报道，挖掘了世界杯各场馆播放歌曲背后的故事。这些音乐并非随意选择，而是经过精心编排，旨在营造主场氛围、调动观众情绪，甚至传递东道主国家的文化符号。从经典摇滚到本土民谣，每一首曲目背后都有一段独特的文化叙事。报道指出，音乐已成为现代足球赛事体验中不可或缺的一部分，其影响力甚至能跨越语言和国界，成为球迷共同的情感纽带。\n目光转向南亚。尼泊尔总理巴伦德拉·沙阿，这位36岁的前说唱歌手，在2026年3月正式就职后，已执政满一百天。然而，据亚洲新闻台亚洲频道报道，这位年轻总理的执政风格颇为低调，公开讲话极少，与外界预期中的高调形象形成鲜明对比。在短短百日内，尼泊尔政局经历了快速变化，沙阿政府推行了一系列改革措施，但总理本人却刻意保持沉默，鲜少在公开场合阐述政策细节。这种“少说多做”的风格，在尼泊尔政坛实属罕见。分析人士指出，沙阿的低调或许是为了避免过早陷入政治争议，集中精力推动实质性的行政改革。不过，也有观察者认为，在民主政治中，领导人的沟通能力同样重要，长期保持沉默可能不利于凝聚民意和推动立法。未来，这位“说唱歌手总理”能否在保持低调的同时，有效应对尼泊尔面临的经济挑战和地缘政治压力，仍有待观察。\n韩国政府计划利用半导体产业带来的巨额收益，设立一只名为“未来应对基金”的专项资金，以推动国家重大投资项目的融资，并增强长期竞争力。一位高级官员表示，这一举措旨在将芯片产业的增长红利转化为更广泛的经济动力，同时应对社会不平等问题。该基金将重点支持战略性产业和基础设施建设，确保韩国在全球科技竞争中的领先地位。\n在国内企业动态方面，益盛药业发布公告称，公司于7月1日收到吉林省药品监督管理局出具的《采取风险控制措施通知书》。因产品补金片存在严重缺陷，涉事的生脉注射液和补金片生产线已被暂停生产销售。数据显示，2025年度，生脉注射液和补金片的营收分别占公司总营收的7.65%和0.01%。目前，公司已启动对补金片的三级召回程序，尚未收到不良安全事件的报告，并表示将积极配合监管部门进行整改。\n与此同时，奥来德发布了2026年半年度业绩预告，预计归属于上市公司股东的净利润将达到1.6亿元至1.9亿元，同比增长幅度高达492.49%至603.58%。公司方面解释，业绩大幅增长的主要原因是设备业务的核心竞争壁垒持续夯实，产品技术与市场卡位优势得到充分释放，相关业务收入实现显著增长，盈利能力随之大幅提升。\n另一家上市公司贝斯特则就市场热点发布了澄清公告。该公司股票连续三个交易日收盘价格涨幅偏离值累计超过30%，构成交易异常波动。贝斯特表示，注意到市场对人形机器人等概念关注度较高，但公司的人形机器人零部件业务目前仍处于样品阶段。2026年上半年，相关样品实现营收22.3万元，仅占公司总营收的约0.03%，业务规模极小，对公司整体业绩不构成重大影响，且未来收益存在重大不确定性。公司提醒投资者注意投资风险。\n多家上市公司在7月5日集中发布了2026年上半年的业绩预告，整体来看，多个行业板块呈现出强劲的增长势头。浙富控股公告称，预计2026年半年度归属于上市公司股东的净利润为12.5亿元至14.5亿元，与上年同期相比增长120.78%到156.11%。公司方面表示，业绩大幅增长的主要原因是危废处置及再生资源综合利用业务保持了稳健运营，产品销量稳步攀升，使得营业收入及盈利水平较上年同期实现了较大幅度增长。\n与此同时，招商轮船也发布了亮眼的业绩预告。公司预计2026年上半年实现归母净利润66亿元到73亿元，同比增幅高达214%至248%。招商轮船分析指出，受供需结构变化及地缘局势等多种因素影响，国际油轮运输市场进入了超级景气周期，报告期内部分航线的现货运费率甚至创出了历史新高。国际干散货市场也受益于供需的持续改善，BDI指数稳步回升。具体到公司核心业务板块，油轮船队承接了一季度的优秀表现，在二季度克服了海峡封锁后油轮供过于求的阶段性困难，抓住市场机会再次取得良好业绩，环比一季度预计实现利润贡献增长50%左右；同时，公司的干散货板块表现同样出色。\n在通信和光缆领域，永鼎股份发布公告，预计2026年半年度实现归属于上市公司股东的净利润5亿元到7亿元，与上年同期相比增加1.81亿元到3.81亿元，同比增幅在57%到120%之间。公司方面表示，业绩增长主要得益于主营业务的稳健发展。\n在有色金属行业，天山铝业也发布了业绩预告。公司预计2026年上半年实现归母净利润42亿元，同比增长101.52%。天山铝业分析称，报告期内，受益于全球铝行业供需关系的影响，公司电解铝产品销售价格显著上行。与此同时，公司140万吨电解铝绿色低碳能效提升项目按计划顺利推进，量价协同效应叠加公司一体化成本管控成效，使得电解铝板块盈利实现了大幅增长。不过，报告期内，公司下属全资子公司新疆生产建设兵团第八师天山铝业有限公司上调了所得税率，这影响了当期的所得税费用。此外，在公司的下游铝深加工板块中，高纯铝业务受电解电容器行业需求增加等积极因素影响，也实现了良好的业绩表现。\n仕佳光子发布公告，公司持股5%以上的股东鹤壁投资集团，计划从公告披露之日起15个交易日后的3个月内，通过集中竞价方式减持不超过452万股，也就是不超过公司总股本的1%。截至公告日，鹤壁投资集团持有仕佳光子3000万股，占总股本的6.64%，这次减持是基于自身的经营需求。\n鸿海集团公布了6月份的销售数据，当月销售额达到8218亿元新台币，同比增长52.1%。鸿海方面表示，第二季度的业绩远超预期，实现了显著增长。虽然第二季度通常是ICT行业的传统淡季，但预计AI机架产品将继续保持增长趋势。\n东方盛虹发布了2026年上半年的业绩预告，预计实现归母净利润42亿元到50亿元，同比增长幅度高达987.39%到1194.51%。公司分析认为，上半年石化化工行业的供需格局有所改善，带动了景气度的提升。同时，地缘局势紧张导致国际原油价格中枢上移，受成本抬升以及原料供应偏紧的影响，石化产品价格整体呈上升趋势，公司主要产品的价差扩大，从而带动了整体盈利能力的提升。\n石油输出国组织及其盟友，也就是OPEC+，已经批准了进一步的石油增产计划。与此同时，霍尔木兹海峡的原油出口运输正在逐步恢复。这一决定是在全球原油市场供应紧张的背景下做出的。此前，由于地缘政治因素，霍尔木兹海峡的航运一度受到干扰，导致国际油价出现波动。随着海峡出口的恢复，市场供应有望得到一定程度的缓解。OPEC+的增产决定，加上霍尔木兹海峡运输的恢复，可能会对未来的国际油价走势产生重要影响。目前，市场正在密切关注这些变化对全球能源供需平衡的具体影响。\n来看一组财经与文体方面的消息。首先关注资金流向，据财联社7月5日数据，最近一周有16只个股获得南向资金持股量环比增长超过10%。其中，云知声的增幅最为显著，达到了66.22%，位居首位。紧随其后的是壁仞科技，持股量环比增长44.22%；东鹏饮料和英矽智能的增幅也较为靠前，分别为34.2%和26.62%。这些数据反映出南向资金近期对这些科技与消费类标的的关注度有所提升。\n在上市公司业绩方面，生物股份于7月5日发布了2026年上半年的业绩预告。公司预计上半年实现归属于上市公司股东的净利润在9100万元到1.09亿元之间，与去年同期相比，增幅预计达到50.6%到80.39%。公司方面表示，业绩大幅增长主要得益于两大板块的驱动：一是反刍动物和宠物动保业务实现了较大幅度的增长，产业并购后的协同效应开始显现；二是公司持续推进数字化、智能化和精益化管理，使得销售费用、管理费用、制造成本以及研发成果转化率等关键指标持续优化。再加上新产品的上市，多重因素共同推动了公司经营业绩的显著改善。\n目光转向国际文体领域。美国流行乐坛巨星泰勒·斯威夫特与美式足球运动员特拉维斯·凯尔西，在纽约市麦迪逊广场花园举行了一场盛大的婚礼庆典，正式结为夫妻。这场星光熠熠的仪式吸引了全球媒体的关注，BBC记者在现场见证了纽约市为此营造出的热烈气氛。婚礼的细节和当天的盛况成为了国际娱乐新闻的焦点。\n与此同时，在板球运动领域，巴基斯坦板球委员会做出了重要的人事调整。据新加坡亚洲新闻台体育频道报道，巴基斯坦队已经决定，在即将到来的对阵西印度群岛队和英格兰队的系列赛之前，更换球队的测试赛队长。巴巴尔·阿扎姆将接替沙恩·马苏德，重新出任巴基斯坦队的测试赛队长一职。这一变动旨在为球队在接下来的重要赛事中注入新的领导力。\n人工智能领域，LlamaIndex 团队发布了名为“legal-kb”的公共参考应用，为智能体提供类似文件系统的文档知识库访问能力。该应用基于Index v2版本，集成了检索、查找、读取和grep四种工具。其中，检索功能支持混合语义搜索，能够更精准地定位信息。这一工具集的推出，旨在提升智能体对复杂文档库的操作效率，尤其适用于法律等需要精细文件管理的行业场景。\n国际方面，中国与俄罗斯宣布将举行联合海军演习。此次演习距离俄罗斯总统普京访华约两个月，被视为两国军事合作持续深化的又一信号。演习的具体时间和海域尚未公布，但分析认为，此举将进一步巩固中俄在地区安全事务上的协调与互信。\n与此同时，美国举行建国250周年庆典。尽管庆典因雷暴雨天气一度推迟，但总统特朗普在随后的演讲中强调，这“仅是黄金时代的序幕”。他在讲话中重申了近期频繁提及的政治主张，包括反对共产主义、推动其支持的《拯救美国法案》立法，以及捍卫持枪权。这些议题在美国国内引发广泛讨论，也折射出当前政治生态的深层分歧。\n体育方面，美国田径名将戴维斯-伍德霍尔在尤金站夺冠后，首次公开谈及自己的心理健康挑战。她表示，竞技体育的高压环境曾让她感到孤立，但通过专业帮助和团队支持，她逐渐学会了如何平衡心理状态与赛场表现。她的坦诚发言引发了体育界对运动员心理健康的再度关注，许多同行和粉丝纷纷表达支持。\n新加坡总理黄循财将于今天启程前往雅加达，出席新加坡与印度尼西亚领导人非正式峰会。此次会谈的重点将围绕去年峰会以来双边合作项目的推进情况，以及中东危机对地区局势带来的影响。两国领导人预计将就经贸、投资、防务和跨境合作等议题交换意见，进一步巩固战略伙伴关系。与此同时，国内科技创业领域迎来多笔重磅融资。由香港大学教授创立的忆生科技宣布完成数亿元天使轮融资，投资方包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本和金舵资本等产业资本与国资平台。忆生科技致力于从科学第一性原理出发，构建基于“感知—预测—交互”闭环的机器人“大脑+小脑”统一系统，目标是探索下一代可解释自主智能。本轮融资将主要用于可解释具身控制大模型与物理世界模型的研发。同样在具身智能赛道，由清华大学车辆与运载学院和人工智能学院联合孵化的光象科技，也完成了累计数亿元的天使轮融资。最新一轮由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本以及上市公司行云科技等机构参与，老股东零一创投和L2F光源创业者基金继续跟投。光象科技成立于2025年4月，团队来自清华车辆学院师兄弟，本轮资金将重点投入物理原生基座模型的研发迭代，并推动具身智能机器人在工业场景的商业化交付。在餐饮机器人领域，通用餐饮具身机器人公司影智XBOT连续完成两轮融资，总金额达数亿元。其中A轮融资2亿元由香港简坤资本GPTX出资，B轮融资规模在3到5亿元人民币之间，由多支政府基金、美元基金和产业投资方共同参与。这是目前餐饮垂直机器人领域规模最大的融资之一。在此之前，影智XBOT还完成了一轮天使融资，出资人包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋，以及港科大首席副校长郭毅可等。三笔融资集中在同一天公布，显示出资本市场对具身智能和机器人赛道的高度关注。从高校科研团队孵化到产业资本深度参与，从通用机器人到垂直餐饮场景，中国机器人创业生态正在加速形成多元化的融资格局。这些企业的技术路径虽有不同，但都指向同一个方向：让机器人具备更强的感知、决策和交互能力，从而真正走向实际应用。\n中金公司今天发布研报指出，历经2023到2025年全球农产品持续累库、价格深度下行的调整周期后，2026年农产品板块或正式迎来周期拐点。报告认为，全品类价格底部已经充分夯实，整体确立易涨难跌的运行格局。综合判断，2026年下半年全球大宗农产品没有单边下跌的基础，成本筑牢底部、供给收缩确立趋势、天气提供脉冲弹性、需求打开上行空间，板块整体或逐步开启周期向上态势。中金给出的板块行情排序为油脂、棉花、天然橡胶、白糖优先于大豆、玉米。当前二季度板块估值合理回调，建议中长期逢低布局农产品多头行情，把握各品类机会。\n电影市场方面，动画电影《小黄人与大怪兽》上映三天，总票房突破9000万元。根据网络平台数据，这部影片在暑期档初期表现亮眼，为后续市场注入了一定信心。\n国际方面，一名名为金明日的外籍牧师近日在中国获释。此人去年10月与其他17名教会领袖一同被拘留，这是中国数十年来对单一教会规模最大的打击行动之一。美国总统特朗普此前曾公开要求中方释放该牧师。目前没有更多关于释放条件的细节披露。\n工业制造领域，华工科技的复杂曲面六轴激光加工装备入选工业和信息化部装备工业发展中心公布的《2026年度工业母机创新产品典型案例名单》。该名单于7月4日正式发布，华工科技的装备凭借在复杂曲面加工方面的技术突破获得认可，这标志着国产高端激光加工装备在工业母机领域取得重要进展。",
       "generationMode": "deepseek",
-      "updatedAt": "2026-07-05T10:22:58.235Z"
+      "updatedAt": "2026-07-05T13:53:53.443Z"
     },
     {
       "id": "section-2dc9b4e0",
@@ -5530,10 +5458,43 @@
         "45e96a6854d584cc"
       ],
       "count": 32,
-      "durationHint": 1139,
-      "script": "人工智能领域在7月5日迎来多项重要进展。Anthropic公司当天发布了其负责任扩展政策的重要更新，这套风险治理框架旨在降低前沿人工智能系统可能带来的灾难性风险。新版政策引入了更加灵活和精细化的风险管理机制，标志着这家AI安全研究机构在平衡技术创新与风险管控方面迈出了新的一步。与此同时，LlamaIndex团队推出了名为“legal-kb”的公共参考应用，该应用为智能体提供了类似文件系统的文档知识库访问能力。它集成了混合语义搜索、查找、读取和grep等工具，并支持自动化的逐文件版本管理，显著提升了智能体在复杂文档库中的检索效率。\n在数据提取领域，开源模型正在成为企业处理非结构化文档的主流方案。目前大多数企业数据仍以PDF、扫描件和演示文稿的形式存在，大型语言模型和智能体无法直接利用这些信息，必须将其转换为结构化的JSON格式。2026年的开源文档提取模型已经能够高效完成这一转换过程，为企业数据资产的价值释放提供了关键基础设施。这一技术路径的成熟，意味着企业可以更便捷地将海量历史文档纳入AI系统的处理范围。\n谷歌公司则推出了一则颇具创意的商业广告，在《独立宣言》签署250周年之际，该广告设想了一个场景：如果美国开国元勋们当时能够使用谷歌工作空间，这份历史性文件的起草过程将会发生怎样的变化。这则广告通过历史与未来的碰撞，引发了人们对AI如何改变知识工作方式的思考。从技术前沿到商业应用，从风险治理到创意营销，人工智能正在以多种方式重塑我们的世界。\n人工智能图像生成公司Midjourney正在要求好莱坞三大制片厂披露其自身使用人工智能技术的具体细节。这一要求源于一场持续的法律纠纷，Midjourney试图通过法律程序迫使这些制片厂公开他们在影视制作中如何运用AI。目前该案仍在审理中，Midjourney的诉求可能涉及版权、创作归属以及AI在娱乐产业中的合规使用边界。\n与此同时，中国科技巨头阿里巴巴据报已将Anthropic公司开发的编程助手Claude Code列为高风险软件，并禁止员工使用。这一内部管控措施反映出企业对第三方AI工具在数据安全、代码合规以及潜在知识产权风险方面的审慎态度。Claude Code作为一款能够辅助开发者编写、审查和优化代码的AI工具，其被阿里巴巴列入黑名单，可能意味着该公司在内部技术安全评估中发现了不可控因素。\n在AI科研工具领域，Anthropic于6月30日发布了Claude Science的测试版本。这是一个多智能体协作的AI工作台，专门用于可重复的基因组学、蛋白质组学和化学信息学流程。该应用运行在现有的Claude模型之上，其核心架构由一个协调智能体负责分配任务，领域专家智能体处理专业分析，另设一个审查智能体专门核查引用和数字的准确性。每个生成的图表都附带完整的溯源信息，这大大提升了科研数据的可验证性和透明度。Claude Science的推出，标志着AI在生命科学和化学研究领域的应用正从辅助写作向全流程自动化实验设计迈进。\n英伟达则展示了其在硬件设计自动化方面的最新突破。名为HORIZON的免操作智能体框架，能够将每个寄存器传输级设计问题作为版本化仓库进行管理，并在多个基准测试中实现了100%的完成率。HORIZON通过自动演化Git工作树，实现了从问题定义到设计验证的完全自主化。这一成果意味着AI已经能够在芯片设计的核心环节——寄存器传输级设计上，达到人类专家的水平，有望大幅缩短芯片开发周期并降低设计错误率。\n从产业动态来看，AI领域的竞争正从单一模型能力扩展到工具链、合规管理和垂直行业应用的全方位较量。Midjourney与好莱坞的纠纷揭示了AI生成内容在版权法框架下的模糊地带，而阿里巴巴对Claude Code的禁令则凸显了跨国企业在AI工具使用上的安全焦虑。Anthropic和英伟达的新产品则分别指向了科研自动化和硬件设计自动化这两个高价值应用场景，显示出AI正在从通用对话助手向专业领域深度渗透。这些事件共同勾勒出当前大模型产业在技术突破、法律合规和企业治理三个维度上同步演进的复杂图景。\n法国人工智能初创公司Mistral AI自2023年成立以来，已获得大量融资，其目标是“将前沿人工智能交到每个人手中”。这家公司提供部分开源的人工智能模型，被视为OpenAI的竞争对手。Mistral AI的崛起，反映了当前大模型领域开源与闭源路线并行的趋势，也意味着全球AI竞赛的参与者正在增多。\n与此同时，个人部署大语言模型的门槛正在降低。有技术文章指出，虽然距离完全成熟还有很长的路要走，但自行搭建大语言模型的未来前景广阔。这意味着，无论是企业还是个人开发者，都有可能根据自身需求定制和运行专属的AI模型，从而减少对第三方云服务的依赖。\n在提升大模型可靠性的方向上，一项针对检索增强生成（RAG）技术的新思路被提出。传统RAG系统往往直接返回文本片段，容易导致模型产生幻觉。新的方法则强调“类型化答案契约”：为每一次查询定义一个结构化模式，每个字段都相当于一个向模型提出的问题，而每个答案都可以被独立验证。这种契约式的设计，旨在从架构层面约束模型的输出，使其更可控、更可信，尤其适用于企业文档智能处理等场景。\n此外，在数学证明领域，一项名为Leanstral 1.5的研究成果发布。该成果致力于实现“证明丰裕”，即让更多人能够利用AI辅助进行形式化数学证明。这标志着大模型在严谨的逻辑推理和数学领域正取得实质性进展，有望降低数学研究和验证的门槛。\n法国人工智能初创公司Mistral AI发布了最新一代代码智能体模型Leanstral 1.5，该模型采用Apache-2.0开源协议，专门面向Lean 4形式化验证语言设计。在数学推理基准测试中，Leanstral 1.5在miniF2F数据集上达到了饱和性能，并在更具挑战性的PutnamBench问题上成功解决了672道题目中的587道。这一模型采用混合专家架构，总参数量达到1190亿，但每次推理仅激活约65亿参数，显著提升了计算效率。Mistral AI表示，Leanstral 1.5的发布旨在推动形式化验证和数学证明领域的自动化进程，为研究人员和开发者提供更强大的代码生成与验证工具。\n在文档智能处理领域，一项新的技术教程展示了如何利用开源工具lift-pdf构建端到端的应付账款提取管线。该方案以结构化JSON模式作为目标输出格式，通过合成发票PDF作为受控测试文档，实现了从发票解析、数据验证到账目生成的完整流程。与传统的模板匹配方法不同，这套管线采用模式引导的方式，能够灵活适应不同格式的发票，并自动完成字段校验和异常检测。教程作者强调，这种基于模式的设计思路可以显著降低人工审核成本，同时提高财务数据处理的准确性和可追溯性。\n随着人工智能技术的快速普及，大量专业术语和行业黑话涌入公众视野。一份最新发布的AI术语汇编整理了今年最需要掌握的关键词汇和短语，涵盖从基础概念到前沿技术的方方面面。该汇编不仅解释了“大语言模型”“扩散模型”“检索增强生成”等核心术语，还收录了“思维链”“智能体”“对齐”等新兴概念。对于非技术背景的从业者和普通用户来说，这份指南有助于消除信息壁垒，更准确地理解AI领域的讨论和报道。\n与此同时，浏览器市场的竞争格局正在发生深刻变化。过去，浏览器的核心竞争围绕搜索引擎展开，但如今，隐私保护、AI集成和跨平台体验已成为用户选择浏览器的主要考量。一份最新的市场分析报告梳理了当前能够挑战Chrome和Safari地位的几款替代浏览器，包括注重隐私保护的Brave和Firefox，以及深度整合AI功能的Arc和Edge。报告指出，这些浏览器在默认广告拦截、内置AI助手和标签页管理等方面各有特色，用户可以根据自身需求选择最适合的工具。随着浏览器功能从单纯的网页浏览向生产力平台演进，这场新的浏览器战争将更加注重用户体验和生态整合能力。\n大模型领域今天有多条值得关注的动态。首先，关于AI智能体的工作机制，一项核心概念“ReAct循环”正在引发更多讨论。所谓ReAct循环，指的是智能体如何通过“推理、行动、观察”这三个步骤，一步步迭代地逼近最终答案。简单来说，智能体先根据当前问题或环境进行推理，然后执行一个具体的动作，比如调用一个工具或查询数据库，接着观察这个动作带来的结果，再基于新的观察继续推理，如此循环往复，直到得出足够可靠的结论。这种设计让AI不再只是被动地生成文本，而是能够主动与环境交互、验证假设，从而完成更复杂的任务。理解ReAct循环，对于把握当前AI智能体的底层逻辑至关重要。\n与此同时，关于大模型上下文长度的选择问题，业界也在进行更细致的权衡。一篇最新的分析指出，长上下文模型和短上下文模型各有其适用的场景。长上下文模型能够一次性处理海量信息，比如整本书或长达数小时的会议记录，这在需要全局理解的任务中优势明显。但它的代价也很突出：计算成本更高、推理速度更慢，而且处理的数据量越大，模型在无关信息中“迷失”的风险也可能增加。相比之下，短上下文模型虽然处理的信息量有限，但响应更快、成本更低，在那些只需要聚焦局部信息的任务中反而表现更优。因此，选择哪种模型，本质上是在上下文能力、成本、速度和数据质量之间寻找平衡点，并非越长越好。\n在机构动态方面，谷歌DeepMind的工会化进程遇到了波折。本周三的谈判中，员工们表达了强烈的不满，他们认为公司高管层对于工会化的前景缺乏真正的诚意，不愿意进行有意义的沟通。这场谈判从一开始就显得磕磕绊绊，反映出在顶尖AI研究机构内部，关于员工权益、决策透明度和工作条件的分歧正在加剧。工会化努力能否继续推进，以及它将如何影响DeepMind的内部管理和人才稳定，值得持续关注。\n不过，谷歌DeepMind也传来了合作的消息。他们与知名独立电影公司A24宣布了一项“首次此类”的研究合作伙伴关系。虽然具体的合作细节尚未披露，但一家顶级AI研究机构与一家以艺术性和叙事创新著称的电影公司联手，预示着AI技术可能将在创意内容生产、叙事结构探索或影视制作流程中扮演新的角色。这种跨界合作，或许能为大模型在艺术领域的应用打开一扇新的窗口。\n在人工智能大模型领域，技术路径的争论从未停歇。一位开发者近日公开挑战了当前流行的“LLM维基”构建方式，认为这类工具普遍存在过度工程化的问题。他指出，大多数所谓的“大模型维基”依赖智能体、嵌入向量和反复调用模型来整理本地笔记，而他自己则开发了一个纯Python编译器作为替代方案。这个编译器仅使用标准库，就能将杂乱的Markdown文件转化为一个经过链接和检查的维基系统。这一做法实际上是对当前依赖大模型进行知识管理的一种反思——当模型本身成为工具而非目的时，更轻量、更确定性的方案或许才是更可持续的选择。\n与此同时，如何更高效地使用大模型API也成为开发者关注的焦点。一篇最新的技术文章详细介绍了如何在Python环境中使用Claude API，包括发送首次请求以及通过官方SDK处理响应。这类基础教程的持续出现，反映出大模型应用正在从概念验证走向规模化落地，开发者社区对标准化、低门槛接入的需求正在快速增长。\n而在检索增强生成领域，一场关于技术基础的讨论正在展开。有观点认为，当前主流的RAG框架在检索环节存在一个被忽视的误区：余弦相似度并非检索的万能基石。一篇题为《RAG检索中未被教授的课程：余弦不是基础》的文章提出了六项关于检索模块的立场，直接挑战了业界“余弦优先”的惯性思维。文章指出，在构建企业级文档智能系统时，检索策略的选择远比简单套用余弦相似度要复杂得多，不同场景下的语义匹配、稀疏检索与密集检索的权衡，都需要更精细的设计。\n从更宏观的视角来看，开源大模型的全球竞争格局也在发生变化。在美国建国250周年之际，一份关于美国开源权重模型的评估报告正式发布。报告对比了美国、中国和欧洲的开源权重模型，分析了美国模型在全球范围内的定位与优势，同时也指出了改进空间。报告认为，美国在开源AI领域依然保持领先，但中国和欧洲的模型在特定任务和效率优化上正在快速追赶。这一评估不仅是对技术实力的盘点，也折射出开源生态正在成为国家间AI竞争的重要战场。\n大模型领域今天迎来多项进展。首先，一款名为WebBrain的开源AI浏览器代理正式发布。这款工具采用MIT许可证，支持在Chrome和Firefox浏览器中运行，能够自动读取网页内容、提取数据，并通过“询问”与“执行”两种模式完成多步骤自动化任务。WebBrain最大的特点是本地优先：用户可以在自己的设备上通过llama.cpp或Ollama等本地模型运行它，从而保护隐私；也可以连接任意其他AI模型。这意味着，无论是需要自动填写表单、抓取特定信息，还是执行复杂的网页操作流程，WebBrain都能在不依赖云端服务的情况下独立完成，为注重数据安全的用户提供了新的选择。\n在AI安全与基础设施层面，英伟达发布了两项重要动态。一方面，英伟达开发者博客介绍了基于硬件的AI安全方案，强调在不影响系统运行速度的前提下，为AI应用提供底层安全保护。随着企业大规模部署AI，安全顾虑往往成为阻碍采用的关键因素，而英伟达的方案试图从硬件层面解决这一矛盾，让组织在享受AI带来的生产力和创新提升时，不必牺牲性能。\n另一方面，英伟达正式邀请合作伙伴共同参与AI基础设施的大规模建设。该公司指出，AI正从模型开发阶段转向生产推理阶段，计算需求正在加速增长，并且重心正在向持续运行的“AI工厂”转移——这些工厂需要大规模、多租户的加速计算能力，以持续生成token。英伟达认为，这一转变要求行业提供能够支撑海量推理任务的基础设施，而他们正在通过开放合作的方式，推动这一基础设施的构建。这标志着AI算力供给模式正在从单次训练任务向永续运营的规模化服务演进。\n此外，英伟达的云游戏平台GeForce NOW也在七月迎来新一批游戏。本月共有12款游戏加入该平台，其中包括《大富翁：星球大战英雄vs反派》，这款游戏将经典的棋盘游戏玩法与星球大战宇宙相结合。GeForce NOW通过云端GPU算力，让玩家无需高端硬件即可流畅运行这些游戏，这背后同样是英伟达在AI与图形计算领域积累的加速技术。从浏览器端的本地AI代理，到硬件安全方案，再到面向AI工厂的大规模算力部署，以及云游戏服务的持续扩展，这些动态共同勾勒出当前AI技术从终端到云端、从开发到应用的全链条演进图景。",
+      "durationHint": 1078,
+      "script": "人工智能领域在7月5日迎来多项重要进展。Anthropic公司当天发布了其负责任扩展政策的一次重大更新。这一政策框架旨在降低前沿人工智能系统可能带来的灾难性风险，而此次更新引入了更加灵活和细致的风险治理方法，标志着该公司在安全治理方面迈出了新的一步。\n与此同时，在开源工具领域，LlamaIndex推出了名为“legal-kb”的公共参考应用。该应用为智能体提供了类似文件系统的文档知识库访问能力，具体通过检索、查找、读取和grep等工具实现，并支持基于索引v2的混合语义搜索以及自动化的逐文件版本管理。这一工具旨在提升智能体对复杂文档库的操作效率。\n文档处理方面，结构化PDF到JSON的转换成为焦点。一篇发布于7月5日的指南指出，大多数企业数据仍存储在PDF、扫描件和幻灯片中，而大语言模型和智能体无法直接利用这些非结构化数据。开源文档提取模型在2026年已成为将此类数据转化为结构化JSON的标准方法，从而为人工智能系统提供可用的数据源。\n此外，谷歌在7月4日发布了一则引人注目的商业广告。该广告设想在《独立宣言》签署250周年之际，如果开国元勋们当时能够使用谷歌工作空间，历史文档的起草过程可能会有所不同。这则广告通过历史与人工智能的对比，引发了公众对技术如何影响创作与协作的思考。\n人工智能图像生成公司Midjourney近日在法庭上提出一项动议，要求三家好莱坞制片公司披露自身使用人工智能技术的具体细节。这一举动源于Midjourney与这些制片公司之间正在进行的法律纠纷。Midjourney方面认为，如果制片方在指控他人滥用AI的同时，自身也在使用类似技术，那么这些信息就应当被公开。目前该动议已提交至法院，尚待裁决。与此同时，科技巨头阿里巴巴据报已将Anthropic公司的编程工具Claude Code列为高风险软件，并禁止员工使用。这一内部禁令反映出企业对第三方AI工具安全性和数据合规性的高度警惕。Claude Code能够自动生成和修改代码，但阿里巴巴担心其可能带来代码泄露或引入不可控的依赖风险。在AI科研工具领域，Anthropic于6月30日发布了Claude Science的测试版。这是一个多智能体协作平台，运行在现有的Claude模型之上。系统内设一个协调智能体，负责将任务分派给基因组学、蛋白质组学和化学信息学等领域的专家智能体；另有一个审核智能体，专门检查引用和数字的准确性。平台生成的每一张图表都附带完整的可复现流程，旨在解决当前AI辅助科研中常见的“黑箱”问题，让实验结果的验证和复现变得更加透明。在硬件与自动化设计方面，英伟达推出了名为HORIZON的免手动智能体框架。该框架将每一个寄存器传输级设计问题封装为版本化的代码仓库，并实现了在基准测试中100%的完成率。HORIZON能够自动演进Git工作树，意味着工程师无需手动干预即可完成从代码编写到版本管理的全流程。这一成果对于芯片设计自动化具有重要意义，因为RTL设计是硬件开发中最复杂、最耗时的环节之一。英伟达表示，HORIZON不仅提升了设计效率，还通过版本控制确保了每一步修改的可追溯性。从行业趋势来看，AI大模型的应用正在从内容生成向更专业、更垂直的领域渗透。Midjourney与好莱坞的纠纷凸显了AI使用边界的法律争议，阿里巴巴对Claude Code的禁令则反映了企业在引入AI工具时的风险管理考量。而Anthropic和英伟达的新产品则分别指向了科研自动化和硬件设计自动化这两个高价值场景。这些动态共同表明，大模型技术正从通用对话和图像生成，逐步走向需要严格验证和高度专业化的工业与科研应用。未来，如何平衡创新速度与安全合规，将成为所有AI参与者必须面对的课题。\n法国人工智能初创公司Mistral AI自2023年成立以来，凭借其部分开源的大模型策略，迅速成为OpenAI的有力竞争者。该公司已获得巨额融资，其核心愿景是“将前沿人工智能交到每个人手中”。Mistral AI的崛起，标志着大模型领域不再只有闭源巨头的单一声音，开源与开放的路线正在为全球开发者提供更多选择。\n与此同时，个人部署大模型的趋势也在升温。有技术文章指出，虽然距离完全成熟的本地化应用还有很长的路要走，但自行搭建大型语言模型的未来前景广阔。这意味着，企业和个人开发者正逐步掌握定制化AI的能力，不再完全依赖云端服务。\n在提升大模型可靠性的方向上，一项针对检索增强生成（RAG）技术的新思路引发了关注。传统RAG系统往往直接返回文本片段，容易导致模型产生幻觉。新的方法提出了一种“类型化答案契约”：将输出结果的结构化模式视为一份合同，每个字段都对应一个向模型提出的问题，而每个答案都必须可核查。这种机制通过严格的模式约束，从流程上阻止了无根据的生成，为需要高可信度的企业文档智能处理提供了更坚实的保障。\n在数学证明与人工智能交叉领域，Leanstral 1.5版本正式发布。该项目旨在实现“证明丰裕”，让更多人能够利用AI辅助进行形式化数学证明。这一进展不仅对数学研究本身意义重大，也预示着大模型在逻辑推理和严谨验证方面的能力正在快速提升。\n法国人工智能初创公司Mistral AI发布了其最新代码模型Leanstral 1.5，这是一款基于Apache-2.0开源协议、专为Lean 4编程语言设计的代码智能体模型。该模型在数学推理基准测试中表现突出，不仅完全饱和了miniF2F测试集，还成功解决了PutnamBench题库中672道题目中的587道。PutnamBench是面向美国普特南数学竞赛的难题集合，Leanstral 1.5的解题率接近87%，显示出其在形式化数学推理领域的强大能力。值得注意的是，Leanstral 1.5采用了混合专家架构，总参数量达到1190亿，但每个token仅激活约65亿参数，这种设计在保持高性能的同时大幅降低了计算成本。Mistral AI此举延续了其开源路线，Leanstral 1.5的发布为形式化验证和自动定理证明领域提供了新的工具选择。\n在文档处理与自动化领域，一项新的技术教程展示了如何利用lift-pdf构建端到端的应付账款提取管线。该管线以结构化JSON模式作为目标输出格式，通过合成发票PDF作为受控测试文档，实现了从发票解析、数据验证到账目生成的全流程自动化。与传统的发票处理方式不同，这套方案引入了模式引导机制，即预先定义好目标数据字段的结构和约束，让提取过程严格遵循该模式，从而减少错误和歧义。教程特别强调了在处理复杂发票布局时，如何通过lift-pdf的灵活配置来适应不同格式，最终输出可直接用于财务系统的标准化数据。这一方案对于企业财务自动化、尤其是应付账款环节的效率提升具有实际参考价值。\n随着人工智能技术的快速普及，大量新术语和行业黑话涌入公众视野。为了帮助用户理解这些概念，一份年度AI术语汇编近日发布，收录了当前最常用、最重要的词汇和短语，并给出了清晰的定义。这份汇编涵盖了从基础概念如“大语言模型”“提示工程”，到前沿技术如“检索增强生成”“思维链推理”，再到行业热点如“AI对齐”“可解释性”等。对于非技术背景的从业者、投资者以及普通用户来说，这份术语表可以作为快速入门的参考工具，帮助他们在信息过载的AI领域找到方向。\n浏览器市场正在经历新一轮竞争，但焦点已不再是传统的搜索引擎之争。一份最新综述盘点了当前市面上挑战Chrome和Safari地位的几款主流替代浏览器。这些浏览器各具特色：有的主打隐私保护，通过内置广告拦截和反追踪功能吸引用户；有的强调性能优化，在内存占用和页面加载速度上做出改进；还有的专注于开发者工具和扩展生态。综述指出，用户选择浏览器的标准正在从单纯的搜索体验转向数据安全、跨设备同步、以及AI集成能力。随着浏览器逐渐成为AI应用的入口，这一领域的竞争格局可能还会进一步演变。\n大模型领域今天有多条值得关注的动态。首先，关于AI智能体的工作原理，一篇技术文章详细解释了ReAct循环机制。ReAct循环，即推理与行动循环，是智能体逐步推理、采取行动、观察结果并最终得出答案的核心流程。它让AI不再是一次性生成回复，而是像人类一样，先思考当前问题需要什么信息，然后调用工具或搜索知识库，再根据返回的结果调整下一步行动，直到达成最终目标。这种“思考-行动-观察”的迭代模式，正在成为构建自主智能体的基础框架。\n与此同时，关于长上下文模型与短上下文模型的性能对比也引发了讨论。一项分析指出，长上下文模型并非在所有场景下都占优。虽然它能一次性处理海量信息，比如整本书或长对话历史，但代价是更高的计算成本、更慢的响应速度，以及可能引入更多无关噪声。在实际应用中，当任务只需要聚焦于最近几轮对话或一小段关键文档时，短上下文模型反而能以更低延迟和更高准确率完成任务。因此，开发者需要在上下文能力、成本、速度和数据质量之间做出权衡，选择最适合具体场景的模型。\n在组织动态方面，谷歌DeepMind的工会化谈判开局并不顺利。在周三的谈判中，员工们表达了强烈不满，他们认为公司高管层对于工会化的前景缺乏真正有意义的参与意愿。员工代表指出，管理层在关键议题上态度模糊，未能就工作条件、薪酬公平和决策透明度等核心诉求给出实质性回应。这场谈判的走向，将直接影响DeepMind内部劳资关系的未来格局，也反映出大型AI研究机构在快速扩张过程中面临的人力管理挑战。\n此外，谷歌DeepMind还宣布与知名独立电影公司A24建立一项开创性的研究合作伙伴关系。这是两家机构首次在AI与创意内容领域展开深度合作。虽然具体合作细节尚未公布，但这一跨界联手预示着AI技术向影视制作、叙事生成等创意产业渗透的趋势正在加速。A24以其独特的艺术风格和高质量原创内容著称，而DeepMind在生成式AI和多模态理解方面拥有深厚积累，双方的合作可能探索出AI辅助剧本创作、虚拟场景生成或个性化观影体验等全新应用方向。\n大模型领域在7月3日有多项值得关注的动态。首先，在技术实践层面，有开发者对当前流行的“大模型维基”工具提出了反思。一篇来自Planet AI的文章指出，目前大多数基于大语言模型的维基系统过度依赖智能体、嵌入向量和反复调用模型来组织本地笔记，这种架构过于复杂。作者分享了一个替代方案：用纯Python编译器来构建一个确定性的维基系统。这个工具仅依赖Python标准库，就能将杂乱的Markdown文件转化为带有链接、经过格式检查的维基页面。这一思路提醒行业，在追求智能化工具的同时，不应忽视简单、可靠、可维护的工程方案。\n与此同时，面向开发者的入门教程也在持续更新。另一篇文章详细介绍了如何在Python环境中使用Claude API，包括如何通过官方SDK发起首次请求并处理响应。这类基础教程的持续出现，反映出大模型应用开发的门槛正在降低，更多开发者可以快速上手。\n在检索增强生成这一热门技术方向上，有专家提出了颠覆性的观点。一篇题为《RAG检索中未被教授的经验：余弦相似度并非基础》的文章指出，当前主流的RAG系统普遍将余弦相似度作为检索的默认首选，但这一做法存在根本性问题。文章提出了六条关于检索模块的立场，认为余弦相似度不应被视为检索的基石。这一观点挑战了行业内的常规认知，提示开发者在构建企业级文档智能系统时，需要重新审视检索策略的选择，而不是盲目遵循“余弦优先”的惯性思维。\n最后，在全球开源大模型的竞争格局中，一份报告对美国开源权重模型的现状进行了全面评估。在纪念美国建国250周年的背景下，该报告分析了美国开源权重模型的特点，并将其与中国和欧洲的模型进行了横向比较。报告指出，美国模型在某些方面具有优势，但也存在改进空间。这一对比分析有助于行业理解不同地区在开源大模型生态中的定位和差异，也为后续的技术发展提供了参考方向。\n大模型领域迎来多项新进展。首先，一款名为WebBrain的开源AI浏览器代理正式发布。这款工具采用MIT许可证，支持在Chrome和Firefox浏览器中运行，能够自动读取网页内容、提取数据，并通过“询问”和“执行”两种模式完成多步骤自动化任务。WebBrain的一大特点是支持本地部署，用户可以在llama.cpp或Ollama等本地模型上运行，从而保护隐私；同时也可以连接任意外部模型接口。这意味着，无论是需要自动化填写表单、抓取信息，还是执行复杂的网页操作，WebBrain都能在本地完成，无需将数据上传至云端。\n在AI安全领域，英伟达开发者博客发布了一篇技术文章，探讨如何在不影响性能的前提下实现基于硬件的AI安全。文章指出，AI已经深刻改变了企业的运营方式，带来了前所未有的生产力和创新，但安全顾虑始终是阻碍AI大规模部署的关键因素。英伟达提出的方案是通过硬件层面的安全根，在保障数据机密性和模型完整性的同时，不拖慢推理速度。这种硬件根植的安全机制，有望为AI工厂和云端推理提供更可靠的防护。\n与此同时，英伟达的云游戏平台GeForce NOW也在七月迎来新游戏阵容。本月共有12款游戏加入平台，其中包括《大富翁：星球大战英雄vs反派》，这款游戏将经典的棋盘玩法与星球大战宇宙相结合。此外，还有多款新作同步上线，为玩家提供夏日游戏体验。\n而在AI基础设施层面，英伟达发布了一项重要声明，邀请合作伙伴共同参与AI计算基础设施的大规模建设。随着AI从模型开发阶段转向生产级推理，计算需求正在加速增长，并且逐渐转向持续运行的AI工厂——这些工厂需要以极高的效率生成海量token。这一转变要求企业能够获得大规模、多租户的加速计算资源。英伟达表示，正在开放其技术生态，与合作伙伴一起构建能够支撑AI推理时代的基础设施，从而满足从云端到边缘的多样化算力需求。",
       "generationMode": "deepseek",
-      "updatedAt": "2026-07-05T10:23:50.925Z"
+      "updatedAt": "2026-07-05T13:54:46.065Z"
+    },
+    {
+      "id": "section-b0dc2f50",
+      "title": "体育早报",
+      "subtitle": "体育重点新闻。",
+      "category": "体育",
+      "itemIds": [
+        "63f6c3daff98bd2b",
+        "b0f4dd1cbfedea41",
+        "1f9bbf5ff8906a89",
+        "30b1db6b968df8f9",
+        "31ecedb62f18c2a0",
+        "1446e212a6272267",
+        "f3fc49dacb424391",
+        "013275bfe9643084",
+        "880853ea9beb8a26",
+        "f23a78f748e4227b",
+        "6bfc4be2d6bb8bbc",
+        "c70ff279d9775397",
+        "be852f6c508a8a0c",
+        "4d33108ae2102b0d",
+        "3b25f108e20eaa7b",
+        "4d56ce87dbc36de3",
+        "e1549b54ed481ae3",
+        "bf97b04e66ba17c4",
+        "63d2a12e395b0010",
+        "219a27e5c230cfc4"
+      ],
+      "count": 20,
+      "durationHint": 1130,
+      "script": "截至7月5日 13:15，最新消息显示：\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。",
+      "generationMode": "local",
+      "updatedAt": "2026-07-05T13:55:33.737Z"
     },
     {
       "id": "section-def9ff54",
@@ -5541,8 +5502,11 @@
       "subtitle": "国际要闻重点新闻。",
       "category": "国际要闻",
       "itemIds": [
+        "0b273fd40bbb33d0",
         "7db3a429c286c02e",
+        "75d1871f978f08f7",
         "e69b56d428adb959",
+        "183db13ce112d71a",
         "931cfe28a04ac419",
         "9da8f499397243a7",
         "aef2b43b5f7bc659",
@@ -5567,50 +5531,15 @@
         "4b25208edc979c12",
         "053b7bf0a3fd52e3",
         "123c434a78547ccd",
-        "e21df4aa37923e9a",
         "bcf9f0bc25583c73",
         "1021668e6e9cc397",
-        "2e40dc2c6512b407",
-        "b09197903f43ee01",
-        "2537468d08bf213e"
+        "2e40dc2c6512b407"
       ],
       "count": 32,
-      "durationHint": 1059,
-      "script": "美国对华援助协会透露，北京锡安教会牧师金明日在被执法部门拘禁八个月后获释，并已抵达洛杉矶。金明日的获释时间点，正值中美元首近期进行交流之后，引发外界对两国关系微妙变化的关注。这位长期从事地下教会活动的牧师，其案件此前曾被视为中美宗教自由议题的焦点之一。\n与此同时，美国国内正沉浸在建国250周年的庆典氛围中。原定于7月4日举行的盛大庆祝活动因雷暴雨推迟，总统特朗普随后发表演讲，称“这仅是黄金时代的序幕”。他在讲话中重申了近期频繁提及的政治主题，包括反对共产主义、推动《拯救美国法案》立法以及捍卫持枪权。这场庆典不仅是对历史的回顾，更被外界视为特朗普政府凝聚民意、展示政治议程的重要场合。\n而在文化娱乐领域，美国流行乐坛巨星泰勒·斯威夫特与美式足球运动员特拉维斯·凯尔西在纽约市麦迪逊广场花园举行了盛大婚礼。这场星光熠熠的庆典吸引了全球目光，BBC记者全程见证了纽约市的欢庆气氛。泰勒·斯威夫特作为当代最具影响力的歌手之一，其个人生活动向始终是媒体追逐的焦点，此次婚礼更成为社交媒体上的热门话题。\n回到中国国内，演艺明星谢娜因“唱功差”遭遇网民大规模嘲讽，最终导致其演唱会取消。分析人士指出，这一事件折射出更深层的社会现象：在经济增长放缓、就业压力增大的背景下，演艺明星正成为年轻人对社会经济状况不满的宣泄口。谢娜的遭遇并非孤例，近年来多位明星因类似原因遭到舆论攻击，反映出公众情绪与娱乐产业之间的复杂互动。这种“明星出气筒”现象，实际上是中国年轻一代对现实困境的间接表达，也暴露出社会情绪管理面临的挑战。\n从国际到国内，从政治到文化，这些看似分散的新闻事件共同勾勒出当前世界的多元面貌。金明日的获释可能为中美关系带来新的对话空间，美国250周年庆典则凸显了特朗普政府的政治基调，泰勒·斯威夫特的婚礼展现了流行文化的全球影响力，而谢娜事件则揭示了转型期中国社会的情绪暗流。这些事件相互独立，却又在某种程度上反映了全球化时代各国面临的共同课题：如何在变革中寻找平衡，如何在表达中保持理性。\n梵蒂冈教廷近日宣布，将某个天主教内部反叛团体的成员逐出教会。这一决定标志着教廷对该团体长期以来的教义分歧和纪律挑战采取了最严厉的惩戒措施。被逐出教会的成员被指控公开违抗教宗权威，并在圣事和教义阐释上坚持与官方立场相悖的立场。教廷声明强调，此举旨在维护教会的统一和正统，并呼吁信众回归教宗的领导。该团体此前曾多次拒绝教廷的调解和警告，最终导致这一罕见且具有象征意义的绝罚令。与此同时，英国王室成员哈里王子回国的行程安排引发外界广泛关注。根据最初公布的细节，其妻子梅根·马克尔原定同行，但出于安全方面的担忧，梅根和孩子们目前不会在伦敦的行程开端出现。不过，消息人士透露，梅根有可能在本周晚些时候于英国其他地点现身。此次回国之旅的核心悬念，除了梅根是否最终会与哈里会合，更在于哈里与父亲查尔斯三世国王以及兄长威廉王子之间能否实现和解。自哈里夫妇退出王室高级成员职务并移居美国以来，双方关系持续紧张，多次公开言论和回忆录中的爆料加深了裂痕。此次回国是否能为修复家庭关系带来转机，目前仍是未知数。在健康与旅行安全领域，一则来自英国的病例报告引发关注。一名英国女子多年前在印度旅行时，因一顿饭感染了罕见的神经囊虫病。这种疾病由猪肉绦虫幼虫侵入中枢神经系统引起，导致多达38条寄生虫钻入她的脑部。经过多年治疗，医生确认已杀死所有虫卵，但寄生虫已在脑内钙化。患者最终未选择手术取出，目前处于带虫生存状态。神经囊虫病是发展中国家常见的寄生虫病，但在发达国家极为罕见，此案例再次提醒旅行者在卫生条件较差地区注意饮食安全。展望更远的未来，科学家对人类演化方向提出了新的思考。研究指出，人类仍在持续演化，但基因编辑等新技术的出现，可能以前所未有的方式改变我们的外貌和生理特征。例如，CRISPR等工具理论上可以定向修改胚胎基因，从而选择或增强特定性状。此外，环境变化、饮食习惯和医疗进步也在潜移默化中影响人类的演化轨迹。科学家预测，未来人类可能拥有更适应数字生活的感官，或者因基因干预而出现新的多样性。不过，这些变化的速度和方向仍充满不确定性，伦理和社会层面的讨论也远未达成共识。以上是今天的国际要闻。\n国际要闻方面，首先关注健康议题。英国广播公司报道指出，长期使用手机等科技产品，正在以人们未必察觉的方式改变身体。具体来说，手机及其数码“同伴”可能导致颈部形态改变、视力受损、运动技能受影响，以及肌肉力量削弱，症状包括手部无力和视力模糊。专家提醒，这种被称为“手机病”的现象日益普遍，用户应注意使用姿势和时长，定期休息以减轻对身体的潜在伤害。\n德国国内政治局势出现新动向。据亚洲新闻台报道，数千人在德国各地举行抗议活动，反对极右翼政党德国选择党。该党近期支持率上升，并明确将目标瞄准执政权力。抗议者表达了对该党移民政策、欧洲一体化立场以及民主价值观的担忧。分析人士指出，德国选择党若在即将到来的州选举或联邦层面取得突破，可能对德国乃至欧盟的政治格局产生深远影响。\n在美国独立日之际，民众对国家遗产与未来前景情绪复杂。亚洲新闻台报道，在美国“大生日”当天，许多人对国家的历史遗产和未来走向持有矛盾心态。一方面，庆祝活动延续传统，强调自由与民主的价值观；另一方面，社会分裂、政治极化以及经济不平等问题，让部分民众对国家的未来感到不确定。报道指出，这种混合情绪反映了美国社会在纪念建国时刻的深层反思。\n中东地区，伊朗支持的黎巴嫩真主党和巴勒斯坦哈马斯组织，出席了伊朗最高领袖哈梅内伊的葬礼相关仪式。亚洲新闻台报道了这一事件。哈梅内伊作为伊朗最高权力象征，其葬礼吸引了地区内多个盟友和代理力量的代表。真主党和哈马斯的出席，凸显了伊朗在“抵抗轴心”中的核心地位，以及这些组织与伊朗之间的战略协调关系。此举也向外界传递了伊朗及其盟友在地区事务中保持团结的信号。\n葡萄牙中部地区发生山林大火，数百名消防员正在奋力控制火势。目前暂无人员伤亡报告，但火势蔓延迅速，已威胁到多个居民点。当地政府已启动应急响应，并呼吁居民保持警惕。与此同时，美国迎来建国250周年纪念日。总统特朗普在庆祝活动中发表讲话，盛赞美国例外主义，并高度评价国家历史上的历任领导人。但他同时将矛头指向国内，警告所谓“激进分子和极端分子”正在对美国身份认同发起攻击。这番言论引发外界对国内政治分歧加剧的担忧。\n在伊朗，首都德黑兰出现大规模人群聚集，参加最高领袖哈梅内伊的葬礼仪式。数万名民众涌上街头，表达对这位已故领导人的敬意。葬礼安保措施严密，现场秩序总体平稳。哈梅内伊的去世被视为伊朗政治格局的重大转折点，其继任者人选及未来政策走向备受国际关注。\n乌克兰方面则持续加大对克里米亚的军事压力。有分析指出，基辅将克里米亚视为“普京王冠上的明珠”，正集中力量打击这一战略要地。克里米亚地区已宣布进入紧急状态，当地基础设施和军事目标频繁遭到袭击。分析人士认为，乌克兰此举意在削弱俄罗斯对克里米亚的控制，并试图在谈判中争取更多筹码。目前，俄方尚未就克里米亚局势作出正式回应，但已加强当地防空和防御部署。\n葡萄牙的山火仍在持续，消防部门正利用夜间气温下降的时机加紧作业。火势已烧毁数千公顷林地，部分村庄被迫疏散。气象部门预测，未来几天高温干燥天气将持续，灭火工作面临严峻挑战。美国独立日庆典期间，多地举行烟花表演和游行，但特朗普的讲话内容引发两党不同反应。民主党批评其言论分裂国家，而共和党则称赞其捍卫传统价值观。伊朗的葬礼仪式预计将持续数天，期间德黑兰部分区域实施交通管制。哈梅内伊的遗体将被安葬在德黑兰南部的圣陵，其家族成员和高级神职人员已开始商讨继任事宜。乌克兰对克里米亚的打击行动已持续数周，目标包括军事基地、弹药库和指挥中心。当地居民生活受到严重影响，电力供应和通信网络频繁中断。国际社会呼吁双方保持克制，避免局势进一步升级。\n委内瑞拉地震救援工作逐渐收尾，官方统计显示，地震已造成2645人死亡，超过12000人受伤。随着搜救行动进入后期，遇难者家属正迫切要求政府提供更多帮助，以妥善处理遇难者遗体并获取必要的善后支持。目前，灾区仍面临物资短缺和医疗资源紧张的局面，国际社会持续关注委内瑞拉的灾后重建需求。\n与此同时，美国东海岸正经历一场危险的热浪，气温已达到峰值。当局紧急呼吁民众注意防暑降温，因为极端高温不仅对电力系统构成严峻考验，还威胁到户外庆祝活动和即将举行的世界杯比赛。多地政府已开放避暑中心，并提醒居民减少外出，避免中暑和热射病。这场热浪预计还将持续数日，对公共健康和安全带来持续挑战。\n在国际政治与安全领域，乌克兰的支持者计划在即将于安卡拉举行的北约峰会上作出重大援助承诺。乌克兰总统泽连斯基预计将亲自出席此次峰会，与北约成员国领导人商讨进一步的安全保障和军事支持。分析人士认为，此次峰会将重点讨论如何协调对乌克兰的长期援助，以应对当前持续的冲突局势。\n欧盟委员会则提出了一项新的防务合作倡议，宣布启动五个重大跨境防务项目。欧盟委员会在一份声明中指出，这些新项目为成员国提供了一个合作框架，使它们能够共同开发那些规模过大或过于复杂、单个国家难以独立完成的防务计划。此举旨在加强欧洲的集体防御能力，减少对域外军事技术的依赖，并推动欧洲防务工业的整合与创新。这五个项目涵盖领域包括空中防御系统、网络安全、海上监视以及军事机动性等关键方向，预计将显著提升欧盟在战略自主方面的实际进展。\n法国达飞海运集团首席执行官透露，该公司一艘集装箱船在霍尔木兹海峡遭导弹击中，可能面临报废处理。这艘船在航行中遭到袭击，具体损伤情况尚在评估，但首席执行官表示，受损程度可能已使该船失去修复价值。霍尔木兹海峡是全球最重要的石油运输通道之一，此次事件再次引发外界对中东航运安全的担忧。目前，达飞集团正与相关方面协调后续处置方案，并加强该区域的航行安全措施。\n与此同时，比利时一家钻石集团在获得关税减免后，向美国前总统特朗普赠送了一枚镶满钻石的戒指。这枚戒指在安特卫普制作，镶嵌了321颗钻石，并刻有“为唐纳德·约翰·特朗普在安特卫普精心打造”的字样。该集团此前因贸易政策获得关税优惠，此举引发外界对政商关系的关注。目前，特朗普方面尚未公开回应此事，但这一礼物已在美国政界和舆论中引发讨论，部分人士质疑其是否符合道德规范。\n在纪念美国独立250周年之际，教皇利奥十四世发表讲话，赞扬美国历史上欢迎移民的传统。他呼吁美国民众展现“对他人的尊重”，并努力“寻找共同点”。教皇在讲话中强调，移民为美国的发展做出了重要贡献，而当前全球面临的挑战更需要各国团结合作。这一表态正值美国国内移民政策持续引发争议之际，教皇的言论被视为对包容与对话的呼吁，也反映了梵蒂冈对国际社会团结的期待。\n伊朗最高领袖哈梅内伊的遗体在德黑兰停灵，伊朗开始为期一周的葬礼仪式。预计将有1500万至2000万哀悼者参加相关活动，随后哈梅内伊将被安葬在东北部城市马什哈德，他的出生地。哈梅内伊的去世在伊朗国内引发巨大震动，数万民众涌上街头表达哀悼。葬礼期间，伊朗政府加强了安全措施，并呼吁民众保持秩序。哈梅内伊的继任者问题也成为外界关注焦点，目前伊朗最高权力机构正在按照宪法程序推进相关安排。此次葬礼规模空前，不仅反映了哈梅内伊在伊朗的宗教和政治影响力，也凸显了当前中东地区复杂的地缘政治格局。\n随着美国即将迎来建国250周年，大西洋彼岸的英国也在以各种方式纪念这场重大的“分手”事件。1776年，北美十三州宣布脱离英国独立，如今，这场历史性的分裂不仅在美国引发庆祝，在英国本土也催生了反思与纪念活动。从学术研讨会到文化展览，英国人试图重新审视这段共同的历史，以及两国之间延续至今的特殊关系。\n在日本，女性从政与育儿之间的矛盾再次成为焦点。京都府八幡市35岁的女市长川田祥子，即将成为日本历史上首位在任期间休产假的市长。她计划在产前和产后各休假两个月，期间由副市长代理职务。然而，这一决定在当地引发了激烈辩论。支持者认为这体现了职场平等，反对者则质疑市长能否在关键时刻放下职责。这一事件凸显了日本女性在政治领域面临的制度困境，尤其是在育儿支持体系尚不完善的背景下。\n与此同时，中国的乙女游戏正在模糊虚拟与现实的界限。这类以女性为目标受众的恋爱模拟游戏，如今已能陪伴玩家工作、学习甚至睡觉。玩家可以给游戏中的角色发送微信消息，浏览他们的朋友圈，仿佛这些“纸片人老公”真的进入了现实生活。这种沉浸式体验不断强化着一种情感连接，让虚拟恋爱变得愈发真实。随着技术发展，这类游戏正在重新定义人与人之间的情感互动方式。\n而在韩国，世界杯的提前出局引发了球迷的强烈愤怒。赛后，球迷们高呼“韩国足球已死”，痛批足协用人唯亲、缺乏透明度和长期战略。总统李在明也公开要求对韩国足球进行彻底改革。这场败战不仅暴露了战术和训练上的问题，更让外界质疑韩国足球的管理体制。球迷们希望，这次失败能成为推动变革的契机，而非又一次的失望循环。",
+      "durationHint": 1114,
+      "script": "国际要闻方面，美国流行乐坛巨星泰勒·斯威夫特与美式足球明星特拉维斯·凯尔西在纽约麦迪逊广场花园举行了盛大婚礼。这场星光熠熠的庆典吸引了全球目光，BBC记者全程见证了纽约市的喜庆气氛。值得注意的是，这对新人奉行“不收礼”政策，但如今许多婚礼请柬上常见这样的说法：“你们的到场就是最好的礼物，但如果你想送我们点什么，请捐入我们的蜜月基金。”这一趋势在英国甚至引发了一个有趣的现象：有人靠随礼攒钱做试管婴儿，显示出婚礼礼金在现代社会中的多样化用途。\n与此同时，中国地下教会牧师金明日在被拘禁八个月后获释。美国对华援助协会表示，北京锡安教会牧师金明日已被执法部门释放，并送抵洛杉矶。这一事件发生在中美元首交流之后，外界普遍认为两国高层沟通对宗教自由议题产生了积极影响。金明日牧师长期从事地下教会活动，其获释被视为中美关系中的一个积极信号。\n石油市场方面，石油输出国组织及其盟友，也就是OPEC+，批准了进一步增加石油产量。这一决定是在霍尔木兹海峡的石油出口开始恢复的背景下做出的。霍尔木兹海峡是全球最重要的石油运输通道之一，此前因地缘政治紧张导致出口受阻，如今局势缓和，OPEC+选择增产以稳定市场供应。分析人士指出，这一举措可能对全球油价产生下行压力，但也需关注需求端的变化。\n回到泰勒·斯威夫特的婚礼，这场在纽约地标性场所举行的庆典不仅是一场个人盛事，也引发了关于婚礼礼金文化的讨论。传统上，宾客会赠送实物礼物，但如今越来越多新人倾向于现金或蜜月基金捐款。英国甚至有报道称，有人通过参加多场婚礼积累的随礼，最终实现了做试管婴儿的愿望。这一现象反映出社会习俗的演变，以及经济压力下人们对礼金用途的重新思考。\n金明日牧师的获释也引发了国际社会对中国宗教政策的关注。美国对华援助协会强调，金明日被拘禁八个月后终于重获自由，并被送往洛杉矶。这一进展被解读为中美两国在元首交流后，在人权和宗教自由领域取得的具体成果。不过，中国官方尚未就此发表正式声明，外界仍在等待更多细节。\nOPEC+的增产决定则直接关系到全球能源市场。随着霍尔木兹海峡出口逐步恢复，OPEC+成员国同意提高产量配额，以应对潜在的供应短缺。这一决策旨在平衡市场，防止油价因供应紧张而大幅上涨。然而，全球经济复苏步伐不一，需求前景仍存在不确定性，OPEC+的增产能否有效稳定市场，还需观察后续数据。\n总体来看，今天的国际要闻涵盖了娱乐、宗教和能源三大领域。泰勒·斯威夫特的婚礼不仅是一场明星盛宴，也折射出社会礼俗的变迁；金明日牧师的获释则凸显了中美外交互动的影响；而OPEC+的增产决定，则是对地缘政治缓和与市场供需变化的直接回应。这些事件虽看似独立，却共同勾勒出当前国际社会的多元面貌。\n中国与俄罗斯宣布将于近期举行联合海军演习。此次演习距离俄罗斯总统普京访华约两个月，被视为两国军事合作持续深化的最新信号。分析人士指出，中俄定期举行的联合军演旨在提升双方在亚太地区的协同作战能力，并应对共同的安全关切。与此同时，美国于7月4日举行了建国250周年庆典。尽管庆典因雷暴雨一度延迟，但总统特朗普在随后的演讲中表示，这“仅是黄金时代的序幕”。特朗普在讲话中重申了他近期频繁提及的政治主题，包括反对共产主义、推动其支持的《拯救美国法案》立法，以及捍卫持枪权。这场庆典在政治分裂的背景下举行，特朗普的言论也引发了不同阵营的解读。在文化与社会领域，中国知名主持人、歌手谢娜因网民嘲讽其“唱功差”而取消演唱会的事件持续发酵。分析认为，这一现象折射出更深层的社会情绪：演艺明星正日益成为中国年轻人对经济与社会状况不满的宣泄口。舆论指出，在经济增长放缓、就业压力增大的背景下，公众对明星高收入与专业能力不匹配的容忍度正在降低，网络批评成为情绪出口。国际宗教事务方面，梵蒂冈宣布将某个反抗天主教会的团体成员逐出教会。该团体因不服从教宗权威、自行组织活动而被视为分裂行为。教廷的声明强调，此举旨在维护教会统一与教义纯洁，并警告其他信徒不得参与该团体的活动。这一决定在部分天主教徒中引发争议，但教廷坚持其立场。回到中俄军演，此次演习的规模与具体科目尚未完全公布，但外界普遍关注其是否涉及反潜、防空及联合登陆等复杂课目。军事专家指出，中俄海军近年来在东海、南海及地中海等海域的互动日益频繁，双方正通过机制化联演提升互信与战术配合。与此同时，美国250周年庆典的余波仍在持续。特朗普在演讲中提到的《拯救美国法案》旨在限制非法移民、加强边境安全，并改革选举制度，但该法案在国会面临民主党的强烈反对。持枪权问题同样是美国社会的核心分歧点，特朗普重申支持宪法第二修正案，承诺保护守法公民的持枪权利。谢娜事件则凸显了中国娱乐产业的生态变化。随着监管收紧与观众审美提升，流量明星与实力派演员的界限日益分明。谢娜作为综艺主持人出身，其跨界举办演唱会的尝试遭遇滑铁卢，被部分网民视为“专业能力不足”的典型案例。这一事件也促使行业反思：在社交媒体时代，公众对艺人的要求已从“娱乐性”转向“专业性”，任何技能短板都可能被放大。梵蒂冈的逐出教会令则再次暴露了天主教内部的派系斗争。被逐出教会的团体主张回归传统礼仪，并质疑第二次梵蒂冈大公会议的改革。教宗方济各一直致力于推动教会现代化与包容性，此次强硬措施表明其维护权威的决心。然而，也有观察家担心，此举可能加剧保守派与自由派之间的裂痕。总体来看，今日国际要闻涵盖了地缘政治、国内政治、社会文化与宗教事务等多个维度。中俄军演延续了大国博弈的叙事，美国庆典则映射出其内部的政治极化，谢娜事件折射出中国社会转型期的集体情绪，而梵蒂冈的宗教裁决则揭示了传统权威在现代社会面临的挑战。这些事件虽发生在不同领域，但共同指向一个核心命题：在快速变化的时代，各方力量都在寻求重新定义规则与边界。\n英国王室哈里王子回国的行程细节引发外界持续关注。根据最初公布的安排，梅根·马克尔原本在随行名单中，但由于安全方面的担忧，她和孩子们不会在伦敦行程的开端出现。不过，消息人士透露，梅根有可能在本周晚些时候于英国其他地点现身。外界普遍关注，哈里此次回国是否将与父亲查尔斯三世国王以及兄长威廉王子实现和解，但目前没有任何官方消息证实相关会面安排。王室内部人士表示，各方都在谨慎处理此次行程，避免引发新的争议。\n一名英国女子在多年前前往印度旅行时，因一顿饭感染了罕见的神经囊虫病。这种疾病由猪肉绦虫的幼虫侵入大脑引起，导致38条寄生虫钻进了她的脑部。经过多年治疗，寄生虫已经钙化，但医生并未进行手术取出，而是通过药物杀死了所有虫卵。患者目前仍在接受定期监测，但症状已得到控制。医学专家提醒，前往寄生虫高发地区旅行时，务必注意饮食卫生，避免食用未彻底煮熟的食物。\n人类未来的演化方向成为科学界热议的话题。科学家指出，人类仍在持续演化，但基因编辑等新技术的出现，可能使我们的外貌以意想不到的方式改变。例如，CRISPR等基因编辑工具理论上可以修改胚胎的基因，从而影响身高、肤色甚至智力等特征。此外，环境因素也在发挥作用，比如长期使用电子设备可能导致颈部形态改变、视力下降以及手部肌肉力量减弱。专家强调，虽然技术提供了改变人类自身的能力，但伦理和社会影响需要慎重考量。\n科技产品正在以人们未必察觉的方式改变身体。手机及其数码“同伴”可能导致颈部形态改变、视力损害、运动技能下降以及肌肉力量削弱。医学研究显示，长时间低头使用手机，会使颈椎承受相当于头部重量数倍的压力，进而引发“手机脖”或颈椎病。同时，屏幕蓝光会损伤视网膜细胞，导致视力模糊和干眼症。此外，频繁点击和滑动屏幕可能影响手部精细运动能力，甚至引发腱鞘炎。专家建议，定期休息、调整姿势并减少屏幕使用时间，有助于缓解这些症状。\n德国多地爆发大规模抗议活动，反对极右翼政党德国选择党谋求执政。数千名示威者走上街头，表达对该党日益增长的政治影响力的担忧。德国选择党近期在民调中支持率持续攀升，并已明确将目标锁定在参与联邦政府执政上，引发德国社会广泛争议。抗议活动在多个城市同时举行，参与者呼吁主流政党团结一致，阻止极右翼势力进入政府决策层。\n在美国独立日这一天，美国民众对这个国家的历史遗产和未来走向怀有复杂情绪。7月4日是美国建国250周年的重要节点，但庆祝活动背后，不同群体对国家的认同感、对历史遗留问题的看法以及对未来发展的期待呈现出明显分歧。一些民众在纪念国家诞生的同时，也在反思种族平等、社会公正等长期未解的深层矛盾。这种混合着自豪与忧虑的情绪，成为今年独立日美国社会的一个显著特征。\n伊朗支持的黎巴嫩真主党以及巴勒斯坦伊斯兰抵抗运动哈马斯的代表，出席了伊朗最高领袖哈梅内伊的葬礼相关仪式。这一举动凸显了伊朗与这些中东武装组织之间紧密的同盟关系。哈梅内伊的逝世在伊朗国内及整个中东地区引发广泛关注，各方势力都在密切关注伊朗权力交接后的政策走向。真主党和哈马斯的高调出席，不仅是对逝者的致敬，更是向外界展示其与伊朗战略联盟的稳固性。分析人士指出，这一事件可能对中东地区未来的地缘政治格局产生深远影响，尤其是在伊朗与以色列及西方国家的紧张关系持续升级的背景下。\n葡萄牙正面临严峻的森林火灾考验，数百名消防员正在奋力扑救一场大规模山火。火势在葡萄牙中部地区迅速蔓延，高温和强风天气给灭火工作带来巨大困难。目前已有数百名消防员投入一线，同时出动多架飞机进行空中洒水作业。葡萄牙政府已启动应急机制，并呼吁周边地区居民保持警惕，随时准备疏散。近年来，南欧地区夏季高温干旱天气频发，导致森林火灾风险显著上升。葡萄牙此次火灾再次引发人们对气候变化加剧极端天气事件的担忧。当地气象部门预计，未来数日高温天气仍将持续，灭火形势依然严峻。\n美国迎来建国250周年纪念日，总统特朗普在庆祝活动中发表讲话，强调美国例外论，并赞扬了国家历史上的多位领导人，同时将矛头指向国内所谓的“激进分子和极端分子”，警告美国身份正遭受“攻击”。特朗普的这番言论，在独立日这个象征团结与自由的日子里，再次凸显了美国社会内部深刻的政治与文化分歧。\n与此同时，伊朗首都德黑兰出现大规模人群聚集，参加最高领袖哈梅内伊的葬礼仪式。哈梅内伊的逝世在伊朗国内引发巨大震动，数万民众涌上街头表达哀悼。葬礼的举行标志着伊朗一个时代的结束，外界正密切关注其继任者如何确立权威，以及这一权力交接将如何影响伊朗的内政外交走向，尤其是在核问题谈判和地区代理人网络等关键议题上。\n乌克兰方面继续加大对克里米亚的军事与政治压力。有分析指出，基辅正将克里米亚视为重点打击目标，因为这块被俄罗斯于2014年吞并的半岛具有极高的象征意义，被称为“普京王冠上的明珠”。乌克兰的持续施压，不仅意在削弱俄军在黑海地区的军事存在，更试图从心理和战略层面动摇俄罗斯对克里米亚的控制。目前克里米亚已宣布进入紧急状态，以应对来自乌克兰方面的持续威胁。\n南美洲的委内瑞拉则深陷自然灾害与人道危机的双重打击。在强烈地震发生后，官方统计死亡人数已上升至2645人，另有超过12000人受伤。随着大规模搜救行动逐渐收尾，遇难者家属正迫切要求政府提供更多帮助，以找回亲人的遗体并妥善安葬。地震给本已深陷经济困境的委内瑞拉带来了毁灭性打击，基础设施严重受损，医疗资源极度匮乏，国际社会的人道主义援助正在加速进入灾区。\n美国东海岸正经历一场危险的热浪，多地气温已达到峰值。当局紧急呼吁民众注意防暑降温，因为极端高温不仅对电网构成巨大压力，还威胁到户外庆祝活动以及正在进行的足球世界杯比赛。这场热浪预计将持续数日，相关部门已开放避暑中心，并建议居民减少不必要的户外活动。\n与此同时，国际安全局势出现新动向。乌克兰的支持者们计划在即将于安卡拉举行的北约峰会上做出重大承诺。乌克兰总统泽连斯基预计将亲自出席此次峰会，寻求盟友在军事和财政上的进一步支持。分析人士指出，此次峰会可能成为西方对乌援助政策的一个关键节点。\n在防务合作领域，欧盟委员会提出了一项涉及五个重大跨境防务项目的计划。委员会在一份声明中表示，这些新项目为欧盟成员国提供了一个合作框架，使它们能够共同开发那些规模过大或过于复杂、单个国家难以独立完成的重大防务倡议。此举旨在提升欧洲整体的防务自主性和协同作战能力。\n中东地区的紧张局势也出现新情况。法国达飞海运集团的一艘货船在霍尔木兹海峡遭到导弹袭击。公司首席执行官透露，这艘受损严重的船只可能将被送往拆船厂报废。目前，该事件的具体原因和后续影响仍在评估中，但已引发国际航运界对霍尔木兹海峡安全状况的担忧。\n比利时一家钻石集团在获得关税减免后，向美国前总统特朗普赠送了一枚镶嵌321颗钻石的戒指。这枚戒指在安特卫普制作，刻有“为唐纳德·约翰·特朗普在安特卫普打造”的字样。该集团此前因贸易政策获得关税优惠，此举引发外界对政商关系的关注。\n在纪念美国独立250周年之际，教皇利奥十四世发表讲话，赞扬美国历史上欢迎移民的传统。他呼吁美国人在当前政治分歧中展现“尊重他人观点”的态度，并努力“寻找共同点”。教皇的言论被视为对移民议题的温和表态，正值美国社会围绕移民政策展开激烈辩论。\n伊朗最高领袖哈梅内伊的遗体在德黑兰停灵，伊朗开始为期一周的葬礼仪式。预计将有1500万至2000万哀悼者参加相关活动，随后遗体将被安葬在其出生地、东北部城市马什哈德。哈梅内伊的去世标志着伊朗政治进入新阶段，继任者人选和内外政策走向备受关注。\n当美国人庆祝从英国独立250周年时，大西洋彼岸的英国人也在以各种方式纪念这场历史性的“分手”。英国各地举办展览、讲座和重演活动，反思殖民历史与两国关系的演变。这一纪念活动凸显了英美之间复杂的历史纽带，以及当代社会对帝国遗产的重新审视。",
       "generationMode": "deepseek",
-      "updatedAt": "2026-07-05T10:24:33.605Z"
-    },
-    {
-      "id": "section-b0dc2f50",
-      "title": "体育早报",
-      "subtitle": "体育重点新闻。",
-      "category": "体育",
-      "itemIds": [
-        "1f9bbf5ff8906a89",
-        "30b1db6b968df8f9",
-        "31ecedb62f18c2a0",
-        "1446e212a6272267",
-        "013275bfe9643084",
-        "880853ea9beb8a26",
-        "f23a78f748e4227b",
-        "6bfc4be2d6bb8bbc",
-        "c70ff279d9775397",
-        "be852f6c508a8a0c",
-        "4d33108ae2102b0d",
-        "3b25f108e20eaa7b",
-        "4d56ce87dbc36de3",
-        "e1549b54ed481ae3",
-        "bf97b04e66ba17c4",
-        "63d2a12e395b0010",
-        "219a27e5c230cfc4",
-        "30d68134cab93d58",
-        "87f53498c234f7d2"
-      ],
-      "count": 19,
-      "durationHint": 1133,
-      "script": "国际游泳联盟宣布，将补发2021赛季拖欠的奖金，并计划在近期重启赛事。这一决定意味着，过去几年因财务问题而陷入停滞的联盟，正在尝试重新赢得运动员和赞助商的信任。联盟方面表示，资金已经到位，将尽快完成支付，同时也在规划新的赛季安排，以恢复国际游泳赛事的正常节奏。对于运动员来说，这笔迟来的奖金不仅是经济上的补偿，也关系到联盟未来的信誉。\n世界杯赛场上的音乐，背后其实有着精心的设计。每首歌曲的选择，都不仅仅是为了烘托气氛，更是为了与比赛节奏、球队文化以及当地观众的情感产生共鸣。从激昂的摇滚到传统的民谣，音乐在球场中扮演着情绪引导者的角色。主办方会提前研究各支球队的球迷习惯，甚至根据比赛的关键时刻——比如进球后、中场休息或终场哨响——来切换不同的曲目。这种细节上的考量，让音乐成为世界杯体验中不可或缺的一部分。\n巴基斯坦板球队宣布更换队长，巴巴尔·阿扎姆将重新担任测试赛队长，接替此前带队征战西印度群岛和英格兰系列赛的沙恩·马苏德。这一变动发生在球队即将迎来新一轮国际赛程之际。巴巴尔·阿扎姆此前曾担任过队长，但后来因战绩波动被替换。如今他再次被委以重任，显示出巴基斯坦板球委员会希望借助他的经验和领导力，来稳定球队在长赛制比赛中的表现。接下来对阵西印度群岛和英格兰的系列赛，将是对新队长和整支球队的严峻考验。\n美国田径选手塔拉·戴维斯-伍德霍尔在尤金站夺冠后，首次公开谈及自己的心理健康问题。她表示，尽管在赛场上取得了胜利，但内心的挣扎远比外界看到的要复杂。她坦言，长期的高强度训练和比赛压力，加上对成绩的持续追求，曾让她感到极度疲惫和焦虑。她希望通过分享自己的经历，让更多人意识到运动员在光环背后所承受的心理负担。戴维斯-伍德霍尔的这番话，也引发了体育界对运动员心理支持体系的再次讨论。\n在足球王国巴西，世界杯的观赛方式正在发生深刻变化。一家新兴的流媒体平台成功将大量观众从传统电视屏幕吸引到了YouTube上，这标志着巴西球迷的收视习惯正经历一场前所未有的转型。长期以来，巴西人习惯于围坐在电视机前观看国家队比赛，但今年世界杯期间，这家流媒体平台凭借更灵活的观看方式、多角度镜头以及实时互动功能，抢走了相当一部分电视直播的份额。数据显示，在巴西队的关键场次中，YouTube频道的独立观众峰值一度逼近甚至超过部分传统电视台的收视率。这一趋势不仅反映了年轻一代球迷对数字平台的依赖，也迫使传统广播公司重新思考转播策略。对于广告商而言，流媒体平台的精准投放和用户数据优势正在重塑体育营销的版图。\n与此同时，巴拉圭国家队主教练在球队出局后坦言，虽然不会公开抱怨，但内心的创伤依然难以愈合。在刚刚结束的一场激烈较量中，巴拉圭队拼尽全力，最终仍未能改写命运。主教练在赛后新闻发布会上表示，球员们付出了全部，但足球比赛的结果往往由细节决定。他承认，更衣室里的气氛沉重，部分球员甚至无法掩饰失落。尽管他拒绝将失利归咎于裁判或对手，但言语间透露出对某些争议判罚的无奈。巴拉圭媒体分析认为，球队在关键阶段的防守失误和进攻效率不足是出局的主因，而主教练的“沉默”更像是一种克制的抗议。\n英格兰队方面，主教练图赫尔在赛前动员中强调，球队已经准备好在一场标志性的对决中书写属于自己的篇章。他提到，英格兰足球历史上不乏经典战役，而这一代球员有能力创造新的传奇。图赫尔特别指出，球队在战术执行和心理素质上都有了显著提升，面对即将到来的强敌，他们不会畏惧，反而会享受这种高压环境。英格兰队近期训练中重点演练了定位球和快速反击，图赫尔希望利用对手防线的空当制造杀机。队长凯恩也在采访中表示，全队上下团结一致，目标只有一个：让英格兰的名字再次被世界铭记。\n法国队主教练德尚则在另一场硬仗后展现了冷静的一面。面对巴拉圭队充满挑衅意味的战术，法国队没有陷入情绪陷阱，而是用沉稳的控球和精准的打击回应了对手。德尚在赛后承认，巴拉圭队的身体对抗和频繁的小动作确实给法国队制造了麻烦，但球员们保持了专注，没有让比赛失控。他特别表扬了中场球员在压力下的出球能力，以及后防线在关键时刻的补位。法国队凭借一次教科书般的团队配合打破僵局，最终有惊无险地拿下胜利。德尚表示，世界杯淘汰赛阶段容错率极低，任何情绪波动都可能导致崩盘，而法国队用成熟的表现证明了他们具备冠军的底蕴。接下来，法国队将迎来更严峻的考验，德尚强调球队需要继续保持这种“冷血”的竞技状态。\n巴西队主教练安切洛蒂对拉菲尼亚的回归持乐观态度，这位皇马边锋有望在下一场比赛中复出。与此同时，巴西队正在制定针对挪威前锋哈兰德的封锁计划，试图在即将到来的对决中限制这位曼城射手的威胁。安切洛蒂在赛前发布会上表示，拉菲尼亚的伤势恢复进展良好，球队医疗团队正在密切监测他的状态，如果一切顺利，他可能进入比赛名单。巴西队目前正全力备战，战术重点之一是遏制哈兰德的冲击力，教练组已安排专门的后防演练，力求通过整体协防切断他的接球路线。\n法国队则在一场艰苦的比赛中淘汰了巴拉圭，成功晋级下一轮。这场较量被外界视为一次严峻的考验，巴拉圭队展现了顽强的防守和凶狠的拼抢，给法国队制造了巨大麻烦。主教练德尚赛后坦言，他一度担心巴拉圭球员会“砍倒”姆巴佩，因为对手的防守动作非常强硬，多次对这位法国核心采取犯规战术。尽管场面紧张，法国队还是凭借整体实力和关键球员的发挥，最终以2比1的比分艰难取胜。这场胜利让法国队得以与摩洛哥会师世界杯四分之一决赛，两队将争夺一个半决赛席位。\n德尚在赛后新闻发布会上详细分析了比赛过程。他指出，巴拉圭的战术意图非常明确，就是通过身体对抗和密集防守来破坏法国队的进攻节奏，尤其是针对姆巴佩的突破，他们不惜采用多次战术犯规。法国队在上半场一度陷入被动，传球失误增多，进攻空间被压缩。但球队在下半场调整了策略，通过边路传中和中场远射来寻找机会，最终由替补上场的球员打破僵局。德尚强调，这样的硬仗对球队的意志力是很好的锻炼，也为接下来面对摩洛哥积累了经验。\n法国队与摩洛哥的对决备受关注。摩洛哥在之前的比赛中展现了出色的防守组织和快速反击能力，他们淘汰了多支强队，成为本届赛事的黑马。法国队需要警惕摩洛哥的边路突破和定位球战术，同时也要避免重蹈对阵巴拉圭时陷入肉搏战的覆辙。德尚表示，球队会针对摩洛哥的特点进行专项部署，重点保护后防线身后的空当，并利用姆巴佩和格列兹曼的速度来冲击对手的防线。这场四分之一决赛预计将是一场战术与体能的全面较量。\n巴西队方面，除了拉菲尼亚的伤情，球队的整体备战也在有条不紊地进行。安切洛蒂透露，球队已经观看了大量哈兰德的比赛录像，分析了他的跑位习惯和射门偏好。巴西后卫线将采取区域防守结合盯人的策略，由两名中卫轮流贴身干扰，同时边后卫需要及时回撤保护肋部。中场球员也将承担起拦截和补位的任务，防止哈兰德在禁区内获得轻松起脚的机会。安切洛蒂强调，限制哈兰德不能只靠后卫，全队都需要参与防守，从源头切断他的接球线路。\n拉菲尼亚的回归对巴西队的进攻端至关重要。他在边路的突破和传中是巴西队的重要进攻手段，他的速度和盘带能力能够撕开对手的防线。如果他能及时复出，巴西队的进攻选择将更加丰富，可以与维尼修斯形成两翼齐飞的局面。安切洛蒂表示，他不会冒险让拉菲尼亚提前复出，但医疗团队给出的评估是积极的，球员本人也表达了强烈的出战意愿。巴西队将在赛前最后一次训练中测试他的状态，届时再决定是否让他首发。\n法国队与摩洛哥的比赛将是两种足球风格的碰撞。法国队拥有世界级的球星和丰富的淘汰赛经验，而摩洛哥则依靠团队纪律和坚韧的防守一路过关斩将。德尚提醒球员们不能轻敌，摩洛哥能够走到这一步绝非偶然，他们击败了比利时、西班牙等传统强队，证明了自己的实力。法国队需要在比赛中保持耐心，避免因急躁而出现失误，同时要利用好定位球和反击机会。这场比赛的胜者将距离世界杯决赛更近一步，双方都志在必得。\n巴西队和法国队都在为各自的目标全力冲刺。安切洛蒂和德尚两位名帅的斗法也将成为焦点，他们需要在战术布置和临场调整上做出精准判断。拉菲尼亚的伤情和哈兰德的威胁是巴西队当前最关心的问题，而法国队则需要消化与巴拉圭一战的教训，以更好的状态迎接摩洛哥的挑战。世界杯的竞争日趋白热化，每一场比赛都可能决定球队的命运，球迷们期待看到更多精彩的对决。\n在刚刚结束的一场世界杯焦点战中，法国队凭借姆巴佩在关键时刻的冷静发挥，成功顶住了巴拉圭队如同火炉般炙热的攻势，最终拿下了比赛。姆巴佩在场上展现出的沉着与决断力，成为法国队在这场艰苦较量中突围的关键。这场胜利不仅让法国队继续在小组中占据有利位置，也向外界展示了这支球队在高压环境下的心理韧性。\n与此同时，墨西哥队主教练阿吉雷在赛前发布会上表示，他的球队已经做好了迎接英格兰队挑战的准备。阿吉雷强调，墨西哥队目前展现出了无私的团队精神，球员们愿意为整体战术牺牲个人数据，这种凝聚力将是他们对抗英格兰队的重要武器。墨西哥队在本届赛事中表现稳健，阿吉雷认为，面对英格兰这样技术全面、身体对抗激烈的对手，墨西哥队必须保持战术纪律，同时利用速度优势寻找反击机会。\n另一边，加拿大队在输给摩洛哥队之后，向国内球迷发出了坚定的信号。球队官方声明中写道，这段旅程才刚刚开始。尽管失利令人遗憾，但加拿大队认为，这是年轻阵容积累大赛经验的必经之路。球队管理层和教练组都相信，这批球员通过本届世界杯的历练，将在未来几年内成长为更具竞争力的队伍。加拿大队在比赛中展现出的拼劲和战术执行力，已经让球迷看到了希望，而他们也将带着这份信念继续前进。\n目光转向温布尔登网球公开赛。时隔一年，迪米特洛夫再次在温网赛场找回了胜利的感觉。他直落三盘击败了贝雷蒂尼，成功重返男单第四轮。一年前，迪米特洛夫正是在温网遭遇了令人心碎的失利，而这一次，他用一场干净利落的胜利宣告了自己的回归。面对发球和底线进攻都极具威胁的贝雷蒂尼，迪米特洛夫在关键分上的处理更加老练，尤其是他的反手切削和网前截击，多次打乱了对手的节奏。这场胜利不仅让迪米特洛夫在温网走得更远，也为他接下来的比赛注入了强大的信心。\n从世界杯赛场到温布尔登草地，全球体育赛事正在同步推进。法国队的沉稳、墨西哥队的团结、加拿大队的坚韧，以及迪米特洛夫在温网的重生，共同构成了这个体育日的多重看点。每一场比赛、每一次挥拍，都在书写着运动员们的故事，而这些故事背后，是无数汗水与坚持的累积。随着赛事深入，各支队伍和选手都将面临更加严峻的考验，而他们如何调整状态、应对压力，将决定最终能走多远。对于球迷而言，这无疑是一个充满悬念与激情的体育季节。\n加拿大男足在世界杯赛场上的征程已经画上句号。主教练马什在赛后表示，尽管球队未能更进一步，但他为队员们的表现感到骄傲。他特别提到，核心球员阿方索·戴维斯的缺阵对球队影响巨大，这在一定程度上削弱了加拿大队的进攻威胁和整体战术执行。马什强调，戴维斯不仅是边路突破的利器，更是更衣室的精神领袖，他的缺席让球队在关键比赛中缺少了改变战局的能力。不过，马什也指出，这支年轻的加拿大队在本次大赛中积累了宝贵经验，未来仍有成长空间。\n与此同时，网球赛场传来一则温馨消息。美国选手凯斯在温布尔登中央球场完成了她职业生涯中的一项心愿。她形容踏上这片传奇草地的感觉如同“打卡人生清单”，那种历史感和观众的专注让她深受触动。凯斯在比赛中展现了稳定的底线技术和强大的心理素质，成功晋级下一轮。对于许多球员而言，中央球场不仅是竞技场，更是一种荣誉的象征，凯斯此番圆梦，也为她的温网之旅增添了别样的色彩。\n摩洛哥队方面，中场球员奥纳西在新战术体系中找到了自己的爆发点。他在接受采访时表示，教练给予他的新角色让他重拾信心，而他也用进球回报了这份信任。奥纳西在场上位置更加灵活，既能参与防守拦截，又能前插完成致命一击。他的出色发挥不仅帮助摩洛哥队在比赛中占据主动，也让外界看到了这支北非劲旅在战术多样性上的潜力。奥纳西坦言，适应新位置需要时间，但一旦找到节奏，就能为球队带来更多进攻选择。\n从整体来看，这三条新闻分别反映了不同体育项目中的关键人物与转折点。加拿大男足的出局令人惋惜，但马什的乐观态度和戴维斯缺阵的遗憾，恰恰凸显了顶级赛事中核心球员的重要性。凯斯的个人里程碑则展示了职业运动员在追求胜利之外，对赛场本身的情感联结。而奥纳西的蜕变，则证明了战术调整和球员适应能力在团队运动中的决定性作用。\n在世界杯的舞台上，每一支球队的离开都伴随着反思与重建。加拿大队虽然未能走得更远，但他们的拼搏精神和年轻阵容已经为未来埋下伏笔。马什提到，球队需要更多像戴维斯这样的世界级球员，同时也需要完善青训体系，才能在国际赛场上持续竞争。而摩洛哥队的成功案例则提醒我们，有时改变并不需要大刀阔斧，一个位置的微调就能激活整支球队的进攻火力。\n网球方面，凯斯的温网之旅还在继续。她坦言，中央球场的氛围让她想起了自己最初爱上这项运动的时刻。这种纯粹的热爱，往往能帮助球员在高压环境下保持专注。凯斯的技术特点——强力发球和底线相持——在草地赛场上极具威胁，如果她能保持这种心态，或许能在本届温网走得更远。\n回到足球领域，奥纳西的进球不仅是个人的胜利，更是摩洛哥足球整体进步的缩影。近年来，摩洛哥队在国际赛事中屡有亮眼表现，其根源在于球员们敢于尝试新角色、新战术。奥纳西的故事也激励着更多年轻球员，不要害怕改变，因为每一次调整都可能带来意想不到的收获。\n综合来看，今天的体育早报呈现了竞技体育中三种不同的叙事：遗憾中的骄傲、梦想成真的喜悦，以及信任与回报的循环。加拿大男足虽然告别世界杯，但他们的未来值得期待；凯斯在温网中央球场圆梦，展现了运动员与赛场之间的情感纽带；奥纳西则用进球证明，战术信任和球员适应能力可以创造奇迹。这些故事共同构成了体育世界的丰富图景，也让我们看到，无论输赢，每一位运动员都在用自己的方式书写传奇。",
-      "generationMode": "deepseek",
-      "updatedAt": "2026-07-05T10:25:17.269Z"
+      "updatedAt": "2026-07-05T13:56:15.590Z"
     },
     {
       "id": "section-61910ae4",
@@ -5619,21 +5548,18 @@
       "category": "亚太",
       "itemIds": [
         "2f94ca5f5c0a70eb",
-        "89b94b5bfa6e9944",
         "11fcfa507d9c1d9c",
         "7ccfd539a7fea93c",
-        "09c733acf6103d16",
         "eb738b9b0045fc29",
         "ea0bcbf82435b7d3",
         "7b23aa395e4fa18e",
-        "fb611499537f5e72",
-        "87d2be8d8d598e32"
+        "fb611499537f5e72"
       ],
-      "count": 10,
-      "durationHint": 1135,
-      "script": "截至7月5日 09:42，最新消息显示：\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。",
+      "count": 7,
+      "durationHint": 1129,
+      "script": "截至7月5日 09:42，最新消息显示：\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。出现新的合作关系。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。",
       "generationMode": "local",
-      "updatedAt": "2026-07-05T10:26:03.424Z"
+      "updatedAt": "2026-07-05T13:57:12.347Z"
     },
     {
       "id": "section-0f0789ec",
@@ -5642,19 +5568,17 @@
       "category": "财经",
       "itemIds": [
         "fb7fa5e58d741dfe",
-        "c29748d3d5006941",
         "0b1f1aade3e0a8ba",
         "1c829a409cffcc8b",
         "b69a221d44db96e7",
         "ea3cdd1b75068203",
-        "ca3b86ad8e081dea",
-        "1bee348864ad9c68"
+        "ca3b86ad8e081dea"
       ],
-      "count": 8,
+      "count": 6,
       "durationHint": 1139,
-      "script": "截至7月5日 09:23，最新消息显示：\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。",
+      "script": "截至7月5日 09:23，最新消息显示：\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 0.5%。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在机器人。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在人工智能、企业落地。释放出新的行业信号。",
       "generationMode": "local",
-      "updatedAt": "2026-07-05T10:26:21.774Z"
+      "updatedAt": "2026-07-05T13:57:29.577Z"
     },
     {
       "id": "section-861ea4ec",
@@ -5694,10 +5618,10 @@
         "a0006ed8a5526604"
       ],
       "count": 30,
-      "durationHint": 1267,
-      "script": "益盛药业发布公告称，公司于7月1日收到吉林省药品监督管理局出具的《采取风险控制措施通知书》，因产品补金片存在严重缺陷，公司旗下生脉注射液和补金片的生产线已被暂停生产销售。根据公告，2025年度，涉事的生脉注射液和补金片营收分别占公司总营收的7.65%和0.01%。目前，益盛药业已启动补金片的三级召回程序，截至公告发布时，公司尚未收到相关不良安全事件的报告，并表示将积极配合监管部门进行整改。\n在业绩预增方面，奥来德发布了2026年半年度业绩预告，预计归属于上市公司股东的净利润将达到1.6亿元至1.9亿元，与去年同期相比，增幅高达492.49%到603.58%。公司方面解释，业绩大幅增长的主要原因是设备业务的核心竞争壁垒持续夯实，产品技术与市场卡位优势得到充分落地，相关业务收入实现大幅增长，盈利能力显著提升。\n同样发布业绩预增公告的还有浙富控股。公司预计2026年上半年归属于上市公司股东的净利润为12.5亿元至14.5亿元，比上年同期增长120.78%到156.11%。浙富控股表示，业绩变动主要得益于公司危废处置及再生资源综合利用业务保持稳健运营，产品销量稳步攀升，使得营业收入及盈利水平较上年同期实现了较大幅度增长。\n在热点概念方面，贝斯特发布公告称，公司股票已连续三个交易日收盘价格涨幅偏离值累计超过30%，属于股票交易异常波动。公司注意到市场对人形机器人等热点概念关注度较高，但需要说明的是，公司的人形机器人零部件业务目前仍处于样品阶段。2026年上半年，相关样品实现营收仅为22.3万元，占公司总营收比重约0.03%。贝斯特明确表示，该业务规模较小，对公司业绩不产生重大影响，未来收益存在重大不确定性。\n招商轮船发布业绩预告，预计2026年上半年实现归母净利润66亿元到73亿元，同比增幅高达214%到248%。公司方面表示，受供需结构变化及地缘局势等多种因素影响，国际油轮运输市场进入超级景气周期，报告期内部分航线现货运费率创出历史新高。与此同时，国际干散货市场受益于供需持续改善，BDI指数稳步回升。具体来看，招商轮船油轮船队承接了一季度的优秀表现，二季度克服了海峡封锁后油轮供过于求的阶段性困难，抓住市场机会再次取得良好业绩，环比一季度预计实现利润贡献增长50%左右；干散货板块表现同样出色，二季度也实现了显著增长。这一业绩预告反映出全球航运市场在复杂地缘政治和供需格局变化下的强劲复苏态势。\n永鼎股份也发布了2026年半年度业绩预告，预计上半年实现归母净利润5亿元到7亿元，与上年同期相比增加约1.8亿元到3.8亿元，同比增幅在57%到120%之间。公司公告称，业绩增长主要得益于主营业务板块的稳健发展，但未详细披露具体驱动因素。从行业背景看，永鼎股份主营光通信和电力传输等业务，近期国内通信基础设施建设和电网投资持续加码，为公司业绩提供了支撑。\n天山铝业同样交出了亮眼的成绩单，预计2026年上半年实现归母净利润42亿元，同比增长101.52%。公司解释称，报告期内受益于全球铝行业供需影响，电解铝产品销售价格显著上行；同时，公司140万吨电解铝绿色低碳能效提升项目按计划顺利推进，量价协同效应叠加一体化成本管控成效，推动电解铝板块盈利大幅增长。不过，二季度公司下属全资子公司新疆生产建设兵团第八师天山铝业有限公司上调了所得税率，影响了当期所得税费用。此外，公司下游铝深加工板块中，高纯铝受电解电容器行业需求增加等积极因素影响，也实现了良好表现。天山铝业的业绩增长反映了全球铝市场在能源转型和供应链调整背景下的景气周期。\n在股东动态方面，仕佳光子发布公告称，公司持股5%以上股东鹤壁投资集团基于自身经营需求，计划自公告披露之日起15个交易日后的3个月内，通过集中竞价方式减持不超过452万股，即不超过公司总股本的1%。截至公告日，鹤壁投资集团持有仕佳光子3000万股，占总股本6.64%。此次减持规模较小，但可能对市场情绪产生一定影响。仕佳光子主营光芯片及器件业务，近期受益于光通信和人工智能算力需求增长，公司股价表现活跃。股东减持计划披露后，投资者需关注后续执行情况及其对公司股价的短期压力。\n综合来看，今日多家上市公司发布的业绩预告显示，航运、有色金属和光通信等板块在上半年均实现了显著增长，反映出全球经济复苏和行业供需格局改善的积极趋势。同时，部分股东的减持计划也提醒市场关注个股层面的资金动向和风险因素。投资者在把握行业景气周期的同时，需结合公司基本面和市场环境进行理性判断。\n鸿海集团7月5号公布的最新数据显示，6月份销售额达到8218亿元新台币，同比大幅增长52.1%。公司方面此前已经透露，第二季度业绩远超预期，实现了显著增长。虽然第二季度通常是ICT行业的传统淡季，但鸿海预计，AI机架产品的出货将继续保持增长趋势，这成为拉动业绩的重要引擎。\n在化工领域，东方盛虹发布了2026年上半年的业绩预告，预计归母净利润在42亿元到50亿元之间，同比增长幅度高达987.39%到1194.51%。公司分析指出，上半年石化化工行业供需格局改善，带动了整体景气度的提升。同时，地缘局势紧张导致国际原油价格中枢上移，成本抬升以及原料供应偏紧，使得石化产品价格整体呈上升趋势，公司主要产品的价差扩大，从而带动了整体盈利能力的提升。\n资金流向方面，南向资金近期对部分个股的持股量出现了明显增长。根据7月5号的数据，最近一周有16只个股获得了南向资金持股量的环比增长，其中增幅超过10%的有6只。云知声的持股量环比增幅最大，达到66.22%。紧随其后的是壁仞科技，增幅为44.22%；东鹏饮料和英矽智能的持股量环比增幅也分别达到了34.2%和26.62%。\n生物科技领域，生物股份也发布了上半年业绩预告，预计归母净利润在9100万元到1.09亿元之间，同比增长50.6%到80.39%。公司表示，业绩大幅增长主要得益于反刍和宠物动保业务的大幅增长，产业并购的协同价值开始显现。此外，公司持续推进数字化、智能化、精益化管理，在销售费用、管理费用、制造成本以及研发成果转化率方面持续优化，叠加新产品上市等多重因素驱动，共同推动了经营业绩的显著改善。\n从这些企业的表现来看，无论是受益于AI产业浪潮的鸿海，还是受益于化工行业景气度回升的东方盛虹，抑或是通过内部管理和业务拓展实现增长的生物股份，都反映出当前不同行业在各自赛道上的积极变化。南向资金对云知声、壁仞科技等科技类个股的增持，也显示出市场对特定领域未来发展的关注。\n科技商业领域今天迎来多笔重磅融资，三家具身智能初创企业相继宣布完成大额融资，显示出资本市场对机器人智能系统的高度关注。\n首先来看，由香港大学多位教授联合创立的「忆生科技」宣布完成数亿元天使轮融资。这家公司致力于为机器人打造一套完整的记忆系统，其核心思路是从科学第一性原理出发，构建一个“感知—预测—交互”的闭环，从而统一机器人的“大脑”与“小脑”，探索下一代可解释的自主智能。本轮投资方阵容横跨产业资本与国资平台，包括正大集团旗下的中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本以及金舵资本等。融资资金将主要用于可解释具身控制大模型与物理世界模型的研发。\n几乎同一时间，另一家具身智能公司「光象科技」也宣布完成累计数亿元的天使轮融资。这家公司成立于2025年4月，由清华大学车辆与运载学院与人工智能学院联合孵化，创始团队来自清华车辆学院的师兄弟。最新一轮融资由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本以及上市公司行云科技等多家头部财务投资与产业资本深度参与，老股东零一创投和L2F光源创业者基金也持续加注。资金将重点投入物理原生基座模型的研发迭代，并推进具身智能机器人在工业场景的商业化交付，特别是汽车产业的应用落地。\n在餐饮垂直领域，通用餐饮具身机器人公司「影智XBOT」也完成了连续两轮、总额达数亿元的融资。其中A轮融资2亿元，由香港简坤资本GPTX出资；B轮融资规模在3到5亿元人民币之间，由多支政府基金、美元基金和产业投资方共同参与。这是目前餐饮垂直机器人领域规模最大的融资之一。值得注意的是，该公司此前完成的天使轮融资出资人阵容相当豪华，包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋，以及香港科技大学首席副校长郭毅可等。影智XBOT由小米前高管唐沐创立，专注于通用餐饮场景下的机器人应用。\n从这三笔融资可以看出，具身智能赛道正在从实验室走向产业落地，无论是通用机器人记忆系统、工业场景的物理基座模型，还是餐饮垂直应用，资本都在加速布局。\n转向大宗商品市场，中金公司今天发布研报指出，全球农产品板块在经历了2023年至2025年的持续累库和价格深度下行调整后，2026年或正式迎来周期拐点。中金认为，全品类农产品价格底部已经充分夯实，整体确立了易涨难跌的运行格局。综合判断，2026年下半年全球大宗农产品没有单边下跌的基础，成本筑牢底部、供给收缩确立趋势、天气因素提供脉冲弹性、需求打开上行空间，板块整体将逐步开启周期向上的态势。中金给出的板块行情排序依次为油脂、棉花、天然橡胶、白糖，其次是大豆和玉米。当前二季度板块估值已经合理回调，建议投资者中长期逢低布局农产品多头行情，把握各品类的周期性机会。\n据网络平台数据，电影《小黄人与大怪兽》自7月3日上映以来，截至7月5日，上映仅3天总票房已突破9000万元。这部动画电影凭借其轻松幽默的剧情和合家欢定位，在暑期档初期展现出强劲的票房号召力，为接下来的电影市场注入了活力。\n在工业制造领域，华工科技传来好消息。7月4日，工业和信息化部装备工业发展中心正式公布了《2026年度工业母机创新产品典型案例名单》，华工科技自主研发的复杂曲面六轴激光加工装备成功入选。这一装备主要针对航空航天、汽车制造等高端制造领域中的复杂曲面零部件加工难题，其入选标志着我国在高端激光加工装备领域取得了重要突破，也体现了国家层面对工业母机核心技术攻关的高度重视。\n金融行业方面，中金公司近日迎来关键人事变动。集团战略部负责人马葵正式兼任中金国际副总裁。马葵的履历颇为丰富，她于1996年毕业于对外经济贸易大学，先后获得国际经济合作专业学士学位与国际金融硕士学位。1998年4月加入中金公司后，她历任财务部、市场风险部、计划分析部、运营支持部等多个部门的负责人，并曾担任助理首席财务官、财务总监等职务。2024年2月，根据工作安排，她辞去财务总监一职，转而出任中金公司战略部负责人。此次于2026年6月兼任中金国际副总裁，被外界视为中金公司进一步整合境内外资源、强化国际业务布局的重要举措。\n文化教育领域，青年作家蒋方舟与清华大学教授肖鹰之间的论文造假争议持续发酵。7月5日，蒋方舟在其个人社交平台再次发文，标题为《关于肖鹰教授指控我论文“全面造假”的逐项说明》。她在文中指出，肖鹰教授的指控存在系统性的夸大与失实，特别是“全面造假”这一说法严重损害了她的名誉，她对此予以明确且坚决的否认。蒋方舟透露，她已于7月4日向公安机关报警，并表示将把相关材料递交给清华大学相关部门，同时保留通过法律手段维护自身权益的权利。这一事件引发了公众对于学术诚信与网络言论边界的热议。\n截至7月5日，2026年暑期档电影总票房含预售已突破20亿元。网络平台数据显示，这一数字在暑期档开启后迅速攀升，多部影片的集中上映为市场注入了强劲动力。与此同时，在商业领域，知名人士张雪于7月4日发布视频透露，其目前负债接近1亿元，但计划在本月通过出售部分股份来还清全部债务，并表示“再也不欠钱了”。这一消息引发了外界对其个人财务状况和商业布局的关注。\n在医药研发方面，麦科医药于7月3日公告，其自主研发的急性缺血性卒中管线MT1002的Ib/II期临床试验已完成首例患者入组。这是该公司自6月24日登陆港交所后，核心管线推进的又一实质性进展。MT1002是一款凝血因子II与GPIIb/IIIa双靶点拮抗剂，兼具抗凝与抗血小板作用。本次试验为多中心设计，分两部分进行：第一部分评估安全性和药代动力学特征，第二部分则在更大规模患者中通过随机、标准治疗对照进一步评价。首例入组标志着第一部分关键节点的启动，也意味着麦科医药在卒中治疗领域的“双管线”布局正加速推进。\n此外，外骨骼机器人技术正从科幻场景走向现实应用。7月4日，在苏州阳澄湖半岛度假区，十几人身着“机甲”在湖畔徒步，他们使用的是傲鲨VIATRIX增程动力外骨骼机器人。这种设备通过学习使用者的行走姿态，在抬腿瞬间施加推力，使6公里的徒步体验变得轻松。傲鲨创始人徐振华在接受采访时表示，外骨骼技术正在重新定义人机关系，从《流浪地球2》和游戏《死亡搁浅》中的科幻设定，到如今成为户外爱好者的真实装备，这一转变标志着技术落地的加速。当天的活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置多个观景和换装点位，将前沿科技与户外体验深度融合。徐振华指出，外骨骼机器人不仅可用于户外徒步，未来在工业、医疗、军事等领域也有广阔应用前景，其核心在于通过增强人体能力来提升效率和安全性。随着技术成熟和成本下降，外骨骼有望成为大众可及的装备，进一步改变人类与机器的协作方式。\n先来看一组科技商业领域的最新动态。阿里巴巴内部已全面禁用AI编程工具Claude Code。据阿里内部人士透露，原因是该工具近期被曝存在植入后门的安全风险，经综合评估后，阿里将其列入高风险软件名单，自7月10日起全面禁止使用。与此同时，针对法拉第未来洛杉矶总部人去楼空的传闻，公司方面回应称该消息不实。微软方面则有大动作，宣布斥资25亿美元组建一支约6000人的新公司，专注于人工智能领域。此外，三星据传已获得Meta超过10万亿韩元的人工智能芯片代工订单。Meta方面，由于计划出售富余算力，引发科技股出现回落。英伟达前光互连技术高管Ashkan Seyedi也已加入艾迈斯欧司朗。在政策层面，三部门联合发布通知，对节能汽车和新能源汽车的车船税优惠政策进行调整。消费品牌方面，茉莉奶白的小程序已更换为彩色Logo。\n再来看国内初创企业的融资进展。硅基光电子集成芯片研发商光引科技近期完成了1亿元的Pre-A轮融资。本轮投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星以及西安财金。资金将主要用于上海新实验室的建设、人才招募以及量产推进。光引科技成立于2021年，总部位于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔是剑桥大学博士、副教授，在光子集成领域拥有超过16年的深耕经验，曾就职于华为海思光电团队。公司核心技术团队多名成员来自剑桥大学，硕士和博士占比达到66%。值得注意的是，光引科技已与华为展开合作。\n创新药出海欧洲的路径正在显现。今年6月底，西班牙瓦尔德希伯伦大学医院成功完成了欧洲首例单孔机器人儿科肾输尿管切除术。这家医院是西班牙规模最大的综合医院之一，年接诊量超过百万人次，在整个欧洲医疗系统内对前沿医疗技术的探索都堪称先锋。此前，世界首例供体来自安乐死患者的面部移植手术就在这里完成。而支持完成这场具有里程碑意义儿科手术的核心设备，来自一家中国企业。目前，已有约400家初创公司聚集在欧洲相关区域，阿斯利康也重押13亿欧元布局。这座欧洲城市正成为中国创新药出海绕不开的关键节点。\nAI创业公司冲击资本市场的步伐也在加快。硅基流动已于今年第二季度的最后一天向港交所递交了上市申请。此次IPO是以18C未商业化公司身份申报，联席保荐人为华泰与海通国际。硅基流动由袁进辉创立，成立至今不到三年。这家公司在AI大模型爆发的背景下迅速成长，如今正试图通过港股市场获得更多资本支持。随着越来越多AI公司走向资本市场，每一份招股书背后都藏着企业想说与未曾明说的全部。",
+      "durationHint": 1197,
+      "script": "益盛药业7月1日收到吉林省药品监督管理局出具的《采取风险控制措施通知书》，因产品补金片存在严重缺陷，公司生脉注射液和补金片两条生产线被暂停生产销售。根据公司公告，2025年度涉事产品生脉注射液和补金片的营收分别占公司总营收的7.65%和0.01%。目前益盛药业已启动补金片的三级召回程序，截至公告发布时未收到相关不良安全事件报告，公司表示将积极进行整改。\n与此同时，多家上市公司发布了2026年半年度业绩预告。奥来德预计今年上半年归属于上市公司股东的净利润为1.6亿元至1.9亿元，同比增长幅度高达492.49%到603.58%。公司方面表示，业绩大幅增长主要得益于设备业务核心竞争壁垒持续夯实，产品技术与市场卡位优势充分落地，相关业务收入实现大幅增长，盈利能力显著提升。\n浙富控股同样交出了一份亮眼的成绩单。公司预计2026年半年度归属于上市公司股东的净利润为12.5亿元至14.5亿元，比上年同期增长120.78%到156.11%。业绩变动的主要原因是公司危废处置及再生资源综合利用业务保持稳健运营，产品销量稳步攀升，营业收入及盈利水平较上年同期实现较大幅度增长。\n在热点概念方面，贝斯特发布公告称，公司股票连续3个交易日收盘价格涨幅偏离值累计超过30%，属于股票交易异常波动。公司注意到市场对人形机器人等热点概念关注度较高，但需要说明的是，公司人形机器人零部件业务目前仍处于样品阶段。2026年上半年，相关样品实现营收22.3万元，仅占公司总营收的约0.03%，业务规模较小，对公司业绩不产生重大影响，未来收益存在重大不确定性。\n招商轮船发布业绩预告，预计2026年上半年实现归母净利润66亿元至73亿元，同比增幅高达214%到248%。公司方面分析，国际油轮运输市场受供需结构变化及地缘局势等多重因素影响，已进入超级景气周期，部分航线现货运费率在报告期内创下历史新高。与此同时，国际干散货市场受益于供需持续改善，BDI指数稳步回升。招商轮船的核心业务板块中，油轮船队在一季度表现优异的基础上，二季度成功克服了海峡封锁后油轮供过于求的阶段性困难，抓住市场机会再次取得良好业绩，环比一季度预计实现利润贡献增长约50%。干散货板块同样表现出色，二季度业绩也相当亮眼。\n永鼎股份同日公告，预计2026年上半年实现归母净利润5亿元到7亿元，与上年同期相比增加约1.8亿元至3.8亿元，同比增幅在57%到120%之间。公司方面未在公告中详细说明业绩变动原因，但结合行业背景来看，通信及电力电缆领域的需求回暖可能对业绩形成支撑。\n天山铝业也发布了半年度业绩预告，预计2026年上半年实现归母净利润42亿元，同比增长101.52%。公司表示，报告期内全球铝行业供需格局变化推动电解铝产品销售价格显著上行。同时，公司140万吨电解铝绿色低碳能效提升项目按计划顺利推进，量价协同效应叠加一体化成本管控成效，使得电解铝板块盈利实现大幅增长。不过，二季度公司下属全资子公司新疆生产建设兵团第八师天山铝业有限公司上调了所得税率，影响了当期所得税费用。在下游铝深加工板块中，高纯铝业务受电解电容器行业需求增加等积极因素影响，也实现了良好表现。\n在减持方面，仕佳光子发布公告称，持股5%以上股东鹤壁投资集团基于自身经营需求，计划自公告披露之日起15个交易日后的3个月内，通过集中竞价方式减持不超过452万股，即不超过公司总股本的1%。截至公告日，鹤壁投资集团持有仕佳光子3000万股，占总股本的6.64%。此次减持计划不会导致公司控制权发生变化，也不会对公司治理结构及持续经营产生重大影响。\n鸿海精密工业股份有限公司7月5日公布，6月销售额达到8218亿元新台币，同比增长52.1%。公司此前表示，第二季度业绩远超预期，实现了显著增长。尽管第二季度是信息与通信技术行业的传统淡季，但鸿海预计，人工智能机架产品将继续保持增长趋势。\n在石化化工领域，东方盛虹发布业绩预告，预计2026年上半年实现归母净利润42亿元至50亿元，同比增长987.39%到1194.51%。公司分析，上半年石化化工行业供需格局改善，带动了景气度提升。同时，地缘局势紧张推动国际原油价格中枢上移，受成本抬升和原料供应偏紧影响，石化产品价格整体呈上升趋势，公司主要产品价差扩大，从而提升了整体盈利能力。\n资金流向方面，7月5日数据显示，最近一周有16只个股获得南向资金持股量环比增长超过10%。其中，云知声的持股量环比增幅最大，达到66.22%。壁仞科技、东鹏饮料和英矽智能的持股量环比增幅也位居前列，分别为44.22%、34.2%和26.62%。\n生物股份同样发布了业绩预告，预计2026年上半年实现归母净利润9100万元到1.09亿元，同比增长50.6%到80.39%。公司表示，经营业绩实现较大幅度增长，主要得益于反刍和宠物动保业务的大幅增长，以及产业并购协同价值的显现。此外，公司持续推进数字化、智能化、精益化管理，销售费用、管理费用、制造成本和研发成果转化率持续优化，叠加新产品上市等多重因素驱动，经营业绩显著改善。\n从整体市场环境来看，石化化工行业的景气度回升与地缘政治因素密切相关。国际原油价格的上移不仅影响了成本，也改变了原料供应格局，从而推动了产品价格的整体上升。这种趋势在东方盛虹的业绩中得到了充分体现，其净利润的同比大幅增长反映了行业基本面的改善。\n与此同时，南向资金的动向显示出市场对特定个股的偏好。云知声、壁仞科技等公司在人工智能和半导体领域的布局，可能吸引了资金的持续关注。东鹏饮料作为消费类企业，其持股量的增长也反映了资金对消费复苏的预期。英矽智能在生物科技领域的创新，同样成为资金流入的焦点。\n生物股份的业绩增长则体现了动保行业的结构性机会。反刍和宠物动保业务的大幅增长，表明公司在细分市场的竞争力正在增强。产业并购的协同效应，以及内部管理的优化，共同推动了盈利能力的提升。新产品的上市也为公司未来的增长提供了新的动力。\n综合来看，这些公司的业绩和资金动向反映了当前经济环境下的不同行业趋势。鸿海的AI业务增长、东方盛虹的石化行业复苏、南向资金对特定个股的青睐，以及生物股份在动保领域的突破，都显示出市场在多个领域存在结构性机会。投资者需要关注这些趋势的持续性，以及它们对相关公司未来表现的影响。\n科技商业领域今天迎来多笔重磅融资，三家聚焦人工智能与机器人的初创公司先后宣布完成大额融资，显示出资本对具身智能赛道的持续加注。\n首先，由香港大学电机电子工程系教授李曦创立的忆生科技，宣布完成数亿元天使轮融资。本轮投资方阵容横跨产业资本与国资平台，包括正大集团旗下的中生制药、浦东创投、张江科投、张江高科，以及弘信电子、云晖资本、沃肯资本、金舵资本等。忆生科技致力于从科学第一性原理出发，构建一套为机器人打造的“记忆系统”，其核心技术路径是通过“感知—预测—交互”的闭环，打造机器人“大脑+小脑”的统一系统，探索下一代可解释的自主智能。本轮融资资金将主要用于可解释具身控制大模型与物理世界模型的研发。\n紧接着，另一家具身智能公司光象科技也宣布完成累计数亿元的天使轮融资。最新一轮的参与方包括珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、SeeFund、亿宸资本以及上市公司行云科技，老股东零一创投和L2F光源创业者基金也持续加注。光象科技成立于2025年4月，由清华大学车辆与运载学院与人工智能学院联合孵化，创始团队来自清华车辆学院师兄弟。本轮资金将重点投入物理原生基座模型的研发迭代，并推动具身智能机器人在工业场景的商业化交付，首先瞄准的是汽车产业。\n与此同时，由小米前高管唐沐创立的通用餐饮具身机器人公司影智XBOT，也连续完成两轮共计数亿元的融资。其中，A轮融资2亿元，由香港简坤资本GPTX出资；B轮融资规模在3到5亿元人民币之间，由多支政府基金、美元基金和产业投资方共同参与。这是目前餐饮垂直机器人领域规模最大的融资之一。值得注意的是，影智XBOT在此前的天使轮融资中，出资人阵容相当豪华，包括腾讯高级副总裁张小龙、小米联合创始人黎万强、黄江吉、林斌、洪锋，以及香港科技大学首席副校长郭毅可等。三家公司同一天发布融资消息，从机器人记忆系统到工业场景落地，再到餐饮垂直应用，覆盖了具身智能产业链的不同环节。\n转向大宗商品市场，中金公司今天发布研报指出，全球农产品板块在经历了2023年到2025年的持续累库和价格深度下行之后，2026年或正式迎来周期拐点。中金认为，当前全品类农产品价格底部已经充分夯实，整体确立了易涨难跌的运行格局。综合判断，2026年下半年全球大宗农产品没有单边下跌的基础，成本筑牢底部、供给收缩确立趋势、天气因素提供脉冲弹性、需求则打开上行空间，板块整体将逐步开启周期向上的态势。中金给出的板块行情排序依次为油脂、棉花、天然橡胶、白糖，其次是大豆和玉米。研报建议，当前二季度板块估值已经合理回调，投资者可以中长期逢低布局农产品多头行情，把握各品种的轮动机会。\n根据网络平台数据，电影《小黄人与大怪兽》自7月3日上映以来，截至7月5日，上映仅3天总票房已突破9000万元。这部影片的市场表现强劲，为暑期档电影市场注入了一股活力。\n在工业制造领域，华工科技传来好消息。7月4日，工业和信息化部装备工业发展中心正式公布了《2026年度工业母机创新产品典型案例名单》，华工科技的复杂曲面六轴激光加工装备成功入选。这一案例的入选，标志着该装备在工业母机领域的创新性和实用性得到了国家层面的认可，对于推动我国高端激光加工装备的自主化进程具有积极意义。\n金融行业方面，中金公司近期迎来重要人事调整。集团战略部负责人马葵正式兼任中金国际副总裁。马葵的职业生涯始于1998年4月加入中金公司，此前她于1996年毕业于对外经济贸易大学，先后获得国际经济合作专业学士学位与国际金融硕士学位。在中金公司，她历任财务部、市场风险部、计划分析部、运营支持部等多个部门的负责人，并曾担任助理首席财务官、财务总监等关键职务。2024年2月，根据工作安排，她辞去财务总监一职，转而出任中金公司战略部负责人。此次兼任中金国际副总裁，是她职业生涯的又一次重要跃升，也反映出中金公司在国际化布局和战略管理层面的人才配置思路。\n文化教育领域，青年作家蒋方舟再次就清华大学教授肖鹰指控其论文造假一事作出回应。7月5日，蒋方舟在其个人社交平台发布了一篇题为《关于肖鹰教授指控我论文“全面造假”的逐项说明》的长文。她在文中明确指出，肖鹰教授的指控存在系统性的夸大与失实，特别是“全面造假”这一说法严重失实，足以损害她的名誉。蒋方舟对此予以明确、坚决的否认。她透露，已于7月4日就此事向警方报案，并表示将把相关材料递交给清华大学相关部门，同时保留通过法律手段维护自身权益的权利。这一事件引发了公众对于学术诚信与个人名誉权保护的广泛讨论。\n根据网络平台数据，截至7月5日，2026年暑期档电影总票房含预售已经突破20亿元。这一数字标志着今年暑期档正式进入加速期，多部影片的集中上映正在推动市场持续升温。\n在个人商业领域，知名人士张雪7月4日发布视频透露，自己目前负债接近1亿元，但本月将通过出售部分股份的方式将全部债务还清。张雪在视频中表示，这个月就不再是亿万“负”翁了，并称“再也不欠钱了”。\n生物医药板块方面，麦科医药在7月3日发布公告，其自主研发的急性缺血性卒中管线MT1002的Ib/II期临床试验已完成首例患者入组。这是该公司6月24日登陆港交所后，核心管线推进的又一实质性进展。MT1002是一款凝血因子II与GPIIb/IIIa双靶点拮抗剂，兼具抗凝与抗血小板作用。本次Ib/II期试验为多中心设计，分两部分进行：第一部分主要评估安全性和药代动力学特征；第二部分将在更大规模患者中通过随机、标准治疗对照进一步评价。首例入组标志着第一部分关键节点正式启动。麦科医药在卒中治疗领域正加速推进“双管线”布局。\n与此同时，外骨骼机器人技术正从科幻电影走进现实。7月4日，在苏州阳澄湖半岛度假区，十几人身穿“机甲”在湖畔徒步。他们穿戴的是傲鲨VIATRIX增程动力外骨骼机器人。据现场体验者描述，穿上后走几步，步伐很快变得轻盈，因为外骨骼通过学习他们的行走姿态，在抬腿瞬间加上一定推力，使得6公里的徒步体验更像一次悠闲的城市漫步。傲鲨创始人徐振华在接受采访时表示，这种在《流浪地球2》与游戏《死亡搁浅》中出现的场景，正在成为户外爱好者的真实装备。当天的机甲徒步活动由傲鲨联合户外平台一帐之地共同策划，路线串联沿湖步道、度假空间与生态公园，沿途设置了多个观景和换装点位。徐振华认为，外骨骼技术正在重新定义人机关系，从工业辅助工具向户外消费级装备延伸，未来有望成为户外运动的标准配置之一。\n先来看一组科技与商业领域的最新动态。阿里巴巴内部已全面禁用AI编程工具Claude Code，原因是该工具近期被曝存在植入后门的安全风险。阿里内部人士向36氪证实，经综合评估后，Claude Code已被列入高风险软件名单，自7月10日起全面禁止使用。与此同时，法拉第未来位于洛杉矶的总部被曝人去楼空，公司方面回应称该消息不实。微软则宣布斥资25亿美元组建一支6000人的AI新公司，进一步加码人工智能赛道。\n在政策层面，三部门联合发布通知，对节能汽车和新能源汽车的车船税优惠政策进行调整。三星方面传出消息，已获得Meta超过10万亿韩元的AI芯片代工订单。茶饮品牌茉莉奶白近日更换了其小程序的彩色Logo。Meta计划出售富余算力，这一消息引发科技股回落。英伟达前光互连技术高管Ashkan Seyedi已加入艾迈斯欧司朗。\n再看融资与创业领域。硅基光电子集成芯片研发商光引科技近期完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星和西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。光引科技2021年成立于徐州，核心团队孵化自英国剑桥大学研发团队。创始人程祺翔为剑桥大学博士、副教授，在光子集成领域深耕超过16年，曾就职于华为海思光电团队。公司核心技术团队多名成员来自剑桥大学，硕士和博士占比达到66%。值得注意的是，光引科技已与华为展开合作。\n在创新药出海方面，欧洲正成为中国药企绕不开的关键市场。2026年6月底，西班牙瓦尔德希伯伦大学医院宣布完成欧洲首例单孔机器人儿科肾输尿管切除术。这家医院是西班牙规模最大的综合医院之一，年接诊量超过百万人次，此前曾完成世界首例供体来自安乐死患者的面部移植手术。医院方面向36氪表示，支持完成这场里程碑式儿科手术的核心设备来自中国。目前，已有超过400家初创企业聚集在欧洲相关区域，阿斯利康也重押13亿欧元布局当地市场。\nAI领域的资本动作同样密集。硅基流动在第二季度最后一天向港交所递交了上市申请，此次IPO以18C未商业化公司身份申报，联席保荐人为华泰与海通国际。硅基流动由袁进辉创立，成立至今不到三年。随着AI大爆发，越来越多公司正加速走向资本市场。",
       "generationMode": "deepseek",
-      "updatedAt": "2026-07-05T10:26:34.101Z"
+      "updatedAt": "2026-07-05T13:57:53.792Z"
     }
   ]
 }
