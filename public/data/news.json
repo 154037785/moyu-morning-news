@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T17:09:11.047Z",
+  "updatedAt": "2026-07-11T21:03:48.401Z",
   "statusText": "12/12 个来源更新成功",
   "sourceStatus": [
     {
@@ -99,7 +99,7 @@
       "image": "",
       "source": "Anthropic News Feed",
       "category": "大模型",
-      "publishedAt": "2026-07-11T17:04:10.372Z",
+      "publishedAt": "2026-07-11T20:58:05.403Z",
       "displayTitle": "大模型消息",
       "displayDescription": "消息显示，相关动态集中在人工智能、安全与监管。有新的产品或能力发布。"
     },
@@ -111,9 +111,141 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a0/live/17196c30-7d4a-11f1-bee8-53ce494e1abc.jpg",
       "source": "BBC中文",
       "category": "国际要闻",
-      "publishedAt": "2026-07-11T17:04:10.309Z",
+      "publishedAt": "2026-07-11T20:58:05.374Z",
       "displayTitle": "颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人",
       "displayDescription": "颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。"
+    },
+    {
+      "id": "fcdfd5beff12810e",
+      "title": "France defenders Saliba, Upamecano not in team training",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/sport/france-defenders-saliba-upamecano-not-in-team-training-6248471",
+      "image": "https://dam.mediacorp.sg/image/upload/s--WlTlBELz--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T204320Z_1_LYNXMPEM6A0DM_RTROPTP_3_SOCCER-WORLDCUP-FRA-SWE.JPG?itok=UCaH1tus",
+      "source": "CNA Sport",
+      "category": "体育",
+      "publishedAt": "2026-07-11T20:43:20.000Z",
+      "displayTitle": "体育消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+    },
+    {
+      "id": "8c61341dd2b6fdc9",
+      "title": "UK police release suspect held over murder of Ann Widdecombe",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/world/uk-police-release-suspect-held-over-murder-ann-widdecombe-6248466",
+      "image": "https://dam.mediacorp.sg/image/upload/s--DHC9H3dQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T140041Z_1_LYNXMPEM6A08D_RTROPTP_3_BRITAIN-CRIME-WIDDECOMBE.JPG?itok=YlT5r78D",
+      "source": "CNA World",
+      "category": "国际要闻",
+      "publishedAt": "2026-07-11T20:09:00.000Z",
+      "displayTitle": "国际要闻消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。有新的产品或能力发布。"
+    },
+    {
+      "id": "d110c2989721ae0f",
+      "title": "Muchova vows to keep chasing maiden major after Wimbledon heartbreak",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/sport/muchova-vows-keep-chasing-maiden-major-after-wimbledon-heartbreak-6248461",
+      "image": "",
+      "source": "CNA Sport",
+      "category": "体育",
+      "publishedAt": "2026-07-11T20:00:56.000Z",
+      "displayTitle": "体育消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+    },
+    {
+      "id": "1c76495e47f04b3e",
+      "title": "Australia's Bos to miss three months for Feyenoord after World Cup knee injury",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/sport/australias-bos-miss-three-months-feyenoord-after-world-cup-knee-injury-6248436",
+      "image": "https://dam.mediacorp.sg/image/upload/s--40SlbKaO--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T190714Z_1_LYNXMPEM6A0CZ_RTROPTP_3_SOCCER-NETHERLANDS-FEY.JPG?itok=LcFj-Gj1",
+      "source": "CNA Sport",
+      "category": "体育",
+      "publishedAt": "2026-07-11T19:07:14.000Z",
+      "displayTitle": "体育消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+    },
+    {
+      "id": "86c65c66f5c12111",
+      "title": "Six dead, dozens wounded as Russia strikes Ukraine with missiles, drones",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/world/six-dead-dozens-wounded-russia-strikes-ukraine-missiles-drones-6248431",
+      "image": "https://dam.mediacorp.sg/image/upload/s--ItOUENFJ--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Russia_Ukraine_War_94944.jpg?itok=dVYr35en",
+      "source": "CNA World",
+      "category": "国际要闻",
+      "publishedAt": "2026-07-11T19:03:00.000Z",
+      "displayTitle": "国际要闻消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+    },
+    {
+      "id": "f6501a5c382e6c4f",
+      "title": "Floods, landslides kill 44 in Bangladesh, leave over 1 million stranded",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/world/floods-landslides-kill-44-in-bangladesh-leave-over-1-million-stranded-6248421",
+      "image": "https://dam.mediacorp.sg/image/upload/s--IScxZqwD--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T135045Z_1_LYNXMPEM6A07Y_RTROPTP_3_BANGLADESH-WEATHER.JPG?itok=SN6KtvLW",
+      "source": "CNA World",
+      "category": "国际要闻",
+      "publishedAt": "2026-07-11T18:53:00.000Z",
+      "displayTitle": "国际要闻消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。监管和法律风险受到关注。其中提到的关键数字包括 1 million。"
+    },
+    {
+      "id": "901dc1499727e2f4",
+      "title": "Frustrated Townsend proud of Scotland effort in defeat to South Africa",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/sport/frustrated-townsend-proud-scotland-effort-in-defeat-south-africa-6248416",
+      "image": "https://dam.mediacorp.sg/image/upload/s--efoA2AG0--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T182429Z_1_LYNXMPEM6A0CK_RTROPTP_3_RUGBY-UNION-NATIONS-SCO-FRA.JPG?itok=3HO_YQL7",
+      "source": "CNA Sport",
+      "category": "体育",
+      "publishedAt": "2026-07-11T18:24:29.000Z",
+      "displayTitle": "体育消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+    },
+    {
+      "id": "96417efced8151eb",
+      "title": "Belgium coach Garcia's tenure in doubt after Courtois substitution",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/sport/belgium-coach-garcias-tenure-in-doubt-after-courtois-substitution-6248406",
+      "image": "https://dam.mediacorp.sg/image/upload/s--YTFQviZV--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T181609Z_1_LYNXMPEM6A0CD_RTROPTP_3_SOCCER-WORLDCUP-ESP-BEL.JPG?itok=WbaMJCLe",
+      "source": "CNA Sport",
+      "category": "体育",
+      "publishedAt": "2026-07-11T18:16:09.000Z",
+      "displayTitle": "体育消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+    },
+    {
+      "id": "447ea3f2611e6709",
+      "title": "Noskova survives Muchova fightback in all-Czech final to lift Wimbledon trophy",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/sport/noskova-survives-muchova-fightback-in-all-czech-final-lift-wimbledon-trophy-6248386",
+      "image": "",
+      "source": "CNA Sport",
+      "category": "体育",
+      "publishedAt": "2026-07-11T17:40:03.000Z",
+      "displayTitle": "体育消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+    },
+    {
+      "id": "cccf322ce8f536d8",
+      "title": "Traffic jam delay adds to India's woes ahead of 56-run T20 loss to England",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/sport/traffic-jam-delay-adds-indias-woes-ahead-56-run-t20-loss-england-6248366",
+      "image": "",
+      "source": "CNA Sport",
+      "category": "体育",
+      "publishedAt": "2026-07-11T17:08:10.000Z",
+      "displayTitle": "体育消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+    },
+    {
+      "id": "b780a0da27a0faba",
+      "title": "Heatwave forces Tour de France organisers to shorten stage nine",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/sport/heatwave-forces-tour-de-france-organisers-shorten-stage-nine-6248361",
+      "image": "",
+      "source": "CNA Sport",
+      "category": "体育",
+      "publishedAt": "2026-07-11T17:01:35.000Z",
+      "displayTitle": "体育消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
       "id": "c8b9227b117ea13e",
@@ -178,7 +310,7 @@
     {
       "id": "71139fd62626ec58",
       "title": "Johor polls: BN sweeps 48 of 56 seats as PM Anwar’s PH cedes ground in southern state",
-      "description": "Barisan Nasional's Johor rival, Prime Minister Anwar Ibrahim’s Pakatan Harapan (PH) coalition, is poised to win the remaining eight seats in the closely watched contest, losing ground from the 12 seats it secured in 2022.",
+      "description": "Barisan Nasional's Johor rival, Prime Minister Anwar Ibrahim’s Pakatan Harapan (PH) coalition, won the remaining eight seats in the closely watched contest, losing ground from the 12 seats it secured in 2022.",
       "link": "https://www.channelnewsasia.com/asia/johor-state-election-results-barisan-nasional-6248056",
       "image": "https://dam.mediacorp.sg/image/upload/s--mjdICZ65--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/11/dsc_1261.jpg?itok=OQQzWCj6",
       "source": "CNA Asia",
@@ -380,30 +512,6 @@
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
-      "id": "f59d6a10962a9425",
-      "title": "Marquez snatches German MotoGP pole with new lap record, Bezzecchi withdraws after crash",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/marquez-snatches-german-motogp-pole-new-lap-record-bezzecchi-withdraws-after-crash-6248066",
-      "image": "https://dam.mediacorp.sg/image/upload/s--fWPpvvTL--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T101326Z_1_LYNXMPEM6A05C_RTROPTP_3_MOTOR-MOTOGP-GERMANY.JPG?itok=8WtrrQNP",
-      "source": "CNA Sport",
-      "category": "体育",
-      "publishedAt": "2026-07-11T10:13:26.000Z",
-      "displayTitle": "体育消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
-      "id": "288ad0bb517eb9df",
-      "title": "Manchester City sign winger Monga from Leicester",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/manchester-city-sign-winger-monga-leicester-6248046",
-      "image": "https://dam.mediacorp.sg/image/upload/s--oTytAte5--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T095231Z_1_LYNXMPEM6A057_RTROPTP_3_SOCCER-ENGLAND-LEI-NEW-REPORT.JPG?itok=b9AGB5Vd",
-      "source": "CNA Sport",
-      "category": "体育",
-      "publishedAt": "2026-07-11T09:52:31.000Z",
-      "displayTitle": "体育消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
       "id": "65afba0c94825d40",
       "title": "乘联分会崔东树：6月新能源车厂商库存小幅收缩，行业压库存现象没有出现",
       "description": "36氪获悉，乘联分会秘书长崔东树发文表示，中国宏观经济保持较强增长，在国家促销费政策推动下汽车市场保持强势增长，2026年全国汽车市场总体走势较平稳，在生产资料高补贴卡车市场和客车市场回暖明显。2026年商用车市场出现设备更新补贴推动的结构性增长特征，刚落地的商用车高补贴带来物流运输类电动化加速，商用车景气度较高。由于去年消费政策力度超强，2026年政策收缩明显，入门级消费支持政策剧烈下降，导致今年1-6月乘用车零售持续负增长，尤其是燃油乘用车出现崩塌式下滑。但因出口增量，6",
@@ -512,18 +620,6 @@
       "displayDescription": "36氪获悉，中国期货业协会最新统计资料表明，以单边计算， 6月全国期货交易市场成交量为939,261,565手，成交额为806,246.55亿元，同比分别增长27%和52.72%。1-6月全国期货市场累计成交量为5,104,871,182手，累计成交额为4,827,013.23亿元，同比分别增长25.23%和42.08%。"
     },
     {
-      "id": "0158963eddf46315",
-      "title": "Jordan takes try-scoring record as All Blacks hammer Italy 47-17",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/jordan-takes-try-scoring-record-all-blacks-hammer-italy-47-17-6247996",
-      "image": "",
-      "source": "CNA Sport",
-      "category": "体育",
-      "publishedAt": "2026-07-11T07:35:28.000Z",
-      "displayTitle": "体育消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
       "id": "2e9ecb393629b0ce",
       "title": "多家航司：受“巴威”影响，可免费变更或退票",
       "description": "今年第9号台风“巴威”携强风雨即将影响我国多地。日前，国航、东航、南航、海航、厦航、川航、天航等多家航空公司发布受台风“巴威”影响航线客票处理通知，符合条件的旅客可享受‌一次免费变更或全额免手续费退票‌服务。（央视新闻）",
@@ -569,18 +665,6 @@
       "category": "国际要闻",
       "publishedAt": "2026-07-11T06:19:00.000Z",
       "displayTitle": "国际要闻消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
-      "id": "ce9168155a281992",
-      "title": "Auger-Aliassime parts ways with long-time coach Fontang after Wimbledon exit",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/auger-aliassime-parts-ways-long-time-coach-fontang-after-wimbledon-exit-6247931",
-      "image": "https://dam.mediacorp.sg/image/upload/s--mv9tEQAQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T060727Z_1_LYNXMPEM6A03K_RTROPTP_3_TENNIS.JPG?itok=J9eRR1nA",
-      "source": "CNA Sport",
-      "category": "体育",
-      "publishedAt": "2026-07-11T06:07:27.000Z",
-      "displayTitle": "体育消息",
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
@@ -716,18 +800,6 @@
       "displayDescription": "7月11日消息，AI内容和互动影视公司垚城智能（FansAI）宣布全资收购AI音乐应用新映科技，这是OPC领域目前少见的探索性并购案例。（新浪财经）"
     },
     {
-      "id": "ce872e3fd5156f99",
-      "title": "Australia striker Mitch Duke ends international career",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/australia-striker-mitch-duke-ends-international-career-6247866",
-      "image": "https://dam.mediacorp.sg/image/upload/s--pP3DHbg1--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T040302Z_1_LYNXMPEM6A02Y_RTROPTP_3_SOCCER-WORLDCUP-FRA-AUS-PREVIEW.JPG?itok=fv52UMru",
-      "source": "CNA Sport",
-      "category": "体育",
-      "publishedAt": "2026-07-11T04:03:02.000Z",
-      "displayTitle": "体育消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
       "id": "cdacf87f0daf733e",
       "title": "法国电信大亨或成英国沃达丰最大股东",
       "description": "阿联酋电信公司10日宣布，将其所持沃达丰公司约16%的股份悉数出售给法国电信大亨格扎维埃·尼埃尔掌控的投资机构Vega，交易总额约44亿英镑（约合59.1亿美元）。一旦交易完成，Vega将成为英国最大移动通信运营商沃达丰的最大股东。尼埃尔现年58岁，创建并持有法国电信企业伊利亚德集团，并长期投资欧洲电信业。路透社援引知情人士的说法报道，尼埃尔发现沃达丰股价出现下跌趋势后，主动接触阿联酋电信公司，并在数天内迅速达成股份转手协议。（央视新闻）",
@@ -738,30 +810,6 @@
       "publishedAt": "2026-07-11T03:46:12.000Z",
       "displayTitle": "法国电信大亨或成英国沃达丰最大股东",
       "displayDescription": "阿联酋电信公司10日宣布，将其所持沃达丰公司约16%的股份悉数出售给法国电信大亨格扎维埃·尼埃尔掌控的投资机构Vega，交易总额约44亿英镑（约合59.1亿美元）。一旦交易完成，Vega将成为英国最大移动通信运营商沃达丰的最大股东。尼埃尔现年58岁，创建并持有法国电信企业伊利亚德集团，并长期投资欧洲电信业。路透社援引知情人士的说法报道，尼埃尔发现沃达丰股价出现下跌趋势后，主动接触阿联酋电信公司，并在数天内迅速达成股份转手协议。（央视新闻）"
-    },
-    {
-      "id": "650d47a60bde0ecd",
-      "title": "England's Kane confirms golf outing with Trump, praises president's game",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/englands-kane-confirms-golf-outing-trump-praises-presidents-game-6247806",
-      "image": "https://dam.mediacorp.sg/image/upload/s--5l3Jh7ne--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T025039Z_2_LYNXMPEM6A02L_RTROPTP_3_SOCCER-WORLDCUP-ENG.JPG?itok=uNVzQADa",
-      "source": "CNA Sport",
-      "category": "体育",
-      "publishedAt": "2026-07-11T02:50:00.000Z",
-      "displayTitle": "体育消息",
-      "displayDescription": "消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。"
-    },
-    {
-      "id": "997a44cf257c2bb4",
-      "title": "'A machine': Scaloni not surprised by Messi's form at 39",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/machine-scaloni-not-surprised-messis-form-39-6247796",
-      "image": "",
-      "source": "CNA Sport",
-      "category": "体育",
-      "publishedAt": "2026-07-11T02:48:00.000Z",
-      "displayTitle": "体育消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
       "id": "6ee8035d34bb6389",
@@ -798,18 +846,6 @@
       "publishedAt": "2026-07-11T01:07:26.000Z",
       "displayTitle": "大模型消息",
       "displayDescription": "消息显示，OpenAI相关动态集中在安全与监管、研究进展。释放出新的行业信号。"
-    },
-    {
-      "id": "fc8bc4adaccc959a",
-      "title": "Wembanyama signs multi-year contract extension with Spurs",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/wembanyama-signs-multi-year-contract-extension-spurs-6247676",
-      "image": "",
-      "source": "CNA Sport",
-      "category": "体育",
-      "publishedAt": "2026-07-11T01:00:33.000Z",
-      "displayTitle": "体育消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。监管和法律风险受到关注。"
     },
     {
       "id": "1b394200eb36a17e",
@@ -1520,15 +1556,15 @@
       "displayDescription": "消息显示，相关动态集中在资本市场。资本投入和估值成为关注点，监管和法律风险受到关注。"
     },
     {
-      "id": "7a0b02b9a0a06a9b",
+      "id": "3428639d55957566",
       "title": "Philippines rejects Chinese academics' sovereignty claims",
       "description": "The Batanes Islands are located less than 200km from self-ruled Taiwan - which China considers part of its territory.",
       "link": "https://www.channelnewsasia.com/asia/philippines-china-academics-batanes-disputed-islands-sovereignty-6243461",
       "image": "https://dam.mediacorp.sg/image/upload/s--3_eI9sLK--/c_crop,h_576,w_1024,x_0,y_22/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/10/000_33lr3yu.jpg?itok=g6NbxQuB",
-      "source": "CNA Asia",
-      "category": "亚太",
+      "source": "CNA World",
+      "category": "国际要闻",
       "publishedAt": "2026-07-10T09:46:00.000Z",
-      "displayTitle": "亚太消息",
+      "displayTitle": "国际要闻消息",
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
@@ -1554,30 +1590,6 @@
       "publishedAt": "2026-07-10T08:52:44.000Z",
       "displayTitle": "新加坡夫婦收養了印尼男嬰，卻發現孩子疑遭人口販運",
       "displayDescription": "這宗案件突顯了印尼的兒童販運問題，並引發外界對新加坡相關制度的質疑。"
-    },
-    {
-      "id": "bf74bf986e475a89",
-      "title": "Spain wildfire roars through village leaving 11 dead and 19 missing",
-      "description": "About 400 firefighters and troops battled the inferno northeast of Almeria, which witnesses said may have been sparked by a fallen power line that set scrubland on fire.",
-      "link": "https://www.channelnewsasia.com/world/spain-wildfire-village-11-dead-19-missing-6245926",
-      "image": "https://dam.mediacorp.sg/image/upload/s--AlSvy7vC--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/10/2026-07-10t082207z_927979354_rc2wamacftfi_rtrmadp_3_europe-weather-spain-wildfire.jpg?itok=ps7uDqLK",
-      "source": "CNA World",
-      "category": "国际要闻",
-      "publishedAt": "2026-07-10T08:28:00.000Z",
-      "displayTitle": "国际要闻消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 19 m。"
-    },
-    {
-      "id": "5f36c27e50ce210c",
-      "title": "Girl dies in France celebrating World Cup win",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/world/france-morocco-world-cup-girl-dies-6245916",
-      "image": "https://dam.mediacorp.sg/image/upload/s--fCnCJ2tq--/c_crop,h_900,w_1600,x_0,y_26/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/10/2026-07-09t225735z_721492020_up1em791rrypd_rtrmadp_3_soccer-worldcup-fra-mar-fans-paris.jpg?itok=6i0VERlX",
-      "source": "CNA World",
-      "category": "国际要闻",
-      "publishedAt": "2026-07-10T08:22:00.000Z",
-      "displayTitle": "国际要闻消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
       "id": "91c068c18d9b7ed0",
@@ -1649,18 +1661,6 @@
       "category": "亚太",
       "publishedAt": "2026-07-10T05:31:13.000Z",
       "displayTitle": "亚太消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
-      "id": "a05538ff5384fee4",
-      "title": "H5 bird flu detected in Australian seabird for first time",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/world/h5-bird-flu-australian-seabird-6245696",
-      "image": "https://dam.mediacorp.sg/image/upload/s--2ve-0M2H--/c_crop,h_900,w_1600,x_0,y_92/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/10/000_b7xy9cr_mod.jpg?itok=j7HbspxM",
-      "source": "CNA World",
-      "category": "国际要闻",
-      "publishedAt": "2026-07-10T05:31:00.000Z",
-      "displayTitle": "国际要闻消息",
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
@@ -3006,7 +3006,7 @@
         "image": "",
         "source": "Anthropic News Feed",
         "category": "大模型",
-        "publishedAt": "2026-07-11T17:04:10.372Z",
+        "publishedAt": "2026-07-11T20:58:05.403Z",
         "displayTitle": "大模型消息",
         "displayDescription": "消息显示，相关动态集中在人工智能、安全与监管。有新的产品或能力发布。"
       },
@@ -4376,9 +4376,45 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a0/live/17196c30-7d4a-11f1-bee8-53ce494e1abc.jpg",
         "source": "BBC中文",
         "category": "国际要闻",
-        "publishedAt": "2026-07-11T17:04:10.309Z",
+        "publishedAt": "2026-07-11T20:58:05.374Z",
         "displayTitle": "颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人",
         "displayDescription": "颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。"
+      },
+      {
+        "id": "8c61341dd2b6fdc9",
+        "title": "UK police release suspect held over murder of Ann Widdecombe",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/world/uk-police-release-suspect-held-over-murder-ann-widdecombe-6248466",
+        "image": "https://dam.mediacorp.sg/image/upload/s--DHC9H3dQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T140041Z_1_LYNXMPEM6A08D_RTROPTP_3_BRITAIN-CRIME-WIDDECOMBE.JPG?itok=YlT5r78D",
+        "source": "CNA World",
+        "category": "国际要闻",
+        "publishedAt": "2026-07-11T20:09:00.000Z",
+        "displayTitle": "国际要闻消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。有新的产品或能力发布。"
+      },
+      {
+        "id": "86c65c66f5c12111",
+        "title": "Six dead, dozens wounded as Russia strikes Ukraine with missiles, drones",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/world/six-dead-dozens-wounded-russia-strikes-ukraine-missiles-drones-6248431",
+        "image": "https://dam.mediacorp.sg/image/upload/s--ItOUENFJ--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Russia_Ukraine_War_94944.jpg?itok=dVYr35en",
+        "source": "CNA World",
+        "category": "国际要闻",
+        "publishedAt": "2026-07-11T19:03:00.000Z",
+        "displayTitle": "国际要闻消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "f6501a5c382e6c4f",
+        "title": "Floods, landslides kill 44 in Bangladesh, leave over 1 million stranded",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/world/floods-landslides-kill-44-in-bangladesh-leave-over-1-million-stranded-6248421",
+        "image": "https://dam.mediacorp.sg/image/upload/s--IScxZqwD--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T135045Z_1_LYNXMPEM6A07Y_RTROPTP_3_BANGLADESH-WEATHER.JPG?itok=SN6KtvLW",
+        "source": "CNA World",
+        "category": "国际要闻",
+        "publishedAt": "2026-07-11T18:53:00.000Z",
+        "displayTitle": "国际要闻消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。监管和法律风险受到关注。其中提到的关键数字包括 1 million。"
       },
       {
         "id": "a7c00a018b6917f1",
@@ -4573,6 +4609,18 @@
         "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       },
       {
+        "id": "3428639d55957566",
+        "title": "Philippines rejects Chinese academics' sovereignty claims",
+        "description": "The Batanes Islands are located less than 200km from self-ruled Taiwan - which China considers part of its territory.",
+        "link": "https://www.channelnewsasia.com/asia/philippines-china-academics-batanes-disputed-islands-sovereignty-6243461",
+        "image": "https://dam.mediacorp.sg/image/upload/s--3_eI9sLK--/c_crop,h_576,w_1024,x_0,y_22/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/10/000_33lr3yu.jpg?itok=g6NbxQuB",
+        "source": "CNA World",
+        "category": "国际要闻",
+        "publishedAt": "2026-07-10T09:46:00.000Z",
+        "displayTitle": "国际要闻消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
         "id": "b8d36b9195f86035",
         "title": "新加坡夫婦收養了印尼男嬰，卻發現孩子疑遭人口販運",
         "description": "這宗案件突顯了印尼的兒童販運問題，並引發外界對新加坡相關制度的質疑。",
@@ -4585,30 +4633,6 @@
         "displayDescription": "這宗案件突顯了印尼的兒童販運問題，並引發外界對新加坡相關制度的質疑。"
       },
       {
-        "id": "bf74bf986e475a89",
-        "title": "Spain wildfire roars through village leaving 11 dead and 19 missing",
-        "description": "About 400 firefighters and troops battled the inferno northeast of Almeria, which witnesses said may have been sparked by a fallen power line that set scrubland on fire.",
-        "link": "https://www.channelnewsasia.com/world/spain-wildfire-village-11-dead-19-missing-6245926",
-        "image": "https://dam.mediacorp.sg/image/upload/s--AlSvy7vC--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/10/2026-07-10t082207z_927979354_rc2wamacftfi_rtrmadp_3_europe-weather-spain-wildfire.jpg?itok=ps7uDqLK",
-        "source": "CNA World",
-        "category": "国际要闻",
-        "publishedAt": "2026-07-10T08:28:00.000Z",
-        "displayTitle": "国际要闻消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 19 m。"
-      },
-      {
-        "id": "5f36c27e50ce210c",
-        "title": "Girl dies in France celebrating World Cup win",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/world/france-morocco-world-cup-girl-dies-6245916",
-        "image": "https://dam.mediacorp.sg/image/upload/s--fCnCJ2tq--/c_crop,h_900,w_1600,x_0,y_26/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/10/2026-07-09t225735z_721492020_up1em791rrypd_rtrmadp_3_soccer-worldcup-fra-mar-fans-paris.jpg?itok=6i0VERlX",
-        "source": "CNA World",
-        "category": "国际要闻",
-        "publishedAt": "2026-07-10T08:22:00.000Z",
-        "displayTitle": "国际要闻消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
         "id": "bfa13b58b5d1c237",
         "title": "「我掌管英國最大銀行」：推薦五種理財方法",
         "description": "勞埃德銀行執行長談到如何在戀愛關係中儲蓄、制定預算、避免詐騙和管理金錢。",
@@ -4619,18 +4643,6 @@
         "publishedAt": "2026-07-10T06:30:56.000Z",
         "displayTitle": "「我掌管英國最大銀行」：推薦五種理財方法",
         "displayDescription": "勞埃德銀行執行長談到如何在戀愛關係中儲蓄、制定預算、避免詐騙和管理金錢。"
-      },
-      {
-        "id": "a05538ff5384fee4",
-        "title": "H5 bird flu detected in Australian seabird for first time",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/world/h5-bird-flu-australian-seabird-6245696",
-        "image": "https://dam.mediacorp.sg/image/upload/s--2ve-0M2H--/c_crop,h_900,w_1600,x_0,y_92/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/10/000_b7xy9cr_mod.jpg?itok=j7HbspxM",
-        "source": "CNA World",
-        "category": "国际要闻",
-        "publishedAt": "2026-07-10T05:31:00.000Z",
-        "displayTitle": "国际要闻消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       },
       {
         "id": "dc5f31a0929eb53d",
@@ -4851,6 +4863,102 @@
     ],
     "体育": [
       {
+        "id": "fcdfd5beff12810e",
+        "title": "France defenders Saliba, Upamecano not in team training",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/france-defenders-saliba-upamecano-not-in-team-training-6248471",
+        "image": "https://dam.mediacorp.sg/image/upload/s--WlTlBELz--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T204320Z_1_LYNXMPEM6A0DM_RTROPTP_3_SOCCER-WORLDCUP-FRA-SWE.JPG?itok=UCaH1tus",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-11T20:43:20.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "d110c2989721ae0f",
+        "title": "Muchova vows to keep chasing maiden major after Wimbledon heartbreak",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/muchova-vows-keep-chasing-maiden-major-after-wimbledon-heartbreak-6248461",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-11T20:00:56.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "1c76495e47f04b3e",
+        "title": "Australia's Bos to miss three months for Feyenoord after World Cup knee injury",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/australias-bos-miss-three-months-feyenoord-after-world-cup-knee-injury-6248436",
+        "image": "https://dam.mediacorp.sg/image/upload/s--40SlbKaO--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T190714Z_1_LYNXMPEM6A0CZ_RTROPTP_3_SOCCER-NETHERLANDS-FEY.JPG?itok=LcFj-Gj1",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-11T19:07:14.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "901dc1499727e2f4",
+        "title": "Frustrated Townsend proud of Scotland effort in defeat to South Africa",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/frustrated-townsend-proud-scotland-effort-in-defeat-south-africa-6248416",
+        "image": "https://dam.mediacorp.sg/image/upload/s--efoA2AG0--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T182429Z_1_LYNXMPEM6A0CK_RTROPTP_3_RUGBY-UNION-NATIONS-SCO-FRA.JPG?itok=3HO_YQL7",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-11T18:24:29.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "96417efced8151eb",
+        "title": "Belgium coach Garcia's tenure in doubt after Courtois substitution",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/belgium-coach-garcias-tenure-in-doubt-after-courtois-substitution-6248406",
+        "image": "https://dam.mediacorp.sg/image/upload/s--YTFQviZV--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T181609Z_1_LYNXMPEM6A0CD_RTROPTP_3_SOCCER-WORLDCUP-ESP-BEL.JPG?itok=WbaMJCLe",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-11T18:16:09.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "447ea3f2611e6709",
+        "title": "Noskova survives Muchova fightback in all-Czech final to lift Wimbledon trophy",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/noskova-survives-muchova-fightback-in-all-czech-final-lift-wimbledon-trophy-6248386",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-11T17:40:03.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "cccf322ce8f536d8",
+        "title": "Traffic jam delay adds to India's woes ahead of 56-run T20 loss to England",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/traffic-jam-delay-adds-indias-woes-ahead-56-run-t20-loss-england-6248366",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-11T17:08:10.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "b780a0da27a0faba",
+        "title": "Heatwave forces Tour de France organisers to shorten stage nine",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/heatwave-forces-tour-de-france-organisers-shorten-stage-nine-6248361",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-07-11T17:01:35.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
         "id": "c8b9227b117ea13e",
         "title": "German FA says it has started talks with coach Klopp for national team post, confident of a deal",
         "description": "暂无摘要。",
@@ -4993,109 +5101,13 @@
         "publishedAt": "2026-07-11T10:30:37.000Z",
         "displayTitle": "体育消息",
         "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "f59d6a10962a9425",
-        "title": "Marquez snatches German MotoGP pole with new lap record, Bezzecchi withdraws after crash",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/marquez-snatches-german-motogp-pole-new-lap-record-bezzecchi-withdraws-after-crash-6248066",
-        "image": "https://dam.mediacorp.sg/image/upload/s--fWPpvvTL--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T101326Z_1_LYNXMPEM6A05C_RTROPTP_3_MOTOR-MOTOGP-GERMANY.JPG?itok=8WtrrQNP",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-11T10:13:26.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "288ad0bb517eb9df",
-        "title": "Manchester City sign winger Monga from Leicester",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/manchester-city-sign-winger-monga-leicester-6248046",
-        "image": "https://dam.mediacorp.sg/image/upload/s--oTytAte5--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T095231Z_1_LYNXMPEM6A057_RTROPTP_3_SOCCER-ENGLAND-LEI-NEW-REPORT.JPG?itok=b9AGB5Vd",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-11T09:52:31.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "0158963eddf46315",
-        "title": "Jordan takes try-scoring record as All Blacks hammer Italy 47-17",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/jordan-takes-try-scoring-record-all-blacks-hammer-italy-47-17-6247996",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-11T07:35:28.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "ce9168155a281992",
-        "title": "Auger-Aliassime parts ways with long-time coach Fontang after Wimbledon exit",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/auger-aliassime-parts-ways-long-time-coach-fontang-after-wimbledon-exit-6247931",
-        "image": "https://dam.mediacorp.sg/image/upload/s--mv9tEQAQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T060727Z_1_LYNXMPEM6A03K_RTROPTP_3_TENNIS.JPG?itok=J9eRR1nA",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-11T06:07:27.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "ce872e3fd5156f99",
-        "title": "Australia striker Mitch Duke ends international career",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/australia-striker-mitch-duke-ends-international-career-6247866",
-        "image": "https://dam.mediacorp.sg/image/upload/s--pP3DHbg1--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T040302Z_1_LYNXMPEM6A02Y_RTROPTP_3_SOCCER-WORLDCUP-FRA-AUS-PREVIEW.JPG?itok=fv52UMru",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-11T04:03:02.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "650d47a60bde0ecd",
-        "title": "England's Kane confirms golf outing with Trump, praises president's game",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/englands-kane-confirms-golf-outing-trump-praises-presidents-game-6247806",
-        "image": "https://dam.mediacorp.sg/image/upload/s--5l3Jh7ne--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-07-11T025039Z_2_LYNXMPEM6A02L_RTROPTP_3_SOCCER-WORLDCUP-ENG.JPG?itok=uNVzQADa",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-11T02:50:00.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。"
-      },
-      {
-        "id": "997a44cf257c2bb4",
-        "title": "'A machine': Scaloni not surprised by Messi's form at 39",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/machine-scaloni-not-surprised-messis-form-39-6247796",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-11T02:48:00.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "fc8bc4adaccc959a",
-        "title": "Wembanyama signs multi-year contract extension with Spurs",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/wembanyama-signs-multi-year-contract-extension-spurs-6247676",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-07-11T01:00:33.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。监管和法律风险受到关注。"
       }
     ],
     "亚太": [
       {
         "id": "71139fd62626ec58",
         "title": "Johor polls: BN sweeps 48 of 56 seats as PM Anwar’s PH cedes ground in southern state",
-        "description": "Barisan Nasional's Johor rival, Prime Minister Anwar Ibrahim’s Pakatan Harapan (PH) coalition, is poised to win the remaining eight seats in the closely watched contest, losing ground from the 12 seats it secured in 2022.",
+        "description": "Barisan Nasional's Johor rival, Prime Minister Anwar Ibrahim’s Pakatan Harapan (PH) coalition, won the remaining eight seats in the closely watched contest, losing ground from the 12 seats it secured in 2022.",
         "link": "https://www.channelnewsasia.com/asia/johor-state-election-results-barisan-nasional-6248056",
         "image": "https://dam.mediacorp.sg/image/upload/s--mjdICZ65--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/11/dsc_1261.jpg?itok=OQQzWCj6",
         "source": "CNA Asia",
@@ -5199,18 +5211,6 @@
         "publishedAt": "2026-07-10T11:06:00.000Z",
         "displayTitle": "亚太消息",
         "displayDescription": "消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。"
-      },
-      {
-        "id": "7a0b02b9a0a06a9b",
-        "title": "Philippines rejects Chinese academics' sovereignty claims",
-        "description": "The Batanes Islands are located less than 200km from self-ruled Taiwan - which China considers part of its territory.",
-        "link": "https://www.channelnewsasia.com/asia/philippines-china-academics-batanes-disputed-islands-sovereignty-6243461",
-        "image": "https://dam.mediacorp.sg/image/upload/s--3_eI9sLK--/c_crop,h_576,w_1024,x_0,y_22/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/07/10/000_33lr3yu.jpg?itok=g6NbxQuB",
-        "source": "CNA Asia",
-        "category": "亚太",
-        "publishedAt": "2026-07-10T09:46:00.000Z",
-        "displayTitle": "亚太消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       },
       {
         "id": "7c685914fc5f71b5",
@@ -5923,6 +5923,17 @@
       "itemIds": [
         "db2d4d5bfc75e2bf",
         "42338b542b95a65a",
+        "fcdfd5beff12810e",
+        "8c61341dd2b6fdc9",
+        "d110c2989721ae0f",
+        "1c76495e47f04b3e",
+        "86c65c66f5c12111",
+        "f6501a5c382e6c4f",
+        "901dc1499727e2f4",
+        "96417efced8151eb",
+        "447ea3f2611e6709",
+        "cccf322ce8f536d8",
+        "b780a0da27a0faba",
         "c8b9227b117ea13e",
         "317c1003d47b1b5c",
         "eca62a29aa65f271",
@@ -5945,30 +5956,19 @@
         "1ba71ddf32f605f6",
         "f338d2338aa3c1ef",
         "780130ade7bc046c",
-        "f59d6a10962a9425",
-        "288ad0bb517eb9df",
         "65afba0c94825d40",
         "1bba570c1f0b5595",
         "00596540dc4b0c91",
         "2a91ba0ff160db6d",
         "d24d0b11a1a8786a",
         "7a4222af247aa72b",
-        "ddc4f57161908cd3",
-        "d471bbc003d9ab8e",
-        "0873d7bc3c5f4d7f",
-        "0158963eddf46315",
-        "2e9ecb393629b0ce",
-        "9deb3326c71a67cc",
-        "5ba47abbcc1f232c",
-        "37c8e69cf4df2011",
-        "ce9168155a281992",
-        "1d8ba9b3e0ce7e8d"
+        "ddc4f57161908cd3"
       ],
       "count": 42,
-      "durationHint": 1255,
-      "script": "人工智能公司Anthropic今天发布了对“负责任扩展政策”的重要更新。这项政策是其用于防范前沿AI系统可能带来的灾难性风险的治理框架。此次更新引入了更加灵活和精细化的风险管控机制，旨在平衡技术创新与安全底线。Anthropic表示，新版政策将根据模型能力的不同阶段动态调整监管措施，并强化了对潜在滥用场景的预判与阻断能力。这一调整反映出业界对AI安全治理正从静态规则向动态适应方向演进。\n与此同时，今年第3号台风“巴威”已于深夜登陆浙江台州玉环市。台风中心附近最大风力达到14级，给浙江沿海地区带来狂风暴雨。此前，巴威在台湾北部和东部多地引发豪雨，造成113人受伤，数万户家庭一度停电。中国大陆方面，浙江、福建、上海等省市紧急转移安置民众达185万人。目前，台风正以每小时20公里左右的速度向西北方向移动，强度逐渐减弱，但后续强降雨仍可能引发山洪、滑坡等次生灾害。各地防汛部门正持续监测水情，做好抢险救援准备。\n体育方面，德国足协正式确认已与著名教练尤尔根·克洛普就国家队主教练一职展开谈判。德国足协高层对达成协议表示乐观，认为克洛普是带领德国队重建的合适人选。克洛普自2024年离开利物浦后一直处于休假状态，但他对执教国家队持开放态度。如果谈判成功，这位曾带领利物浦夺得欧冠和英超冠军的教头，将在2026年世界杯后正式接手德国队。目前德国队正处于新老交替阶段，克洛普的激情执教风格和战术革新能力被寄予厚望。\n温布尔登网球锦标赛男单决赛即将上演，德国名将亚历山大·兹维列夫将迎战意大利新星扬尼克·辛纳。兹维列夫在半决赛中直落三盘击败对手，展现出强大的发球和底线相持能力。他在赛后表示自己状态正佳，对冠军充满渴望。而辛纳则凭借出色的移动和反手进攻一路过关斩将，被视为新生代中最具威胁的选手之一。两人此前交手记录显示，兹维列夫在硬地赛场略占上风，但辛纳在草地上的适应能力不容小觑。这场决赛不仅是技术实力的较量，更是经验与冲劲的直接对话。温网中央球场届时将迎来两位顶尖选手的巅峰对决，冠军归属充满悬念。\n考文垂俱乐部官方宣布，从伯恩利签下前锋查奥纳，双方签订了一份为期五年的合同。这笔转会交易的具体金额并未对外公布，但据此前媒体报道，转会费可能达到1500万英镑。查奥纳上赛季在伯恩利表现出色，他的加盟将增强考文垂前场的攻击力。\n英格兰队在国际友谊赛中强势反弹，以11次达阵的压倒性表现击败斐济队，重回胜利轨道。比赛中，英格兰队展现了强大的进攻火力，多次通过快速反击和团队配合撕开对手防线。这场胜利对于球队士气的提升至关重要，也为接下来的正式比赛奠定了良好基础。\n环法自行车赛进入新赛段，比利时车手梅利尔连续第二个赛段夺得冲刺冠军，展现出极佳的竞技状态。他在最后冲刺阶段凭借出色的爆发力和路线选择率先冲线，成功卫冕赛段冠军。总成绩方面，斯洛文尼亚车手波加查继续保有黄色领骑衫，他在山地赛段积累的优势依然稳固。\n马来西亚柔佛州选举结果揭晓，国民阵线赢得56个议席中的48席，取得压倒性胜利。首相安瓦尔领导的希望联盟仅获得剩余8个席位，相比2022年选举中赢得的12席有所减少。分析人士指出，这一结果反映出柔佛州选民对国民阵线的持续支持，同时也对希望联盟在南部州属的影响力构成挑战。选举期间，各政党围绕经济发展、民生改善和族群关系等议题展开激烈辩论，最终国民阵线凭借在乡村和城镇地区的广泛基础成功巩固了优势。\n今年第七号台风“巴威”正在逼近中国东部沿海，预计将成为一周内登陆中国的第二个台风。浙江省已紧急启动防台风应急响应，数十万人从东部沿海地区疏散，其中温州市作为人口约一千万的重要城市，正位于风暴路径附近。当地政府正全力组织人员转移，并加强沿海堤防和排水系统的检查，以应对可能出现的强降雨和风暴潮。气象部门提醒，台风“巴威”的强度仍在持续增强，登陆时可能带来破坏性大风和暴雨，对交通、电力及农业生产构成威胁。这是继上周台风“艾云尼”之后，中国东部地区在短时间内再次面临台风考验，显示出今年夏季台风活动进入活跃期。\n在人工智能领域，一项关于大语言模型性能优化的新研究引发关注。研究人员指出，大语言模型在处理长上下文时并非因“遗忘”而失效，恰恰相反，问题在于模型“记住”了过多冗余信息。随着对话或任务持续进行，提示词中会积累大量重复和低价值的标记，这不仅推高了计算成本和响应延迟，还会在不知不觉中降低输出质量。为此，研究团队开发了一种安全的提示词剪枝层，能够自动识别并移除这些冗余内容，从而在不影响模型核心能力的前提下提升系统效率。这一方法为当前大语言模型在复杂任务中的实际部署提供了新的优化思路，尤其适用于需要长时间交互或处理长文档的应用场景。\n体育界传来消息，前切尔西足球俱乐部主席肯·贝茨去世，享年94岁。贝茨在1982年至2003年间担任切尔西主席，期间他主导了俱乐部的商业化转型，并推动了斯坦福桥球场的改造。尽管他在任期内也因管理风格和财务决策引发争议，但不可否认的是，他为切尔西从一家中游俱乐部成长为英超劲旅奠定了基础。贝茨的离世引发了足球界的广泛悼念，多家俱乐部和球员纷纷表达敬意，回顾他在英格兰足球发展中的独特角色。\n中东局势方面，一支美国代表团抵达黎巴嫩，就以色列从所谓“试点区”撤军问题展开讨论。根据今年六月签署的协议，黎巴嫩军队将全面接管两个被称为“试点区”的小片区域。此次美国代表团的到访，旨在推动协议落实，确保以色列军队按计划撤离，同时协调黎巴嫩方面的接管安排。这一进展被视为缓解黎以边境紧张局势的关键步骤。分析人士指出，如果试点区的交接顺利，可能为更广泛的边境安全安排铺平道路，但双方在核心领土争议上的分歧依然存在，后续谈判仍面临挑战。\nOpenAI正在将目光投向家庭场景。根据一则招聘信息，ChatGPT团队正在招募一位专门负责家庭、照护者和老年人群体的产品经理。这意味着，这家公司不再只把对话机器人当作办公助手或编程工具，而是开始系统性地为家庭用户设计体验。从儿童陪伴到老人看护，ChatGPT可能正在酝酿一系列面向日常生活的功能。这背后是AI行业的一个趋势：大模型产品正从“能用”走向“好用”，而家庭场景，正是下一个需要深耕的领域。\n体育方面，南非足坛传来令人痛心的消息。年仅25岁的中场球员杰登·亚当斯去世。他在2026年世界杯上代表南非队出战，正是他在对阵韩国队时打入的制胜球，帮助球队1比0获胜，也让南非历史上首次闯入世界杯淘汰赛阶段。这位年轻球员的突然离世，让整个南非足球界陷入哀悼。\n网球场上，温布尔登锦标赛男双决赛落下帷幕。帕滕和海利厄瓦拉组合成功捧起冠军奖杯，这是他们第二次在温网男双项目中夺冠。两人在草地上的默契配合和稳定发挥，再次证明了他们在这项赛事中的统治力。\n而在德国举行的MotoGP大奖赛中，马克·马奎兹再次展现了惊人的统治力。他从杆位出发，一路领先，最终以绝对优势拿下冲刺赛的胜利。这场胜利不仅是他个人职业生涯的又一个里程碑，也让他在这条赛道上书写了新的历史。马奎兹在德国站的强势表现，让车迷们再次看到了这位八届世界冠军的巅峰状态。\n伊朗最高领袖哈梅内伊之子穆杰塔巴·哈梅内伊发表书面声明，誓言复仇是其民族的意志，必须得到执行。这一表态针对的是其父亲遇害事件。穆杰塔巴在声明中强调，复仇不可避免，伊朗将采取必要行动。目前，国际社会密切关注伊朗可能采取的报复措施及其对地区局势的影响。分析人士指出，这一事件可能进一步加剧中东地区的紧张态势，各方正呼吁保持克制。\n在体育领域，世界杯赛场上出现了一幕引人关注的画面：多名球员佩戴面具参赛。这一现象凸显了足球运动中面部受伤风险长期被忽视的问题。尽管足球规则并未禁止佩戴防护面具，但球员因面部碰撞、球击等导致的骨折或软组织损伤并不罕见。专家指出，随着比赛强度增加，面部防护应成为球员和教练组重视的安全议题。国际足联和相关医疗组织正考虑制定更明确的指导方针，以降低此类风险。\n人工智能领域的最新研究揭示，前沿大模型仍存在“幻觉”问题，即生成不准确或虚构的信息。这些错误有时显得滑稽，但也会造成实际损害。研究人员深入分析了幻觉产生的内在机制：模型在缺乏足够训练数据或面对模糊查询时，倾向于基于概率生成看似合理但事实错误的回答。当前，业界正探索多种解决方案，包括改进训练数据质量、引入事实核查机制以及增强模型的自我纠错能力。尽管技术进步显著，但完全消除幻觉仍面临挑战，用户在使用AI生成内容时需保持审慎。\n在橄榄球赛事中，爱尔兰队以36比20击败日本队，延续了在国家锦标赛中的全胜纪录。比赛中，爱尔兰队展现了强大的攻防实力，上半场便建立起领先优势。日本队虽在后期奋力反扑，但未能扭转局面。这场胜利使爱尔兰队在积分榜上继续保持领先位置，为后续比赛奠定了坚实基础。日本队则需总结经验，调整战术以应对接下来的挑战。\n智谱创始人唐杰今天发布了一封题为《巨浪已来》的内部信。这封信是在智谱市值较半年前上市初期上涨十倍、并在今年六月跻身“万亿港元俱乐部”之后发出的。目前智谱的市值已经达到百度市值的近三倍，并且超过了小米。本月八号，首批股票解禁后，智谱股价依然保持稳定。唐杰在信中明确表示，智谱不会追求短期的应用变现，而是将目标直接指向通用人工智能的下一个高地，包括长程任务能力、完全自治的智能体系统、自我进化以及极致安全治理。这封内部信被视为智谱在取得阶段性商业成功后，对技术路线的再次确认和战略聚焦。\n国际体育方面，西甲马德里竞技俱乐部正式签下丹麦中场球员赫尤尔曼德，他此前效力于葡萄牙体育俱乐部。这笔转会进一步增强了马竞的中场实力，球队在新赛季的阵容构建正在加速推进。\n越南富国岛附近海域发生一起游船倾覆事故，一艘搭载游客的船只不幸翻沉。事故已造成十五人死亡，死者均为印度游客。另有二十一人成功获救。当地救援部门正在对事故原因展开调查，同时做好善后和遇难者家属的安抚工作。这起事件再次引发外界对旅游水域安全管理的关注。\n德国摩托车大奖赛的排位赛在萨克森林赛道结束，马克·马奎斯以刷新赛道纪录的成绩夺得杆位，展现出强劲的竞技状态。不过，意大利车手贝泽奇在练习赛中发生严重摔车，随后宣布退出本站比赛，具体伤情有待进一步确认。在足球转会市场方面，曼城俱乐部官方宣布从莱斯特城签下边锋蒙加，这笔交易进一步补强了球队的边路攻击线，蒙加预计将在新赛季身披蓝月亮战袍出战。\n回到国内经济领域，乘联分会秘书长崔东树在最新分析中指出，2026年6月新能源车厂商库存呈现小幅收缩态势，行业并未出现普遍的压库存现象。崔东树表示，中国宏观经济保持较强增长，在国家促消费政策推动下，汽车市场整体保持强势增长。从结构上看，2026年全国汽车市场走势较为平稳，其中生产资料高补贴政策带动卡车市场和客车市场回暖明显。商用车领域出现设备更新补贴推动的结构性增长特征，刚落地的商用车高补贴政策加速了物流运输领域的电动化进程，商用车景气度处于较高水平。然而，由于去年消费政策力度超强，今年政策收缩明显，入门级消费支持政策大幅下降，导致今年1至6月乘用车零售持续负增长，尤其是燃油乘用车出现崩塌式下滑。不过，出口增量成为重要支撑，部分抵消了国内市场的下行压力。\n在资本市场方面，7月10日晚间，多家A股上市公司发布了2026年半年度业绩预告，存储、锂矿、有色等赛道的头部企业集体交出亮眼成绩单，部分公司上半年净利润实现10倍以上增长，行业景气度大幅提升。具体来看，受人工智能相关需求增长影响，互联网数据中心等领域对企业级存储产品的需求持续增加，存储芯片行业保持高景气度，相关产品价格较上年同期稳步上涨，业内企业普遍实现高增长。锂电行业自2025年下半年以来持续修复基本面，业内企业业绩迎来复苏，其中锂电上游矿端及锂盐端受益最为明显。除锂矿外，受新能源汽车和储能需求拉动，有色金属板块也表现突出，多家企业净利润同比大幅增长。这些业绩预告反映出，在人工智能、新能源等新兴产业的带动下，相关产业链上下游企业正迎来新一轮增长周期。分析人士指出，随着技术迭代和市场需求持续扩大，存储芯片、锂电上游资源以及有色金属等领域的头部企业有望继续保持强劲增长势头，但同时也需关注行业产能扩张带来的价格波动风险。\n印度尼西亚反腐败检察官办公室的一名高级检察官近日宣布辞职，此前警方在一次突击行动中查获了包括74公斤金条以及580万美元和1720万新加坡元现金在内的巨额财物。这些证据的规模引发了外界对印尼反腐体系内部廉洁状况的广泛关注。与此同时，台风“巴威”正持续影响亚太地区。根据最新消息，台风巴威的暴风圈已于周六清晨进入台湾陆地，预计下午至傍晚时段对台湾的影响最为强烈。受外围环流影响，屏东牡丹乡及兰屿已测得14级强阵风，风速高达每小时164公里，台湾气象部门已发布台风强风告警。目前，台湾全岛已有超过15万户家庭遭遇停电。而在中国大陆，为应对台风可能带来的强降雨和地质灾害，福建、浙江和上海三地已紧急转移安置民众超过76万人，各项防台防汛措施正在紧张进行中。\n在经济发展领域，中国港口运营数据再创新高。根据最新统计，2025年我国港口货物吞吐量达到183亿吨，集装箱吞吐量完成3.54亿标准箱，两项核心指标均继续稳居世界第一。这一数据不仅反映了中国作为全球贸易大国的强劲物流能力，也显示出港口基础设施的持续完善和运营效率的提升。与此同时，中国在电力技术领域的全球领先地位也得到了权威国际报告的确认。联合国可持续发展高级别政治论坛期间，全球能源互联网主题活动在纽约联合国总部举行，会上发布的《全球电力发展指数（2026）》研究报告显示，中国电力发展综合排名已跻身世界前列，其中电力技术创新指标更是位居全球首位。报告指出，中国在特高压输电、智能电网以及可再生能源并网等关键技术领域的突破，为全球能源转型和可持续发展提供了重要支撑。这些成就共同勾勒出中国在基础设施建设和科技创新方面齐头并进的发展图景。\n科技与商业领域今天有多项重要动态。市场消息显示，腾讯正在洽谈成为通用AI Agent公司Manus的最大股东。据称，由腾讯牵头的中方资本组团，计划以约20亿美元的估值，从Meta手中回购Manus的全部股权。记者向腾讯方面求证，截至发稿时暂未获得回应。不过，有知情人士透露，此次交易完成后，腾讯仍将保持少数股东地位，不会对Manus形成控股。Manus是一家专注于通用人工智能代理技术的公司，这一潜在交易若成行，将深刻影响国内AI Agent赛道的竞争格局。\n与此同时，蚂蚁集团旗下的Robotics团队发布了灵宝VA 2.0技术报告。这是一款为物理AI原生构建的视频-动作基础模型，并非从视频生成模型微调而来。该模型能够在执行动作之前预测未来状态，为具身智能领域提供了全新的技术路径。灵宝VA 2.0的推出，标志着蚂蚁集团在物理世界与数字世界融合的AI方向上迈出了关键一步。\n期货市场方面，中国期货业协会最新统计数据显示，今年6月全国期货交易市场成交量为9.39亿手，成交额超过80.6万亿元，同比分别增长27%和52.72%。今年上半年，全国期货市场累计成交量突破51亿手，累计成交额超过482.7万亿元，同比分别增长25.23%和42.08%。这一数据反映出期货市场交易活跃度显著提升，投资者参与热情高涨，也与大宗商品价格波动和风险管理需求增加密切相关。\n体育赛场传来消息，在橄榄球国际比赛中，新西兰全黑队以47比17大胜意大利队。比赛中，新西兰队球员乔丹打破了球队的达阵得分纪录，成为全黑队历史上达阵次数最多的球员。这场胜利进一步巩固了全黑队在国际橄榄球界的强势地位。",
+      "durationHint": 1377,
+      "script": "台风巴威在深夜登陆浙江台州玉环市，带来强风暴雨。此前，该热带气旋已导致台湾北部、东部等多个地区出现豪雨，数以万计住户一度停电，全台共有113人受伤。中国大陆方面，为应对台风来袭，浙江、福建等地紧急疏散转移民众达185万人。目前，各地正全力开展抢险救灾和恢复工作。\n国际方面，英国警方释放了一名此前因涉嫌谋杀前保守党议员安·威德科姆而被逮捕的嫌疑人。威德科姆女士于本月早些时候在其位于伦敦的住所附近遇袭身亡，案件一度引发英国社会高度关注。警方表示，调查仍在继续，目前尚未对任何人提出正式指控。\n科技领域，人工智能公司Anthropic发布了对“负责任扩展政策”的重要更新。该政策是其用于防范前沿人工智能系统可能带来的灾难性风险的治理框架。此次更新引入了更加灵活和细致的风险评估机制，旨在更有效地应对AI技术快速发展过程中出现的新挑战。Anthropic表示，新版本将允许公司在不同风险等级下采取更具针对性的安全措施，同时保持技术创新的活力。\n体育方面，法国国家足球队的备战工作出现变数。后卫球员萨利巴和于帕梅卡诺未能参加球队的合练。目前，法国队教练组尚未就两人缺席的具体原因作出官方说明。考虑到近期密集的赛程和球员身体状况，外界普遍猜测这可能是出于伤病预防或恢复调整的考虑。法国队即将迎来关键的国际赛事，后防核心球员的出场状态将直接影响球队的战术部署和比赛结果。\n俄罗斯军队在7月11日对乌克兰发动了大规模导弹和无人机袭击，造成至少6人死亡，数十人受伤。乌克兰方面表示，俄军从多个方向发射了巡航导弹和自杀式无人机，主要目标集中在东部和南部的前线地区以及部分后方基础设施。袭击导致多栋居民楼和民用设施受损，救援工作仍在进行中。这是俄军近期针对乌克兰发动的又一轮高强度空袭，乌克兰防空部队拦截了部分来袭目标，但仍有大量弹药突破防线。与此同时，孟加拉国遭遇了严重的洪水和山体滑坡灾害，截至7月11日，已确认44人死亡，超过100万人被困。受灾最严重的地区集中在东南部的丘陵地带，连续多日的强降雨引发了山体滑坡和河流泛滥，许多村庄被淹没，道路和桥梁被冲毁。孟加拉国政府已紧急调派军队和救援船只前往灾区，但恶劣天气和复杂地形给救援工作带来了巨大困难。国际社会已开始关注这一人道主义危机，多个援助组织正在协调物资和人员支援。\n体育方面，捷克网球选手卡罗利娜·穆霍娃在温布尔登网球锦标赛女单决赛中遗憾落败，赛后她表示将继续追逐自己的首个大满贯冠军。穆霍娃在决赛中与对手激战三盘，最终以微弱差距失利，这已经是她职业生涯中第二次在大满贯决赛中屈居亚军。她在赛后新闻发布会上坦言，失利令人心碎，但自己会从这次经历中吸取教训，并承诺会以更强的姿态回归。穆霍娃的顽强表现赢得了现场观众的尊重，她的世界排名预计将在温网后进一步提升。另一则体育消息来自澳大利亚女足，中场球员凯拉·科伊尔在世界杯比赛中膝盖受伤，经诊断需要休养三个月。科伊尔是在代表澳大利亚队出战世界杯小组赛时受伤的，当时她在一次拼抢中落地不稳，导致左膝韧带损伤。她目前效力于荷兰费耶诺德俱乐部，俱乐部医疗团队已确认她将缺席接下来的季前训练和部分联赛初期比赛。这对费耶诺德和澳大利亚女足来说都是一个不小的打击，科伊尔是球队中场的核心球员，她的缺阵将迫使教练组调整战术安排。澳大利亚女足在世界杯上的表现一直备受关注，科伊尔的伤情也让球队的后续备战蒙上了一层阴影。\n在刚刚过去的这个国际体育比赛日，多项赛事传来重要战果。首先聚焦温布尔登网球公开赛，女单决赛上演了一场捷克德比。诺斯科娃在决赛中顶住了同胞穆霍娃的顽强反扑，最终成功捧起温网女单冠军奖杯。这场决赛过程跌宕起伏，诺斯科娃在先下一城的情况下，遭遇了穆霍娃的猛烈反击，但她凭借更稳定的关键分处理能力，最终笑到了最后。这是诺斯科娃职业生涯迄今为止分量最重的一个冠军头衔，也标志着捷克网球在女子网坛的持续强势。\n转战橄榄球赛场，南非队在一场激烈的较量中击败了苏格兰队。赛后，苏格兰队主帅汤森德难掩失望，但他同时表示，为球队在比赛中展现出的拼搏精神感到骄傲。面对实力强劲的南非队，苏格兰队在场上并未退缩，给对手制造了相当大的麻烦。汤森德认为，尽管结果不尽如人意，但球队在对抗强度和执行战术方面都取得了进步，这场失利将成为球队继续成长的宝贵经验。\n目光转向足球领域，比利时国家队主帅加西亚的帅位正面临严峻考验。在近期的一场比赛中，加西亚做出了将库尔图瓦替换下场的决定，这一举动引发了外界的广泛讨论和质疑。目前，比利时足协内部对于加西亚的执教前景存在分歧，他的任期能否延续充满了不确定性。库尔图瓦作为世界顶级门将，其被换下的原因以及这一决定对球队更衣室氛围的影响，都成为了媒体和球迷关注的焦点。比利时队近年来在国际大赛中屡有出色表现，但内部矛盾和管理问题也时常成为阻碍球队更进一步的绊脚石，此次换人风波无疑给球队的备战和团结蒙上了一层阴影。\n在板球赛场，印度队遭遇了一场令人沮丧的失利。他们在对阵英格兰队的T20比赛中，以56分的差距落败。更让印度队上下感到困扰的是，赛前球队大巴遭遇了严重的交通堵塞，导致球队抵达球场的时间被大幅延迟。这一意外状况打乱了球队的赛前准备和热身计划，球员们不得不在匆忙中进入比赛状态。印度队教练和队员在赛后都承认，交通延误确实对球队的临场发挥造成了负面影响。英格兰队则抓住机会，凭借出色的整体表现轻松取胜。这场失利也让印度队在系列赛中的形势变得严峻起来，他们需要尽快调整心态和状态，应对接下来的挑战。\n环法自行车赛第九赛段因极端高温被迫缩短赛程，赛事组织方确认，由于法国南部地区持续遭遇热浪袭击，原定赛段距离被临时削减，以确保参赛车手的健康与安全。这是本届环法首次因天气原因调整比赛路线，也再次凸显气候变化对职业体育赛事的直接影响。与此同时，德国足协正式宣布，已与著名教练尤尔根·克洛普就国家队主教练一职展开谈判，并对达成协议表示乐观。克洛普自离开利物浦帅位后一直处于休整状态，此番若接手德国队，将是他首次执教国家队，外界普遍认为这将是德国足球重建的关键一步。在温布尔登网球锦标赛男单决赛中，状态火热的亚历山大·兹维列夫将迎战卫冕冠军扬尼克·辛纳，这场对决被视作本届温网最具看点的终极较量。兹维列夫在半决赛中展现出强大的发球和底线统治力，而辛纳则凭借稳定的心理素质和全面的技术一路过关斩将，两人此前交手记录接近，决赛胜负难以预料。转会市场方面，英冠球队考文垂城官方宣布，从伯恩利签下年轻前锋卢卡·查奥纳，双方签订了一份为期五年的合同。查奥纳上赛季在伯恩利出场机会有限，但考文垂方面认为其潜力巨大，此次转会也是球队为冲击升级名额所做的针对性补强。体育赛场之外，极端天气继续成为全球关注的焦点。法国气象部门已对多个省份发布高温红色预警，部分地区气温突破四十摄氏度，环法赛程调整只是热浪影响的缩影。与此同时，德国足协与克洛普的谈判进展迅速，据内部人士透露，双方在合同年限和执教自主权等核心问题上已基本达成一致，只待最终签字确认。克洛普若成功上任，将面临明年本土欧洲杯的备战任务，压力与机遇并存。温网男单决赛方面，兹维列夫在赛前表示，自己已做好充分准备，面对辛纳这样的顶尖对手，必须从第一分开始就保持专注。辛纳则强调，决赛经验将是他最大的优势，但兹维列夫今年的进步有目共睹，比赛注定艰苦。考文垂签下查奥纳后，球队锋线竞争将更加激烈，主教练表示，这笔签约着眼于长期发展，查奥纳需要时间适应新环境，但俱乐部对他充满信心。综合来看，今日体育新闻呈现出多重看点：环法因气候危机被迫妥协，德国足球迎来可能改变格局的教练人选，温网巅峰对决一触即发，而英冠转会市场也在悄然布局。这些事件从不同侧面反映出职业体育在应对环境、人事和竞技挑战时的复杂生态。未来几天，随着环法赛程继续推进、克洛普谈判结果公布以及温网冠军诞生，体育世界还将迎来更多关键节点。\n英格兰队在一场狂野的进攻表演中找回胜利节奏，以11次达阵的惊人火力横扫斐济队。这场在特威克纳姆球场进行的国际橄榄球对抗赛中，东道主完全掌控了比赛节奏，从开场就展现出压倒性的身体对抗和战术执行力。斐济队虽然偶有反击亮点，但面对英格兰队多点开花的冲击，防线多次被撕开。这场大胜不仅让英格兰队终结了此前的连败颓势，也为即将到来的秋季系列赛注入了强心剂。与此同时，环法自行车赛第11赛段传来消息，比利时车手梅利尔连续第二天在冲刺大战中获胜，拿下本届赛事个人第二个赛段冠军。他在终点前的爆发力让对手难以招架，而总成绩领骑黄衫依然稳稳穿在波加查身上，斯洛文尼亚人继续以稳健的发挥掌控着大局。\n视线转向马来西亚政坛，柔佛州选举结果揭晓，国民阵线以横扫之势拿下56个议席中的48席，取得压倒性胜利。总理安瓦尔领导的希望联盟仅获得剩余8个席位，相比2022年该联盟在柔佛赢得的12席，此次明显失守。这场备受关注的选举被视为马来西亚政治版图的重要风向标，国民阵线在传统票仓的强势回归，反映出选民对当前执政联盟的某种态度转变。分析人士指出，柔佛作为马来西亚南部经济重镇，其选举结果可能对联邦层面的政治格局产生连锁反应。\n中国东部沿海地区正严阵以待，迎接一周内的第二个台风“巴威”逼近登陆。浙江省已紧急疏散数十万民众，拥有约1000万人口的温州市恰好位于风暴路径附近。当地政府启动了最高级别的防台风应急响应，港口关闭、航班取消、学校停课，沿海居民被要求转移到安全地带。气象部门预测，“巴威”可能带来强风暴雨和风暴潮，对刚刚经历过上一个台风侵袭的地区构成双重考验。应急管理部已向浙江、福建等地派出工作组，指导防汛防台风工作。在温州，超市货架上的饮用水和方便食品被抢购一空，居民们用沙袋加固门窗，渔船全部回港避风。这场接踵而至的自然灾害，正在考验中国东南沿海地区的防灾减灾体系。\n先来看国际方面的消息。美国代表团目前正在黎巴嫩，就以色列从所谓“试点区”撤军一事进行磋商。根据今年六月签署的一项协议，黎巴嫩军方将全面接管两个被称为“试点区”的小片区域。此次美国代表团的到访，正是为了推动这一撤军进程的具体落实。\n体育界传来消息，前切尔西足球俱乐部主席肯·贝茨去世，享年94岁。贝茨在1982年至2003年间执掌切尔西，期间经历了俱乐部从低谷到崛起的多个重要阶段，他的离世标志着英超早期商业化时代一位标志性人物的谢幕。\n人工智能领域，大模型的发展正面临新的技术挑战。有分析指出，大型语言模型并非因为“遗忘”而失效，恰恰相反，它们失败的原因在于“记住”了太多内容。随着对话的持续，提示词中会不断积累冗余和低价值的词元，这不仅推高了运算成本、增加了延迟，还会在不知不觉中降低输出质量。针对这一问题，有开发者构建了一套安全的提示词剪枝层，旨在通过主动剔除低效信息，让大语言模型系统运行得更加高效和可靠。\n与此同时，OpenAI正在将目光投向家庭场景。根据一则招聘信息，ChatGPT正在招募一名专门的产品经理，负责为家庭、看护者以及老年人群体打造专属体验。这表明，OpenAI正试图让ChatGPT更深入地融入普通家庭的日常生活，而不仅仅是停留在办公或专业领域的应用。从技术优化到场景拓展，大模型行业正在经历从“能用”到“好用”的精细化转型。\n国际方面，伊朗最高领袖哈梅内伊就父亲遇害事件发表书面声明，誓言复仇。他在声明中表示，“复仇是我们民族的意志，必须不可避免地执行。”这一表态引发国际社会高度关注，外界担忧中东地区紧张局势可能进一步升级。目前，相关事件的调查仍在进行中，各方正密切关注伊朗后续可能采取的行动。\n体育赛场传来多则消息。南非世界杯中场球员杰登·亚当斯不幸去世，年仅25岁。亚当斯曾在南非队1比0战胜韩国队的比赛中出场，那场胜利帮助南非队历史上首次晋级世界杯淘汰赛阶段。他的离世令南非足坛深感悲痛，球迷和队友纷纷表达哀悼。\n在温布尔登网球锦标赛男双决赛中，组合帕滕与赫利奥瓦拉成功卫冕，夺得他们第二个温网男双冠军。两人在决赛中展现出默契配合与强大实力，再次证明了他们在草地赛场上的统治地位。\n世界摩托车锦标赛德国大奖赛方面，马克·马奎兹从杆位出发，轻松赢得冲刺赛胜利，创下历史纪录。马奎兹在比赛中全程领先，展现出极佳的竞技状态，这一胜利也进一步巩固了他在本赛季的领先地位。\n世界杯赛场上，越来越多的球员开始佩戴面具出战，这一现象引发了外界对足球运动中面部受伤风险的关注。事实上，面部损伤在足球比赛中并不罕见，但长期以来并未得到足够的重视。球员在高速对抗、争顶头球或拼抢中，面部受到撞击可能导致鼻骨骨折、眼眶骨折甚至牙齿损伤。佩戴防护面具可以有效降低二次伤害的风险，但同时也可能影响视野和呼吸。专家呼吁，足球管理机构应制定更明确的面部防护指南，帮助球员在安全与竞技表现之间找到平衡。\n在人工智能领域，前沿大模型仍然存在“幻觉”问题，即生成看似合理但实际错误的信息。这种现象有时令人啼笑皆非，但更严重的是可能造成实际损失。研究人员指出，幻觉的产生源于模型对统计模式的依赖，而非对事实的真正理解。当模型遇到训练数据中未充分覆盖的领域，或需要推理复杂逻辑时，就容易编造内容。目前，业界正在探索多种解决方案，包括改进训练数据质量、引入外部知识库验证、以及开发更高效的纠错机制。尽管完全消除幻觉尚不现实，但通过多轮验证和人工审核，可以显著降低其危害。\n体育赛场方面，爱尔兰队在橄榄球国家锦标赛中延续了强势表现，以36比20击败日本队，继续保持全胜战绩。爱尔兰队凭借严密的防守和高效的进攻，在上半场就建立了明显优势。日本队虽然在下半场奋力反扑，但未能扭转局面。这场胜利进一步巩固了爱尔兰队在积分榜上的领先位置，也为后续比赛奠定了良好基础。\n国内科技企业方面，智谱公司创始人唐杰在内部信中宣布，公司将不追求短期应用变现，而是将目标锁定在通用人工智能的下一个高地。具体方向包括长程任务能力、完全自治的智能体系统、自我进化以及极致安全治理。过去半年，智谱迎来了创立以来的高光时刻：市值较半年前上市初期增长了十倍，并在今年六月跻身“万亿港元俱乐部”。唐杰在信中强调，当前人工智能行业正经历“巨浪”般的变革，智谱需要保持战略定力，聚焦长期技术突破而非短期商业回报。这一表态反映出国内大模型企业正在从追求规模扩张转向深耕核心技术研发。\n智谱创始人唐杰在2026年7月11日发布了一封题为《巨浪已来》的内部信。据《智能涌现》独家消息，过去半年来，智谱迎来了创立以来的高光时刻：市值较半年前上市初期上涨了十倍，并在今年6月跻身“万亿港元俱乐部”。这一数字是百度市值的近三倍，并且超过了小米。7月8日首批股票解禁后，智谱股价依然保持稳定。这被视为当下AI大模型赛道最受关注的故事：押注正确的技术方向，换来了市场口碑和商业化成绩的双丰收。\n体育方面，西甲马德里竞技俱乐部正式签下葡萄牙体育的丹麦中场球员尤尔曼德。这笔转会为球队中场增添了新的选择，具体转会费及合同细节尚未公布。\n越南富国岛附近海域发生一起游船倾覆事故。一艘载有游客的船只在该岛附近翻沉，已造成15人死亡。据当地媒体报道，遇难者均为印度籍游客。另有21人在事故中生还。目前救援工作已经结束，事故原因正在调查中。\n乘用车市场信息联席分会秘书长崔东树在7月11日发布分析称，今年6月新能源车厂商库存出现小幅收缩，行业并未出现明显的压库存现象。崔东树指出，中国宏观经济保持较强增长，在国家促消费政策推动下，汽车市场整体走势平稳。2026年全国汽车市场总体表现较为平稳，生产资料领域的高补贴政策以及卡车和客车市场的回暖迹象明显。商用车市场出现了设备更新补贴推动的结构性增长特征，刚落地的商用车高补贴政策加速了物流运输领域的电动化进程，商用车景气度较高。不过，由于去年消费政策力度超强，今年政策有所收缩，入门级消费支持政策大幅下降，导致今年1至6月乘用车零售持续负增长，尤其是燃油乘用车出现了崩塌式下滑。但得益于出口增量，整体市场仍保持一定韧性。崔东树强调，新能源车厂商的库存水平处于合理区间，行业整体运行健康。\n从宏观视角来看，智谱的市值飙升反映了资本市场对AI大模型赛道的高度认可。在技术路线选择上，智谱坚持自研的GLM架构，并在商业化落地方面取得了显著进展。其市值超越百度、小米等传统科技巨头，标志着AI原生企业正在重塑中国科技行业的估值体系。与此同时，越南富国岛的游船事故再次敲响了旅游安全的警钟。富国岛是越南重要的旅游目的地，此次事故中遇难者均为印度游客，可能对当地旅游业造成短期冲击。印度近年来出境游增长迅速，越南作为热门目的地之一，需要加强安全监管以维持游客信心。在汽车行业，崔东树的分析揭示了当前市场的结构性分化：新能源车在政策补贴退坡后依然保持增长，而燃油车则面临需求萎缩的困境。商用车领域的电动化加速，得益于设备更新补贴的推动，这为新能源商用车企业带来了新的增长机遇。整体来看，中国汽车市场正在经历从政策驱动向市场驱动的转型，行业洗牌将进一步加剧。",
       "generationMode": "deepseek",
-      "updatedAt": "2026-07-11T17:04:11.189Z"
+      "updatedAt": "2026-07-11T20:58:06.372Z"
     },
     {
       "id": "section-2dc9b4e0",
@@ -6010,10 +6010,10 @@
         "a2b5b9aa1a778d20"
       ],
       "count": 32,
-      "durationHint": 1274,
-      "script": "人工智能领域在7月11日迎来多项重要动态。首先，Anthropic公司发布了其负责任扩展政策的重要更新。这一政策是该公司用于防范前沿人工智能系统可能带来的灾难性风险的治理框架。此次更新引入了更加灵活和精细化的风险管理方式，意味着Anthropic在平衡技术创新与安全管控方面迈出了新的一步。与此同时，关于大模型实际应用中的技术瓶颈，有开发者提出了一个值得关注的解决方案。一篇技术文章指出，大语言模型在长对话场景中表现不佳，并非因为模型会遗忘信息，恰恰相反，问题在于它记住了太多冗余内容。随着对话增长，提示词中会积累大量低价值甚至无用的标记，这不仅推高了计算成本和响应延迟，还会悄悄降低输出质量。为此，该文章介绍了一种安全且高效的提示词剪枝层，旨在自动过滤掉这些冗余信息，让大模型系统在实际工作中更加稳定和高效。\n在应用层面，OpenAI正在将目光投向家庭场景。根据一则招聘信息，ChatGPT正在招募一位专门的产品经理，负责为家庭、看护者以及老年人群体打造专属体验。这表明OpenAI不再仅仅将ChatGPT视为办公或开发工具，而是试图让它更深入地融入普通人的日常生活，成为家庭中的智能助手。然而，尽管大模型能力不断进化，一个根本性问题依然存在：幻觉。有分析指出，当前最先进的人工智能模型仍然会编造事实。这些幻觉有时显得滑稽，但有时也会造成实际损害。文章深入探讨了幻觉产生的内在机制，并提出了应对策略。从Anthropic的安全治理升级，到针对长上下文的技术优化，再到OpenAI的家庭化战略，以及始终悬而未决的幻觉难题，这些动态共同勾勒出大模型行业在2026年7月的发展图景：一方面在积极拓展应用边界，另一方面也在努力解决技术本身的可靠性与安全性问题。\n蚂蚁集团旗下机器人品牌Robbyant发布了灵宝VA 2.0技术报告，这是一款专为物理人工智能构建的因果视频动作基础模型。与从视频生成器微调的传统路径不同，该模型从零开始为具身智能设计，能够在执行动作之前预测未来状态。这一技术突破意味着机器人在物理世界中的行动将更加精准和高效，为工业自动化、服务机器人等领域提供了新的底层能力支撑。\nOpenAI的安全负责人约翰内斯·海德克宣布离职。这一人事变动发生在OpenAI试图进一步整合其研究与安全团队的关键时期。海德克的离开可能影响公司内部安全流程的连贯性，尤其是在大模型快速迭代的背景下，如何平衡创新速度与安全审查成为外界关注的焦点。\nMeta公司因用户强烈反对，撤下了Instagram上一项引发争议的人工智能功能。据Puck News报道，Meta在收到用户群体的广泛批评后决定取消该功能。具体功能细节尚未完全公开，但此举反映出社交平台在部署AI工具时面临的用户信任挑战，也说明技术落地需要更充分的用户沟通与伦理考量。\n苹果公司正式起诉OpenAI，指控其窃取硬件机密。苹果声称OpenAI鼓励被挖角的员工携带机密演示文稿、秘密原型以及关键供应商细节。这起诉讼凸显了科技巨头在人才流动与知识产权保护之间的紧张关系，尤其是当AI公司从传统硬件厂商高薪挖人时，技术秘密的边界问题变得愈发敏感。苹果的诉讼可能为行业树立新的法律先例，影响未来AI公司与硬件企业之间的合作与竞争模式。\n从行业整体来看，这几则新闻共同勾勒出大模型领域当前的多重挑战：技术层面，蚂蚁集团展示了从底层架构出发的具身智能创新；组织层面，OpenAI的安全负责人离职提示着内部治理的复杂性；用户层面，Meta的AI功能撤回说明公众接受度仍是关键变量；法律层面，苹果与OpenAI的纠纷则预示着知识产权争议将成为常态。这些事件并非孤立，它们共同指向一个核心问题：当大模型从实验室走向大规模应用时，技术、组织、用户与法律之间的平衡需要更精细的协调。未来，企业不仅要在模型能力上竞争，更要在安全治理、用户信任和合规框架上建立系统性的应对策略。\n苹果公司正式对OpenAI提起诉讼，指控其涉嫌窃取商业机密。根据苹果公司提交的诉状，相关不当行为由OpenAI的高级管理层直接主导，其中涉及一名长期在苹果工作的前雇员。这起诉讼的核心在于，苹果认为OpenAI利用该前员工非法获取了苹果在人工智能领域的核心技术信息。目前，OpenAI方面尚未就此案作出公开回应。这起诉讼的走向，将对两家科技巨头在人工智能领域的竞争格局产生深远影响。\n在人工智能代理的开发领域，如何选择合适的记忆策略成为关键课题。一项最新的研究提出了一种基于决策树的方法，帮助开发者根据具体应用场景，为AI代理选择最合适的记忆策略。该方法的操作流程是，通过一个简单的决策树，逐步分析任务需求、数据特性以及计算资源限制，最终确定是采用短期记忆、长期记忆还是混合记忆方案。这一框架的提出，旨在降低AI代理开发中的试错成本，提升系统的稳定性和效率。\n在音乐人工智能领域，Kyutai公司与Mirelo联合发布了名为MuScriptor的开源模型。这是一个基于解码器架构的Transformer模型，专门用于将多乐器混音音频转录为MIDI格式。MuScriptor的训练数据规模相当庞大，涵盖了17万段真实录音以及145万段合成MIDI数据。其技术架构分为三个阶段：首先是音频特征提取，然后是乐器分离与识别，最后是MIDI序列生成。这一模型的发布，为音乐制作、音频分析以及人工智能音乐创作提供了新的工具。\n与此同时，如何构建一个能在T4显卡上流畅运行的自主数据科学代理，也有了可操作的方案。开发者围绕DeepAnalyze-8B模型，结合沙盒代码执行环境与迭代分析机制，构建了一个端到端的自主数据科学代理。具体实现路径是，在Colab环境中配置稳定的运行时，安装机器学习依赖库，并将模型以4位量化模式加载，从而在有限的显存条件下运行。该代理能够自主完成数据清洗、特征工程、模型训练与结果评估等任务，为资源受限环境下的自动化数据分析提供了参考范例。\n开源人工智能的重要性正在被重新定义。Hugging Face首席执行官克莱姆·德朗格近日表示，开源AI比以往任何时候都更加关键。他指出，Hugging Face在过去几年中已经发展成为类似人工智能领域的GitHub，AI开发者可以在这里分享和下载开源模型与数据集。目前，全球大约有一半的AI构建者在使用该平台。德朗格强调，开源模式不仅降低了技术门槛，还加速了创新，尤其是在大模型领域，开源生态的繁荣正在推动整个行业向前发展。\n与此同时，大模型训练中的技术瓶颈也迎来了新的解决方案。英伟达开发者博客发布了一项研究，聚焦于如何通过主机卸载来减少基于JAX的大语言模型训练中的高带宽内存瓶颈。研究指出，在大模型训练过程中，GPU内存往往在计算资源被完全利用之前就已达到极限。模型权重、梯度、优化器状态等数据对内存的消耗巨大，导致训练效率下降。通过将部分数据卸载到主机内存，可以有效缓解这一瓶颈，从而让计算资源得到更充分的利用。这一方法有望提升大模型训练的经济性和可扩展性。\n在显示技术领域，一项新发现可能带来更亮、更节能的数字显示屏。研究人员找到了一个简单的方法，用于延长由发光微观粒子——量子点制成的LED的使用寿命。量子点LED因其色彩纯度高、能耗低而被视为下一代显示技术的重要方向，但寿命问题一直制约其商业化应用。这项突破性进展意味着，未来的显示屏不仅能够提供更鲜艳的色彩，还能在更低的能耗下保持长期稳定运行，对消费电子和工业显示领域都将产生深远影响。\n人工智能芯片产业的资本热潮也在持续升温。SK海力士在美国完成了史上规模最大的外国公司首次公开募股，筹集资金高达265亿美元。这一里程碑式的融资事件，不仅反映了市场对AI芯片需求的强烈信心，也引发了美国方面对本土芯片制造能力的进一步关注。据报道，SK海力士和三星已被敦促在美国建设新的芯片工厂。这一动向表明，全球半导体供应链正在加速向美国本土转移，以应对AI算力需求的爆发式增长，并减少对海外制造的依赖。SK海力士的IPO成功，也为其他芯片制造商提供了融资和扩张的参考模式。\n近日，大模型领域有多项技术进展和行业应用动态值得关注。首先，在人工智能代理的记忆与知识管理方面，一项名为“OpenWiki Brains”的新工具引起了业界注意。该工具能够将来自Gmail、Notion、Git仓库、社交媒体平台X、Hacker News以及常规网络搜索等多种来源的信息，整合成一个本地化的维基知识库。其核心价值在于，它能为AI代理提供一种主动式的、实时更新的记忆机制，使得代理在运行过程中可以像人类一样，随时调用和参考这些动态更新的背景知识，从而提升决策和响应的准确性与上下文关联性。这一思路为解决大模型在长期任务中容易遗忘或依赖静态训练数据的问题，提供了一个实用的工程化方案。\n在底层算力优化方面，NVIDIA官方开发者博客发布了一篇关于CUDA编程中“内核融合”技术的深度解析。文章指出，在GPU编程中，通过将多个独立的计算内核合并为一个，可以显著优化内存访问模式，减少数据在全局内存和共享内存之间的不必要搬运，从而提升内存带宽利用率。同时，内核融合还能有效降低因频繁启动和切换内核所带来的调度开销。对于运行大规模神经网络推理和训练的场景，这种优化手段能够直接转化为更低的延迟和更高的吞吐量，是当前大模型部署和推理加速中的关键技巧之一。\n在数据工程与自动化流水线领域，一篇来自技术社区的实践分享文章介绍了作者构建第二个ETL管道的心得。这次，作者采用了更贴近数据工程师的思维方式，使用Python、Docker、PostgreSQL以及工作流编排工具Kestra，搭建了一套生产级别的RSS数据管道。该管道能够稳定地抓取、清洗和存储来自多个源的RSS订阅内容，并通过容器化技术确保了环境的一致性和可移植性。这一案例展示了如何将大模型应用所需的数据预处理环节，从临时的脚本任务升级为健壮、可维护的工程系统，对于需要持续从互联网获取新鲜数据来训练或微调模型的研究者与开发者，具有直接的参考价值。\n最后，在职业发展方面，一篇面向护理专业毕业生的文章探讨了拥有护理学学士学位后可以获得的30多个高薪职位。这些职位不仅包括传统的临床护理岗位，还涵盖了非床边的领导管理、专科护理以及医疗健康领域的其他专业角色。文章指出，许多护士在经历了一段时间的床边护理工作后，会寻求职业转型或晋升，而BSN学位为这些可能性提供了基础。这一信息虽然看似与纯技术领域的大模型无关，但反映了在医疗健康这一大模型重点应用的垂直行业中，专业人才的知识结构和职业路径正在变得更加多元和复合，这也间接为大模型在医疗辅助决策、健康管理、医疗文书处理等场景的应用，提供了更丰富的人才储备和行业理解基础。\n在大模型领域，硬件与算法的协同设计正成为提升AI性能的关键。英伟达开发者博客近日发文指出，AI性能主要取决于三个维度：模型的推理与输出准确性、每秒处理的令牌数即吞吐量，以及能效。文章强调，要使大模型在硬件上高效运行，必须在模型设计阶段就考虑硬件友好性，通过架构优化来平衡精度与计算资源消耗，从而在边缘设备和数据中心场景中实现更低的延迟和更高的吞吐。这一思路正推动着从单纯追求模型规模向软硬件协同优化的转变。\n与此同时，谷歌的Gemini应用推出了一项名为“学习笔记本”的新功能，旨在帮助学生更高效地备考。该功能允许用户在应用内创建结构化的学习笔记，通过AI辅助整理知识点、生成复习提纲，从而提升学习效率。这一更新体现了大模型在垂直场景中的落地，将通用对话能力转化为针对教育领域的实用工具。\n在职业发展方面，一篇关于护理学学士学位的分析文章指出，对于在职注册护士而言，获得BSN学位不仅能带来领导岗位和专科方向的机会，还能满足部分磁铁认证医院的要求，从而提升薪资潜力和就业前景。尽管该内容主要面向护理行业，但其背后反映的是AI时代下，专业人才通过继续教育提升竞争力的普遍趋势。\n在模型微调领域，亚马逊云科技与英伟达合作，推出了在Amazon SageMaker AI上使用无服务器模型定制功能对Nemotron 3模型进行微调的方案。Nemotron 3架构以其独特的注意力机制和高效的训练方法著称，而SageMaker的无服务器定制允许开发者无需管理底层基础设施即可完成模型适配。具体步骤包括在SageMaker Studio中加载预训练模型、选择微调技术如低秩适配或全参数微调，并利用自动化的超参数优化来提升性能。这一方案降低了企业定制大模型的门槛，尤其适合需要快速迭代和部署的场景。\n在人工智能与医疗健康深度融合的进程中，牙科领域迎来了实时质量管控的新突破。亨利·沙因·万公司借助亚马逊云科技的SageMaker AI平台，构建了一套名为“图像验证”的AI驱动质量核查系统。该系统能够在牙科X光片拍摄的瞬间，对图像质量进行实时评估，从而彻底改变了以往依赖人工事后检查的流程。过去，牙科诊所拍摄的X光片往往需要等待技师或医生肉眼判断是否合格，这不仅耗时，还容易因人为疏忽导致重复拍摄或诊断延误。如今，通过部署在SageMaker AI上的深度学习模型，系统可以在数千个拍摄点同时工作，即时反馈图像清晰度、曝光度以及关键解剖结构的可见性。一旦检测到图像不达标，系统会立刻提示操作人员重新拍摄，确保每一张进入诊断流程的X光片都符合质量标准。这一应用不仅提升了诊疗效率，也显著降低了患者因重复拍摄而承受的辐射剂量，是AI在垂直医疗场景中落地的一个典型范例。\n与此同时，在构建企业级智能代理的底层架构方面，亚马逊云科技与知识图谱技术公司Stardog展开合作，推出了一套基于语义层的解决方案。这套方案的核心在于，利用Stardog的语义AI应用，将存储在Amazon Aurora和Amazon Redshift中的结构化数据，转化为机器可理解的语义知识。随后，通过亚马逊云科技的Bedrock AgentCore平台，智能代理能够直接查询这一语义层，从而回答复杂的客户问题。传统上，企业数据分散在多个数据库和系统中，智能代理在调用这些信息时往往面临格式不统一、语义模糊的难题。而语义层的引入，相当于为数据建立了一本统一的“词典”，让代理能够理解“客户”与“订单”、“产品”与“库存”之间的深层关联。例如，当客户询问“我上次购买的产品是否还在保修期内”时，代理不再需要编写复杂的SQL查询，而是通过语义推理直接给出答案。这种架构不仅降低了开发门槛，也大幅提升了智能代理的准确性和可解释性。\n在智能代理的工作流管理方面，亚马逊云科技旗下的Quick Automate服务推出了原生案例管理功能，专门用于规模化处理代理驱动的业务流程。在传统的自动化系统中，案例管理往往与自动化引擎分离，导致任务流转不透明、异常处理困难。而Quick Automate的新功能将两者深度融合：从案例的创建、分配到处理、关闭，整个生命周期都由智能代理自主驱动。举例来说，一个客户投诉案例被创建后，代理会自动分析投诉内容，判断其紧急程度，然后调用相应的知识库或API来生成回复草案，并提交给人工审核。如果审核未通过，代理还会根据反馈自动调整方案，重新提交。整个过程无需人工干预，但每一步的状态和决策依据都清晰记录在案。这种设计特别适用于客服、合规审查、工单处理等需要多步骤协作的场景，能够帮助企业将代理工作流从实验阶段推向大规模生产。\n最后，在模型部署的工程实践上，亚马逊云科技与开源量化工具Unsloth合作，发布了四种针对量化模型的部署模式。量化技术通过降低模型参数的精度，能够显著减少模型体积和推理延迟，但部署过程往往复杂。这四种模式涵盖了从直接使用Amazon EC2实例进行单机部署，到利用SageMaker AI进行弹性推理的多种场景。开发者可以根据自己的业务需求、成本预算和延迟要求，选择最合适的方案。例如，对于需要低延迟响应的实时应用，可以选择在EC2上部署量化后的轻量模型；而对于流量波动较大的场景，则可以利用SageMaker的自动扩缩容能力。这一合作降低了量化模型上云的门槛，使得更多企业能够在保持模型性能的同时，大幅降低推理成本。",
+      "durationHint": 1163,
+      "script": "Anthropic今天发布了对负责任扩展政策的重要更新。这套风险治理框架旨在降低前沿人工智能系统可能带来的灾难性风险，而此次调整引入了更灵活、更细致的评估方式。公司表示，新版本不再采用一刀切的标准，而是根据不同模型的能力和潜在影响，制定差异化的安全措施。这一变化反映出，随着大模型能力的快速提升，业界对风险管理的认识也在不断深化，从最初的粗放式管控转向更加精准的动态治理。\n与此同时，大模型在实际应用中暴露出的一个核心问题正在引发更多讨论。有技术专家指出，长上下文并非免费午餐——他们构建了一个安全的提示词修剪层，使大语言模型系统能够更高效地工作。文章分析认为，大模型失败的原因往往不是遗忘，而是记住了太多冗余信息。随着对话的持续，提示词中会积累大量低价值令牌，这不仅推高了计算成本和响应延迟，还会悄悄降低输出质量。这个修剪层的思路是，在保留关键语义的前提下，自动剔除重复和无关内容，从而让模型专注于真正重要的信息。这一发现对当前追求超长上下文的行业趋势提出了冷静的反思：长度本身不是目的，有效利用才是关键。\n说到大模型的实际落地，OpenAI正在将目光投向家庭场景。根据一则招聘信息，ChatGPT正在招募专门的产品经理，负责为家庭、看护者和老年人打造专属体验。这意味着，这家公司不再满足于办公和编程等专业领域，而是试图让AI助手真正走进千家万户，成为家庭生活的一部分。从辅导孩子作业到帮助老人管理健康，ChatGPT正在探索更广泛的应用边界。这一战略转向也表明，大模型竞争的下一个战场，可能不再是参数规模或基准分数，而是能否融入普通人的日常生活。\n然而，即便是最先进的人工智能模型，依然会犯一个令人尴尬的错误——幻觉。有分析文章指出，前沿AI仍然会编造事实，这些幻觉有时令人发笑，有时却会造成实际损害。文章深入剖析了幻觉产生的机制：模型本质上是在进行概率预测，当遇到知识盲区或训练数据中的矛盾信息时，它倾向于生成听起来合理但实际错误的回答。更棘手的是，模型本身无法区分自己是在陈述事实还是在编造内容。对此，研究者们正在探索多种解决方案，包括引入外部知识库进行实时校验、改进训练数据质量，以及开发能够主动承认不确定性的模型。但文章也坦言，彻底消除幻觉可能是一个长期挑战，因为这与大语言模型的工作原理紧密相关。对于用户而言，保持警惕、交叉验证关键信息，依然是使用AI工具时不可或缺的习惯。\n蚂蚁集团旗下机器人品牌Robbyant发布了灵宝VA 2.0的技术报告。这是一款专为物理人工智能设计的视频动作基础模型，与从视频生成器微调而来的模型不同，它从零开始为具身智能构建，能够在执行动作之前预测未来状态。这一进展标志着物理AI领域在自主决策和实时环境交互方面迈出了重要一步。\nOpenAI的安全负责人约翰内斯·海德克宣布离职。他的离开正值OpenAI试图进一步整合其研究与安全团队的关键时期。海德克此前负责监督公司AI系统的安全评估与部署，他的离职可能对OpenAI内部的安全治理结构产生影响。\nMeta在Instagram上移除了一项引发争议的AI功能。据Puck News报道，Meta在遭到用户群体的强烈反对后取消了该功能。这一决定反映出社交媒体平台在引入AI工具时面临的用户信任与体验平衡挑战。\n苹果公司正式起诉OpenAI，指控其窃取硬件机密。苹果声称，OpenAI鼓励被挖角的员工将机密演示文稿、秘密原型以及关键供应商细节带到新公司。这起诉讼涉及知识产权保护与人才流动之间的敏感边界，可能对科技行业的人才竞争和商业机密管理产生深远影响。\n在更广泛的行业背景下，这些事件共同勾勒出当前大模型领域的多重挑战：从技术突破到安全治理，从用户反馈到法律纠纷。蚂蚁集团的灵宝VA 2.0展示了物理AI的实用化潜力，而OpenAI的安全负责人离职则凸显了AI安全管理的复杂性。Meta的AI功能下架提醒业界，用户接受度是技术落地的关键变量。苹果的诉讼则揭示了AI公司之间在人才和知识产权方面的激烈竞争。这些动态表明，大模型的发展正从单纯的技术竞赛转向更全面的生态构建，涉及技术、伦理、法律和用户体验等多个维度。未来，企业需要在创新速度与风险控制之间找到平衡，同时应对日益复杂的监管和舆论环境。\n苹果公司正式对OpenAI提起诉讼，指控其涉嫌窃取商业机密。根据苹果方面提交的诉状，这一不当行为由OpenAI的高级管理层直接主导，其中涉及一名长期在苹果工作的前员工。苹果认为，该员工在离职后将其掌握的机密信息带到了OpenAI，并用于后者的产品研发。目前，这起诉讼已引发业界对人工智能领域人才流动与知识产权保护之间平衡的广泛讨论。苹果在诉状中强调，OpenAI的侵权行为并非孤立事件，而是有组织、有预谋的系统性行为，其高层对此负有不可推卸的责任。这起案件预计将对整个AI行业的竞业规范产生深远影响。\n在AI智能体的技术发展方面，如何为智能体选择合适的内存策略正成为开发者关注的核心问题。一篇最新发布的技术文章提出了一种基于决策树的实用方法，帮助开发者在不同应用场景下做出最优选择。文章指出，智能体的记忆策略并非一刀切，而是需要根据任务复杂度、交互频率以及数据敏感性等因素进行动态调整。通过一个简单的决策树模型，开发者可以逐步筛选出最适合自身项目的记忆方案，从而提升智能体的长期表现和用户体验。\n与此同时，法国人工智能实验室Kyutai联合Mirelo公司发布了名为MuScriptor的开源模型。这是一款仅解码器架构的Transformer模型，专门用于将多乐器混合音频转录为MIDI格式。MuScriptor的训练数据规模相当庞大，包含了17万条真实录音以及145万条合成MIDI数据。该模型采用了三阶段处理管线，能够精准识别并分离不同乐器声部，最终生成结构化的MIDI文件。这一成果对于音乐制作、自动伴奏以及音乐教育等领域具有重要应用价值，也为开源社区在音频理解方向提供了新的工具。\n在数据科学自动化领域，一项新的技术方案展示了如何利用DeepAnalyze-8B模型构建一个可在T4显卡上运行的自主数据科学智能体。该方案通过沙盒化代码执行环境确保安全性，并采用迭代分析机制来逐步优化结果。具体实现上，开发者首先在Colab运行时中配置稳定的环境，安装必要的机器学习依赖，然后以4位量化模式加载分词器和模型，从而在有限的GPU内存条件下完成推理。这一方案大幅降低了自主数据科学工具的使用门槛，使得普通开发者也能在消费级硬件上运行复杂的分析任务。\n人工智能领域开源运动的重要性正在被重新定义。Hugging Face首席执行官克莱姆·德朗格近日表示，开源AI比以往任何时候都更加关键。他指出，Hugging Face在过去几年中已发展成为类似AI领域的GitHub平台，AI开发者可以在这里分享和下载开源模型与数据集。目前，全球大约有一半的AI构建者在使用该平台。德朗格强调，开源不仅降低了技术门槛，还加速了创新，尤其在当前大模型竞争激烈的背景下，开源生态的繁荣对行业健康发展具有战略意义。\n在大模型训练的技术层面，英伟达开发者博客发布了一项重要进展。针对基于JAX框架的大语言模型训练中遇到的高带宽内存瓶颈问题，研究人员提出了一种主机卸载方案。具体来说，大模型训练工作负载在GPU内存被完全利用之前，往往会先遇到显存限制。模型权重、梯度、优化器状态等数据对内存的需求巨大，导致计算资源无法被充分使用。通过将部分数据卸载到主机内存，可以有效缓解这一瓶颈，从而提升训练效率。这项技术对于优化大规模AI训练流程、降低硬件成本具有实际价值。\n在显示技术领域，一项关于量子点LED的研究取得了突破。研究人员发现了一种简单的方法，可以延长由发光微观粒子——量子点制成的LED的使用寿命。这一发现有望推动更亮、更节能的数字显示屏的发展。量子点LED因其色彩纯度高、能耗低而被视为下一代显示技术的重要方向，但寿命问题一直是其商业化的主要障碍。此次发现为解决这一难题提供了可行路径，可能加速量子点显示屏在消费电子和工业领域的应用。\n与此同时，人工智能芯片产业的资本动态引发关注。韩国半导体巨头SK海力士在美国完成了史上规模最大的外国公司首次公开募股，融资额高达265亿美元。这一事件标志着AI芯片热潮在华尔街达到了新的高度。紧随其后，SK海力士和三星被敦促在美国建设新的芯片制造工厂。分析认为，随着全球对AI算力需求的激增，高性能存储芯片的供应变得至关重要。SK海力士此次创纪录的IPO不仅反映了市场对AI基础设施的强烈信心，也凸显了美国在推动本土芯片制造方面的迫切需求。这些动向表明，AI产业的硬件供应链正在经历深刻调整，从设计到制造的全链条布局正加速向多元化演进。\n护理专业毕业生正迎来职业路径的多元化转型。根据最新行业分析，拥有护理学学士学位的从业者，除了传统的临床一线工作，还可以在非临床领域获得超过30种高薪岗位，涵盖领导管理、专业细分以及脱离直接患者照护的岗位。这一趋势反映出医疗行业对复合型护理人才的需求正在从病床旁向管理、教育和科技支持等方向延伸。\n在数据工程领域，一位开发者分享了构建第二个生产级ETL管线的经验。该管线使用Python、Docker、PostgreSQL以及工作流编排工具Kestra，用于处理RSS数据源。这一案例表明，随着数据管道复杂度的提升，开发者正越来越多地采用容器化和编排工具来确保数据处理的可靠性和可维护性，标志着从单次脚本向工程化思维的转变。\n人工智能代理的记忆机制有了新的开源解决方案。名为OpenWiki Brains的项目，能够将来自Gmail、Notion、Git仓库、社交媒体平台X、Hacker News以及网页搜索等多种来源的信息，转化为一个本地化的维基知识库。这个知识库可以作为AI代理的主动式记忆，使其在运行时能够实时调用最新、最相关的上下文信息，从而提升决策和响应的准确性。\n在底层计算优化方面，NVIDIA发布了关于CUDA内核融合技术的深度技术文章。文章指出，通过将多个独立的GPU内核合并为一个，可以显著优化内存带宽的利用率，并减少内核启动带来的开销。这种优化对于需要频繁调用GPU的高性能计算和深度学习任务至关重要，能够在不增加硬件成本的前提下提升整体运算效率。\n大模型领域今天有多项值得关注的进展。英伟达开发者博客发布了一篇关于AI模型协同设计的深度文章，核心观点是，AI性能最终取决于三个维度：首先是准确性，也就是模型推理和生成输出的质量；其次是吞吐量，即每秒能处理的token数量；第三是硬件效率。文章指出，当前大模型的设计往往只追求准确率，而忽视了硬件友好性，导致推理成本高昂、部署困难。英伟达提出的协同设计思路，是在模型架构设计阶段就考虑硬件特性，比如内存带宽、计算单元利用率等，从而在保持准确率的同时大幅提升吞吐量。这一方向对于降低大模型落地门槛、推动边缘端部署具有实际意义。\n与此同时，谷歌的Gemini应用推出了一项名为“学习笔记本”的新功能。这项功能专门面向备考学生，用户可以在Gemini应用内创建结构化的学习笔记，系统会自动帮助整理知识点、生成复习提纲，并支持交互式问答。谷歌表示，这一功能旨在让学习过程更高效、更有条理。对于需要大量记忆和理解的学科，这种AI辅助的笔记工具正在改变传统的学习方式。\n在护理教育领域，一篇关于BSN学位价值的分析文章引发了关注。BSN即护理学学士学位，文章指出，对于已经在职的注册护士来说，是否攻读BSN是一个关键决策。拥有BSN学位的护士在职业发展上拥有明显优势，包括更容易获得领导岗位、进入专科护理领域，以及被磁铁认证医院优先录用。薪资方面，BSN持有者的平均收入显著高于仅持有副学士学位的护士，且就业前景更为广阔。文章强调，随着医疗体系对护理质量要求的提升，BSN正逐渐成为行业标准。\n在模型微调方面，亚马逊云科技与英伟达合作，推出了在Amazon SageMaker AI上对Nemotron 3模型进行无服务器定制微调的服务。Nemotron 3是英伟达最新一代的大语言模型架构，具有独特的注意力机制和高效的参数设计。通过SageMaker的无服务器定制功能，用户无需管理底层基础设施，即可对Nemotron 3进行领域适配和任务微调。这一方案大幅降低了模型定制门槛，尤其适合企业级应用场景，比如金融、医疗等垂直领域的专用模型开发。亚马逊云科技在博客中详细介绍了微调技术的具体步骤，包括数据准备、超参数配置和评估流程，并展示了在SageMaker Studio中的操作界面。这一合作标志着大模型微调正在向更便捷、更经济的方向演进。\n在人工智能大模型应用领域，多家企业正在通过亚马逊云服务加速落地。牙科软件公司Henry Schein One利用Amazon SageMaker AI构建了名为Image Verify的实时影像质量验证系统。该系统能够在牙科X光片拍摄的瞬间，对图像质量进行评估，从而填补了以往在拍摄点缺乏即时反馈的空白。通过这一AI驱动的验证方案，牙科诊所可以确保数千张影像在采集时就达到诊断标准，减少重复拍摄和后续人工审核的负担。\n在构建智能体AI的语义层方面，Stardog与Amazon Bedrock AgentCore提供了新的技术路径。开发者可以在AWS上利用Stardog的语义AI应用，将Amazon Aurora和Amazon Redshift中的数据整合成一个统一的语义层。随后，通过Amazon Bedrock AgentCore运行Strand Agents智能体，该智能体能够查询这一语义层，从而回答复杂的客户问题。这一方案的核心在于，将结构化与非结构化数据通过语义理解连接起来，使AI代理能够更准确地理解上下文并执行任务。\n针对智能体工作流的规模化问题，Amazon Quick Automate引入了原生案例管理功能。该功能将案例管理与智能体自动化能力相结合，详细展示了案例在智能体工作流中的完整生命周期——从案例创建、处理到最终解决。通过这种集成，企业可以更系统地追踪和管理由AI代理发起的各项任务，确保复杂业务流程的每一步都有据可查，从而提升自动化流程的可靠性和可审计性。\n在模型部署层面，Unsloth与Amazon SageMaker AI的结合提供了四种量化模型的部署模式。这些模式主要利用Amazon Elastic Compute Cloud（EC2）进行直接实例部署，同时也涵盖了其他AWS基础设施选项。对于已经通过Unsloth完成量化的模型，开发者可以根据实际需求选择最合适的部署路径，从而在保持模型性能的同时，降低计算成本和延迟。这些技术进展表明，从医疗影像的实时质检，到企业级语义层的构建，再到智能体工作流的系统化管理，以及量化模型的高效部署，大模型技术正在通过云服务生态实现更广泛、更深入的应用落地。",
       "generationMode": "deepseek",
-      "updatedAt": "2026-07-11T17:05:10.633Z"
+      "updatedAt": "2026-07-11T20:59:15.165Z"
     },
     {
       "id": "section-def9ff54",
@@ -6022,6 +6022,9 @@
       "category": "国际要闻",
       "itemIds": [
         "42338b542b95a65a",
+        "8c61341dd2b6fdc9",
+        "86c65c66f5c12111",
+        "f6501a5c382e6c4f",
         "a7c00a018b6917f1",
         "aba2e95e7e6c4806",
         "c03ad47c801c11bc",
@@ -6038,11 +6041,9 @@
         "fdebb741f9a5ede4",
         "3914204833a3bca7",
         "982250934444f6dd",
+        "3428639d55957566",
         "b8d36b9195f86035",
-        "bf74bf986e475a89",
-        "5f36c27e50ce210c",
         "bfa13b58b5d1c237",
-        "a05538ff5384fee4",
         "dc5f31a0929eb53d",
         "43f27dc9f4da7eae",
         "dba385aecc4c4f3e",
@@ -6051,14 +6052,13 @@
         "f891de5aaea92782",
         "849bfc6a0033af13",
         "2d8c243f6836f06a",
-        "9bb8e7877938cb9f",
-        "624a06199ead2097"
+        "9bb8e7877938cb9f"
       ],
       "count": 32,
-      "durationHint": 1145,
-      "script": "截至7月11日 17:04，最新消息显示：\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 30 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n新加坡夫婦收養了印尼男嬰，卻發現孩子疑遭人口販運。這宗案件突顯了印尼的兒童販運問題，並引發外界對新加坡相關制度的質疑。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 19 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n「我掌管英國最大銀行」：推薦五種理財方法。勞埃德銀行執行長談到如何在戀愛關係中儲蓄、制定預算、避免詐騙和管理金錢。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n福建泉州晉江鞋廠大火致28人遇難，習近平指「嚴肅追責」。根據新華社消息，中國東南部城市晉江一家鞋廠在週四（7月9日晚）發生火災，造成至少28人死亡。週五，當地召開記者會，福建省政府宣布已經成立事故調查組追責。\n哈梅內伊下葬之際，美伊互相發動攻擊。美國中央司令部表示，在最新一輪空襲中打擊了90個伊朗目標；伊朗衛生部則表示，自週二以來已有14人死亡。\n廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？。一場暴雨讓這座已有66年歷史的水庫失守，引發外界對中國老舊水庫安全性的討論。\n什麼是VAR？為何在世界盃具有爭議性？。在2026年世界盃上，為幫助裁判做出正確判罰而開發的技術成為關注焦點。\n「怕死就只有死路一條」：中國異見者董廣平偷渡韓國之路。曾經任職公安的中國異見人士董廣平，今年5月底獨自駕駛一艘充氣橡皮艇，從中國山東出發，成功偷渡至韓國。他接受BBC中文專訪，憶述這段驚險的40小時海上偷渡之旅。他最終在韓國西岸登陸被當地警方拘留，6月獲准以難民身份轉赴加拿大。董廣平在過去十年，四次嘗試偷渡出國但都以失敗告終，他也談到以不同方法嘗試逃往泰國、越南和台灣的經歷。\n廣西洪災：多次預警之後，洪水為何仍令人措手不及？。作為中國主要的糧食產區，廣西連年爆發洪災，背後原因為何？洪災現場民眾告訴BBC中文她的經歷。\n澳門國安法首案起訴 歐錦新顛覆罪面臨25年徒刑。前民主派立法議員歐錦新去年7月被中國澳門司法警察以勾結罪嫌拘捕，如今他被起訴更嚴重的「顛覆國家政權」罪。\n台灣毒油：致癌沙拉油流入各大超商，食安制度為何失效？。事件揭露抽驗機制漏洞，生產商今年4月首次抽驗沒超標，到5月下游業者自主檢驗發現超標後，只在供應鏈內逐層向上游通報，主管機關延至6月底才收到通知，逾50日「空窗期」令問題油擴散全台。\n「沒戴保險套就不要做」？台灣擬管制事後避孕藥引發女性焦慮。事後避孕藥有越早服用效果越好，一般有「72小時」的黃金時效。有受訪的台灣女性對BBC中文說，擔心未來如果要先到醫院看診再取藥，過程將大幅增加不便，甚至可能因拖延而提高意外懷孕風險。\n德國華人性侵案：拆解性暴力案件的犯罪心理。有學者分析，男性犯案者在群體之間的交流與分享，會造成一種「學習效應」，也會導致一些人將迷姦的「幻想」轉化成實際的犯罪行為。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。",
+      "durationHint": 1144,
+      "script": "截至7月11日 20:58，最新消息显示：\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。其中提到的关键数字包括 1 million。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 30 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n新加坡夫婦收養了印尼男嬰，卻發現孩子疑遭人口販運。這宗案件突顯了印尼的兒童販運問題，並引發外界對新加坡相關制度的質疑。\n「我掌管英國最大銀行」：推薦五種理財方法。勞埃德銀行執行長談到如何在戀愛關係中儲蓄、制定預算、避免詐騙和管理金錢。\n福建泉州晉江鞋廠大火致28人遇難，習近平指「嚴肅追責」。根據新華社消息，中國東南部城市晉江一家鞋廠在週四（7月9日晚）發生火災，造成至少28人死亡。週五，當地召開記者會，福建省政府宣布已經成立事故調查組追責。\n哈梅內伊下葬之際，美伊互相發動攻擊。美國中央司令部表示，在最新一輪空襲中打擊了90個伊朗目標；伊朗衛生部則表示，自週二以來已有14人死亡。\n廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？。一場暴雨讓這座已有66年歷史的水庫失守，引發外界對中國老舊水庫安全性的討論。\n什麼是VAR？為何在世界盃具有爭議性？。在2026年世界盃上，為幫助裁判做出正確判罰而開發的技術成為關注焦點。\n「怕死就只有死路一條」：中國異見者董廣平偷渡韓國之路。曾經任職公安的中國異見人士董廣平，今年5月底獨自駕駛一艘充氣橡皮艇，從中國山東出發，成功偷渡至韓國。他接受BBC中文專訪，憶述這段驚險的40小時海上偷渡之旅。他最終在韓國西岸登陸被當地警方拘留，6月獲准以難民身份轉赴加拿大。董廣平在過去十年，四次嘗試偷渡出國但都以失敗告終，他也談到以不同方法嘗試逃往泰國、越南和台灣的經歷。\n廣西洪災：多次預警之後，洪水為何仍令人措手不及？。作為中國主要的糧食產區，廣西連年爆發洪災，背後原因為何？洪災現場民眾告訴BBC中文她的經歷。\n澳門國安法首案起訴 歐錦新顛覆罪面臨25年徒刑。前民主派立法議員歐錦新去年7月被中國澳門司法警察以勾結罪嫌拘捕，如今他被起訴更嚴重的「顛覆國家政權」罪。\n台灣毒油：致癌沙拉油流入各大超商，食安制度為何失效？。事件揭露抽驗機制漏洞，生產商今年4月首次抽驗沒超標，到5月下游業者自主檢驗發現超標後，只在供應鏈內逐層向上游通報，主管機關延至6月底才收到通知，逾50日「空窗期」令問題油擴散全台。\n「沒戴保險套就不要做」？台灣擬管制事後避孕藥引發女性焦慮。事後避孕藥有越早服用效果越好，一般有「72小時」的黃金時效。有受訪的台灣女性對BBC中文說，擔心未來如果要先到醫院看診再取藥，過程將大幅增加不便，甚至可能因拖延而提高意外懷孕風險。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。其中提到的关键数字包括 1 million。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。其中提到的关键数字包括 1 million。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。其中提到的关键数字包括 1 million。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。其中提到的关键数字包括 1 million。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。其中提到的关键数字包括 1 million。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。其中提到的关键数字包括 1 million。\n巴威逼近登陸：中國嚴陣以待一週內第二個颱風。數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人。颱風巴威暴風圈週六（7月11日）清晨進入台灣陸地，下午至傍晚最接近台灣。受外圍環流影響，屏東牡丹鄉及蘭嶼錄得14級強陣風，時速高達164公里，氣象署已發布「颱風強風告警」。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力。德國宣判主要由中國籍男性組成的「德國老司機駕校」Telegram跨國性侵案，核心成員相繼落網。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人。颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。其中提到的关键数字包括 1 million。",
       "generationMode": "local",
-      "updatedAt": "2026-07-11T17:06:05.503Z"
+      "updatedAt": "2026-07-11T21:00:06.078Z"
     },
     {
       "id": "section-b0dc2f50",
@@ -6066,6 +6066,14 @@
       "subtitle": "体育重点新闻。",
       "category": "体育",
       "itemIds": [
+        "fcdfd5beff12810e",
+        "d110c2989721ae0f",
+        "1c76495e47f04b3e",
+        "901dc1499727e2f4",
+        "96417efced8151eb",
+        "447ea3f2611e6709",
+        "cccf322ce8f536d8",
+        "b780a0da27a0faba",
         "c8b9227b117ea13e",
         "317c1003d47b1b5c",
         "eca62a29aa65f271",
@@ -6077,21 +6085,13 @@
         "30186ec6b2db39fb",
         "80716157fe6806a7",
         "294b30df2ecdeb18",
-        "f338d2338aa3c1ef",
-        "f59d6a10962a9425",
-        "288ad0bb517eb9df",
-        "0158963eddf46315",
-        "ce9168155a281992",
-        "ce872e3fd5156f99",
-        "650d47a60bde0ecd",
-        "997a44cf257c2bb4",
-        "fc8bc4adaccc959a"
+        "f338d2338aa3c1ef"
       ],
       "count": 20,
-      "durationHint": 1132,
-      "script": "截至7月11日 16:28，最新消息显示：\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。",
+      "durationHint": 1131,
+      "script": "截至7月11日 20:43，最新消息显示：\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。",
       "generationMode": "local",
-      "updatedAt": "2026-07-11T17:06:45.913Z"
+      "updatedAt": "2026-07-11T21:00:54.935Z"
     },
     {
       "id": "section-61910ae4",
@@ -6108,7 +6108,6 @@
         "2d4a47dbb414b7c1",
         "375d0a60d0829031",
         "e6e3152892355f1c",
-        "7a0b02b9a0a06a9b",
         "7c685914fc5f71b5",
         "91c068c18d9b7ed0",
         "47ff59435a3c1097",
@@ -6118,11 +6117,11 @@
         "62a01c690e6b2d8c",
         "830579dd8ff1cadd"
       ],
-      "count": 18,
-      "durationHint": 1140,
-      "script": "截至7月11日 15:13，最新消息显示：\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。",
+      "count": 17,
+      "durationHint": 1139,
+      "script": "截至7月11日 15:13，最新消息显示：\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$5.8 million、$17.2 million、US$13.3 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 2 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布，监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在安全与监管、企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在AI芯片和算力、资本市场。有新的产品或能力发布，资本投入和估值成为关注点。其中提到的关键数字包括US$26.5 billion。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。",
       "generationMode": "local",
-      "updatedAt": "2026-07-11T17:07:26.286Z"
+      "updatedAt": "2026-07-11T21:01:40.733Z"
     },
     {
       "id": "section-861ea4ec",
@@ -6162,10 +6161,10 @@
         "dd3f997a14d14903"
       ],
       "count": 30,
-      "durationHint": 1093,
-      "script": "智谱创始人唐杰在今天发布了一封题为《巨浪已来》的内部信。信中明确，智谱将不追求短期的应用变现，而是直接瞄准通用人工智能的下一个高地，包括长程任务能力、完全自治的智能体系统、自我进化以及极致安全治理。过去半年来，智谱收获了创立以来的高光时刻：市值较半年前上市初期涨了十倍，并在今年六月跻身“万亿港元俱乐部”。这个数字是百度市值的近三倍，并且超过了小米。本月八号，首批股票解禁后，智谱依然稳住了股价。这也是当下人工智能大模型赛道最受关注的故事：押注对的技术方向，换来斐然的市场口碑和商业化成绩。\n乘联分会秘书长崔东树今天发文表示，中国宏观经济保持较强增长，在国家促消费政策推动下，汽车市场保持强势增长。2026年全国汽车市场总体走势较为平稳，在生产资料高补贴的推动下，卡车市场和客车市场回暖明显。今年商用车市场出现了设备更新补贴推动的结构性增长特征，刚落地的商用车高补贴带来了物流运输类电动化加速，商用车景气度较高。不过，由于去年消费政策力度超强，今年政策收缩明显，入门级消费支持政策大幅下降，导致今年一至六月乘用车零售持续负增长，尤其是燃油乘用车出现崩塌式下滑。但出口增量在一定程度上缓解了国内市场的压力。\n多家A股公司在昨晚发布了2026年半年度业绩预告，存储、锂电上游资源、有色等多个赛道的头部企业集体交出亮眼成绩单，部分公司上半年净利润实现了十倍以上的增长，行业景气度大幅提升。从行业层面来看，受人工智能相关需求增长影响，互联网数据中心等领域对企业级存储产品的需求持续增加，存储芯片行业保持高景气度，相关产品价格较上年同期稳步上涨，业内企业普遍实现高增长。锂电行业自2025年下半年以来持续修复基本面，业内企业业绩迎来复苏，其中锂电上游矿端及锂盐端受益最为明显。除锂矿外，受新能源汽车和储能需求拉动，有色金属板块同样表现强劲，多家头部企业净利润增幅显著。整体来看，这些行业的景气回升既得益于下游需求的持续扩张，也与供给侧结构性调整和产品价格回升密切相关。\n2025年，我国港口货物吞吐量达到183亿吨，集装箱吞吐量3.54亿标箱，两项数据均稳居世界第一。这是来自新华社的统计，再次印证了中国在全球贸易物流中的核心地位。与此同时，中国在电力技术领域的创新也获得了国际认可。联合国可持续发展高级别政治论坛期间，在纽约联合国总部发布的《全球电力发展指数（2026）》研究报告显示，中国电力发展综合排名已跻身世界前列，其中电力技术创新指标位居全球首位。这份报告由央视新闻报道，标志着中国在能源转型和技术突破方面取得了实质性进展。\n在科技商业领域，一则关于腾讯与通用AI Agent公司Manus的传闻引发关注。有消息称，腾讯正在洽谈成为Manus的最大股东，由腾讯牵头的中方资本组团，计划以约20亿美元的估值，从Meta手中回购Manus的全部股权。不过，截至发稿，腾讯方面尚未对此作出回应。而据知情人士向南方都市报记者透露，此次交易完成后，腾讯仍将保持少数股东地位，但不会控股。这意味着腾讯可能更倾向于战略投资而非全面接管。\n期货市场方面，中国期货业协会最新统计数据显示，今年6月，全国期货交易市场成交量为9.39亿手，成交额为80.62万亿元，同比分别增长27%和52.72%。从上半年整体来看，1至6月全国期货市场累计成交量为51.05亿手，累计成交额为482.7万亿元，同比分别增长25.23%和42.08%。这一数据反映出期货市场交易活跃度显著提升，投资者参与热情高涨，也与宏观经济复苏和商品价格波动加剧的背景相吻合。\n受今年第9号台风“巴威”影响，多家航空公司已发布客票处理通知。国航、东航、南航、海航、厦航、川航、天航等航司均表示，符合条件的旅客可享受一次免费变更或全额免手续费退票服务。旅客需关注各航司具体适用条件，合理安排行程。\n国际能源署署长法提赫·比罗尔近日在接受采访时指出，欧盟在电气化推进方面进展迟缓，未能有效降低对化石燃料的依赖，这一做法实属失策。比罗尔表示，欧盟目前的电气化率约为23%，这一偏低水平正在拖累欧盟整体竞争力。他建议欧盟应当效仿电气化率超过30%的国家。据一份草案报道，欧盟能源委员会计划于下周公布方案，要求各成员国下调电力税费，并加大补贴力度，以帮助家庭普及绿色能源技术。比罗尔还透露，目前已有600吉瓦的可再生能源项目建成完工，正排队等待并网。这一表态反映出欧盟在能源转型过程中面临的现实挑战。\n国内黄金饰品价格方面，今日多家黄金珠宝品牌公布的境内足金首饰价格较昨日多数持稳，最高报价为每克1255元。市场整体保持平稳，投资者和消费者可参考各品牌具体报价进行决策。\n电影市场方面，2026年暑期档票房已突破25亿元。据灯塔专业版实时数据，截至7月11日，档期总票房含预售已超过25亿。目前排名前五的影片分别是《给阿嬷的情书》《玩具总动员5》《四渡》《火遮眼》和《小黄人与大怪兽》。这一成绩显示出暑期档电影市场的强劲复苏势头，后续新片上映有望进一步推高票房。\n7月10日，在D20全球设计院长峰会上，由大麦娱乐携手阿里Token Foundry事业部推出的全球首个潮玩创作者AI设计平台“妙呀”正式宣布开启全量公测。与此同时，“妙呀百万激励计划”也正式启动。这一平台旨在为潮玩创作者提供人工智能辅助设计工具，降低创作门槛，提升设计效率，标志着AI技术在文创细分领域的应用迈出了重要一步。\n今天，第22个中国航海日主场活动在北京首次以线上线下相结合的方式举行，今年航海日的主题是“数智赋能，领航未来”。活动当天发布的《2026年中国航海日公告》显示，我国已成为名副其实的航运大国、造船大国和海洋大国。具体来看，国际海运量占全球比重已接近三分之一，海运航线与服务网络覆盖全球主要贸易国家和地区。在全球货物吞吐量和集装箱吞吐量排名前十的港口中，我国分别占据8席和6席。造船三大指标的国际市场份额连续16年保持全球领先。与此同时，全国海洋生产总值已超过11万亿元人民币。这些数据表明，我国在海洋经济领域的综合实力和全球影响力持续增强。\n在金融科技领域，稳定币发行商Circle公司宣布，美国货币监理署已于周五批准其设立信托银行。获批后，Circle将直接为旗下受监管的稳定币管理储备资产，其核心产品USDC的流通规模已超过730亿美元。这家新银行将被命名为Circle国民信托银行。在此之前，Circle必须依赖第三方银行和托管机构来存放支撑USDC发行的现金与美债资产。值得注意的是，这份银行经营牌照并不允许Circle开展吸收存款、发放贷款等商业银行业务，这意味着其业务范围仍将聚焦于数字资产和支付领域。\n欧洲央行管委、法国央行行长Emmanuel Moulin近日表示，人工智能对通胀的影响难以预测，且可能导致价格波动加剧。Moulin在Investir刊登的评论中指出，由于人工智能同时作用于供需两方面的变量，其对通胀的总体影响尤为难以预测。此外，这种影响不仅体现在通胀水平上，还可能体现在通胀的波动性上。他进一步分析称，从短期来看，由于资本支出增加，人工智能可能具有通胀效应；但随着生产率提升，后续则可能抑制通胀。这一观点反映了欧洲央行对人工智能技术可能带来的宏观经济不确定性的关注。\n世界知识产权组织第68届成员国大会期间，2026年WIPO全球奖颁奖典礼在瑞士日内瓦举行。来自中国的3家企业分别从环境和健康两大领域脱颖而出，荣获本届WIPO全球奖，获奖企业数量位居全球首位。这一消息是由国家知识产权局在7月10日对外公布的。\n在科技领域，OpenAI近日就苹果公司提起的硬件商业机密诉讼作出回应。OpenAI明确表示，对其他公司的商业秘密不感兴趣，公司仍将专注于打造创新技术。这一表态是在财联社7月11日的报道中披露的。\n与此同时，受今年第5号台风“巴威”影响，我国东南沿海多个机场的航班运营出现大面积中断。根据飞常准台风路径与机场影响预报图显示，从7月11日至13日，预计将有56座机场受到台风影响。截至7月11日上午11时，温州龙湾机场、福州长乐机场、台州路桥机场以及丽水机场的进出港航班已全部取消。台北桃园机场的航班取消率高达99%，宁波栎社机场的取消率也达到了60%。杭州机场方面，截至当天上午8点30分，各航司计划取消11日进出港航班共计198架次。上海浦东和虹桥两座机场计划取消的航班数量接近400架次。这一系列航班调整给旅客出行带来了显著影响，相关航空公司正陆续发布退改签政策。\n在产业并购方面，AI内容和互动影视公司垚城智能，也就是FansAI，于7月11日宣布全资收购AI音乐应用新映科技。新映科技是一家在OPC领域，即开放平台内容领域，具有一定影响力的公司。此次收购被业界视为OPC领域目前少见的探索性并购案例。FansAI通过此次收购，有望进一步整合AI内容生成与音乐创作能力，拓展其在互动娱乐生态中的布局。\n法国电信大亨格扎维埃·尼埃尔正通过其掌控的投资机构Vega，以约44亿英镑、折合59.1亿美元的总价，收购阿联酋电信公司所持有的沃达丰约16%的股份。这笔交易一旦完成，Vega将成为英国最大移动通信运营商沃达丰的最大股东。现年58岁的尼埃尔是法国电信企业伊利亚德集团的创始人和持有者，长期深耕欧洲电信业投资。据路透社援引知情人士的说法，尼埃尔注意到沃达丰股价出现下跌趋势后，主动接触阿联酋电信公司，并在数天内迅速达成了股份转手协议。\n与此同时，被誉为“国产存储第一股”的长鑫科技，其IPO已进入发行倒计时。最新披露的招股意向书显示，长鑫科技预计于7月16日正式发行，承销团阵容也随之浮出水面。中金公司和中信建投将担任本次发行的联席保荐机构。在半导体领域，韩国芯片巨头SK海力士登陆美股，上市首日股价大涨近13%。这家市值已突破万亿美元的芯片制造商，此次纳斯达克发行有望跻身史上规模最大的IPO行列。据知情人士透露，参与承销的高盛、花旗等华尔街投行，合计佣金池规模可能突破1.4亿美元，这部分佣金由募资总额0.5%的基础承销费以及SK海力士另行支付的浮动激励奖金共同构成。\n人工智能领域，OpenAI推出了ChatGPT智能体，进一步拓展其应用场景。与此同时，OpenAI高管层再现变动，首席运营官因病离职。在硬件方面，此前有消息称“全球首款智能体手机”已备货8万至10万台，但知情人士随后澄清，该消息并不属实。\n在具身智能赛道，一家年轻的初创公司表现抢眼。具身智能仿生扑翼飞行机器人公司“鹰瞰智翼”，在三个月内完成了三轮融资。该公司近期完成了数千万元人民币的A轮融资，由元禾璞华领投，孚腾资本、厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，以及团队扩充和下一代具身智能扑翼机器人与流体仿真引擎的研发。“鹰瞰智翼”于2025年3月在深圳成立，是全球较早专注于具身智能扑翼机器人的公司之一，其创始人为上海交通大学的机械工程直博生。\n汽车行业方面，德国大众汽车集团正面临大规模裁员计划，最高可能裁减12万个岗位。这一消息引发了市场对欧洲汽车产业前景的广泛关注。科技巨头方面，三星电子会长李在镕计划于7月底赴美，会晤英伟达首席执行官黄仁勋。此外，谷歌已要求所有在搜索和YouTube等平台上投放的AI广告必须进行明确标注，以提升透明度。\n资本市场方面，百亿私募数量已达到142家，再次刷新历史纪录。高盛发布报告称，套利交易当前所处的环境为2000年以来最佳。\n徕芬科技在珠海斗门的超级工厂近日首次较大规模地向外界开放参观。这座总投资超过5亿元、占地超过20万平方米的制造基地，自去年8月投产以来，目前主要承接电动牙刷、剃须刀以及部分新品的生产。工厂内部配套了电机车间、精密成型车间、喷涂车间、组装车间，以及约3000平方米的可靠性实验室。对于一家成立仅7年的公司而言，自建工厂并投入重资产，在消费电子行业并非主流路径，但这也意味着徕芬正在将生产重心向珠海集中，试图通过自建产能来拉动剃须刀和电动牙刷等新品类增长。\n在创新药领域，前传奇生物创始人兼首席科学家范晓虎创办的深圳湾岛细胞，近日完成了1.4亿元人民币的A轮融资。本轮融资由松禾资本领投，东方富海跟投。范晓虎是中国细胞与基因治疗领域的知名人物，他此前主导的CAR-T产品曾实现商业化突破。此次融资的背景是，尽管过去一年AI赛道吸引了大量资本，创新药板块在估值上承受了较大压力，但市场对好药新药的需求依然存在。湾岛细胞的目标是推动细胞治疗技术走向更广泛的应用，试图将原本动辄百万的抗癌针剂成本降下来，让更多患者能够负担得起。\n人工智能领域的触觉感知技术也获得了资本关注。北京他山科技已完成数亿元B轮融资，投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners以及洪山资本等产业方，老股东道氏技术和彬复资本也进行了追加投资。他山科技成立于2017年，专注于人工智能触觉传感器及芯片的研发，是英伟达在全球的首家触觉仿真合作伙伴。公司方面透露，今年上半年的订单量已经超过去年同期的四倍。本轮融资将主要用于触觉传感器及芯片的迭代、场景化方案的落地，以及触觉训练平台的建设。触觉感知被认为是机器人实现精细操作的关键技术之一，他山科技的进展也反映出这一细分赛道正在加速商业化。\n此外，36氪AI测评小程序近期进行了更新，上线了多个新功能。该平台旨在为用户提供标准化的AI产品真实体验与深度测评，帮助用户在海量AI工具中筛选出真正好用的产品。过去半年，大量AI产品频繁刷屏，但用户往往面临排队时间长、生成效果不佳、免费额度有限等问题，而网上的评价又常常夹杂广告和水军。36氪AI测评希望通过搭建一套标准化的评测体系，让用户能够更直观地了解不同AI产品的实际表现，从而做出更明智的选择。",
+      "durationHint": 1213,
+      "script": "智谱创始人唐杰在7月11日发布了一封题为《巨浪已来》的内部信。信中明确，智谱不会追求短期的应用变现，而是将目标直接指向通用人工智能的下一个高地，具体包括长程任务能力、完全自治的智能体系统、自我进化以及极致安全治理。过去半年，智谱经历了创立以来的高光时刻：市值较半年前上市初期上涨了10倍，并在2026年6月跻身“万亿港元俱乐部”。这一数字已达到百度市值的近3倍，并且超过了小米。7月8日首批股票解禁后，智谱依然稳住了股价。唐杰在信中将这一阶段称为“GLM时刻”，但他同时强调，相比市值和商业化成绩，更重要的在于技术路线的持续深耕与底层能力的突破。\n乘联分会秘书长崔东树在最新分析中指出，2026年6月新能源车厂商库存小幅收缩，行业并未出现压库存现象。中国宏观经济保持较强增长，在国家促消费政策推动下，汽车市场整体走势平稳。商用车领域因设备更新补贴推动，出现了结构性增长特征，刚落地的商用车高补贴加速了物流运输领域的电动化，商用车景气度较高。不过，由于去年消费政策力度超强，今年政策有所收缩，入门级消费支持政策大幅下降，导致今年1至6月乘用车零售持续负增长，尤其是燃油乘用车出现崩塌式下滑。但出口增量在一定程度上弥补了内需的不足。\n在A股市场，多家公司于7月10日晚间发布了2026年半年度业绩预告，存储、锂电上游资源、有色等多个赛道的头部企业集体交出亮眼成绩单，部分公司上半年净利润实现10倍以上增长，行业景气度大幅提升。从行业层面来看，受人工智能相关需求增长影响，互联网数据中心等领域对企业级存储产品的需求持续增加，存储芯片行业保持高景气度，相关产品价格较上年同期稳步上涨，业内企业普遍实现高增长。锂电行业自2025年下半年以来持续修复基本面，业内企业业绩迎来复苏，其中锂电上游矿端及锂盐端受益最为明显。除锂矿外，受新能源汽车、光伏等下游需求拉动，有色金属行业整体景气度也处于高位，相关企业盈利能力显著增强。\n2025年，我国港口货物吞吐量达到183亿吨，集装箱吞吐量完成3.54亿标箱，两项数据均稳居世界第一。这是来自新华社的最新统计。与此同时，中国电力技术创新的全球领先地位也得到了国际权威报告的确认。在联合国可持续发展高级别政治论坛期间，于纽约联合国总部发布的《全球电力发展指数（2026）》研究报告显示，中国电力发展综合排名已跻身世界前列，其中电力技术创新指标更是高居全球首位。这一成果由央视新闻在报道中披露。\n在科技商业领域，一则关于腾讯与通用AI Agent公司Manus的收购传闻引发市场关注。有消息称，腾讯正在洽谈成为Manus的最大股东，由腾讯牵头的中方资本组团，计划以约20亿美元的估值，从Meta手中回购Manus的全部股权。不过，截至发稿时，腾讯方面对此消息暂无回应。另有知情人士向南方都市报记者透露，此次交易完成后，腾讯仍将保持少数股东地位，但不会实现对Manus的控股。\n期货市场方面，中国期货业协会最新统计数据显示，今年6月，全国期货交易市场成交活跃度显著提升。以单边计算，6月全国期货交易市场成交量为9.39亿手，成交额为80.62万亿元，同比分别增长27%和52.72%。从今年上半年的整体情况来看，1至6月全国期货市场累计成交量为51.05亿手，累计成交额为482.70万亿元，同比分别增长25.23%和42.08%。这一数据反映出期货市场在服务实体经济、管理风险方面的功能正在持续增强，市场参与度和资金规模均呈现稳步扩张态势。\n综合来看，无论是港口物流的硬指标，还是电力技术的软实力，中国在全球经济版图中的核心地位正不断巩固。港口吞吐量的持续领先，不仅体现了中国作为世界工厂的制造能力，更折射出全球供应链对中国港口的深度依赖。而电力技术创新位居全球首位，则意味着中国在能源转型、智能电网、特高压输电等关键领域已掌握核心技术话语权，这对于实现“双碳”目标和保障国家能源安全具有战略意义。\n在资本市场层面，腾讯对Manus的潜在投资，反映出科技巨头对通用人工智能Agent赛道的战略布局。Manus作为一家专注于通用AI Agent的公司，其技术方向被认为有望重塑人机交互和自动化服务的范式。尽管腾讯方面尚未正式回应，但市场对这一交易的关注度极高，因为它不仅涉及腾讯在AI领域的投资策略，也关系到Meta等国际科技巨头在全球AI资产配置上的调整。知情人士强调腾讯将保持少数股东地位，这或许意味着腾讯更倾向于以财务投资或生态合作的方式参与，而非直接控制。\n期货市场的强劲增长，则从另一个侧面印证了经济活动的回暖。成交额同比增幅超过五成，远超成交量的增长，说明大宗商品价格波动加剧，同时也反映出企业和投资者利用期货工具进行套期保值和风险管理的需求在上升。上半年累计成交额逼近500万亿元，这一规模在全球期货市场中名列前茅，显示出中国期货市场在价格发现和资源配置方面的作用日益突出。\n受今年第9号台风“巴威”影响，多家航空公司已发布客票处理通知。国航、东航、南航、海航、厦航、川航、天航等航司均表示，符合条件的旅客可享受一次免费变更或全额免手续费退票服务。旅客需关注各航司具体适用条件，合理安排行程。\n国际能源署署长法提赫·比罗尔近日在接受采访时指出，欧盟在电气化推进方面进展迟缓，未能有效降低对化石燃料的依赖，这被视为一大战略失误。比罗尔表示，欧盟目前的电气化率约为23%，这一水平偏低，正在拖累欧盟整体的经济竞争力。他建议欧盟应效仿电气化率超过30%的国家，加快绿色能源转型。据一份草案报道，欧盟能源委员会计划于下周公布新方案，要求各成员国下调电力税费，并加大补贴力度，以帮助家庭普及绿色能源技术。比罗尔还透露，目前已有600吉瓦的可再生能源项目建成完工，正在排队等待并网。这一数据表明，尽管项目储备充足，但并网环节的瓶颈仍是欧盟能源转型面临的现实挑战。\n国内黄金饰品价格方面，今日多家黄金珠宝品牌公布的境内足金首饰价格较昨日多数持稳，最高报价为每克1255元。市场整体保持平稳，投资者和消费者可关注后续价格波动。\n2026年暑期档票房数据今日更新。据灯塔专业版实时数据，截至7月11日，暑期档档期总票房已突破25亿元。目前排名前五的影片分别为《给阿嬷的情书》《玩具总动员5》《四渡》《火遮眼》以及《小黄人与大怪兽》。这一票房成绩反映了暑期档观影需求的持续释放，后续新片上映情况值得关注。\n7月11日，全球首个潮玩创作者AI设计平台“妙呀”正式开启全量公测。该平台由大麦娱乐与阿里Token Foundry事业部联合推出，在D20全球设计院长峰会上宣布上线。与此同时，“妙呀百万激励计划”也同步启动，旨在鼓励创作者利用人工智能技术进行潮玩设计。\n今天是中国第22个航海日，主题为“数智赋能，领航未来”。活动组委会在北京首次以线上线下结合的方式举办主场活动。同日发布的《2026年中国航海日公告》显示，我国已成为名副其实的航运大国、造船大国和海洋大国。国际海运量占全球比重接近三分之一，海运航线与服务网络覆盖全球主要贸易国家和地区。在全球货物吞吐量和集装箱吞吐量排名前十的港口中，我国分别占据8席和6席。造船三大指标的国际市场份额已连续16年保持全球领先。全国海洋生产总值超过11万亿元人民币。\n在金融领域，稳定币发行商Circle公司宣布，美国货币监理署已批准其设立信托银行。这家新银行将命名为Circle国民信托银行。获批后，Circle可直接为旗下受监管的稳定币管理储备资产。其核心产品USDC的流通规模已超过730亿美元。此前，Circle必须依靠第三方银行和托管机构来存放支撑USDC发行的现金与美债资产。不过，这份牌照并不允许Circle开展吸收存款或发放贷款的商业银行业务。\n欧洲央行管委、法国央行行长Emmanuel Moulin近日表示，人工智能对通胀的影响难以预测，并可能导致价格波动加剧。他指出，由于人工智能同时作用于供需两方面的变量，其对通胀的总体影响尤为难以预测。这种影响不仅体现在通胀水平上，还可能体现在通胀的波动性上。Moulin分析认为，短期内，由于资本支出增加，人工智能可能具有通胀效应；但随着生产率提升，后续则可能抑制通胀。\n世界知识产权组织在瑞士日内瓦举行的第68届成员国大会期间，揭晓了2026年全球奖的评选结果。来自中国的三家企业最终获奖，获奖数量位居全球首位。这三家企业分别来自环境和健康两大领域，这一消息是由国家知识产权局在7月10日对外公布的。WIPO全球奖是世界知识产权组织设立的奖项，旨在表彰那些通过知识产权实现商业价值、并积极推动可持续发展的中小企业。中国企业在今年的评选中表现突出，显示出国内创新主体在知识产权运用和国际化发展方面的持续进步。\n在科技领域，OpenAI公司近日就一起涉及苹果硬件商业秘密的诉讼作出回应。OpenAI明确表示，对其他公司的商业秘密不感兴趣，公司仍将专注于打造创新技术。这起诉讼由苹果公司提起，指控OpenAI在合作过程中获取了其硬件相关的商业机密。OpenAI的回应被外界解读为试图淡化争议，并重申其技术研发的独立性。目前，该案件仍在法律程序中，双方尚未公布更多细节。\n受今年第3号台风“巴威”影响，中国东南沿海多个机场的航班运营出现大面积中断。根据飞常准平台在7月11日上午11时发布的台风路径与机场影响预报图，预计从7月11日到13日，全国将有56座机场受到台风影响。截至11日当天，温州龙湾机场、福州长乐机场、台州路桥机场以及丽水机场的进出港航班已全部取消。台北桃园机场的航班取消率高达99%，宁波栎社机场的取消率也达到了60%。此外，截至11日上午8点30分，杭州萧山机场各航空公司已计划取消当天进出港航班共计198架次。上海浦东和虹桥两座机场的取消航班数量则接近400架次。此次台风强度大、移动路径复杂，对华东地区的空中交通造成了显著冲击，航空公司已启动应急预案，提醒旅客及时调整行程。\n在并购市场方面，AI内容和互动影视公司垚城智能，也就是FansAI，在7月11日宣布全资收购AI音乐应用新映科技。新映科技是一家专注于OPC领域的公司，OPC通常指代开放平台或原创内容相关的技术方向。此次收购被业界视为OPC领域一次少见的探索性并购案例。FansAI通过此次收购，有望进一步整合AI音乐生成技术与互动影视内容，拓展其在人工智能内容生态中的布局。这笔交易的具体金额尚未对外披露，但双方均表示将加速技术融合与产品落地。\n法国电信业大亨格扎维埃·尼埃尔正通过其掌控的投资机构Vega，以约44亿英镑、折合59.1亿美元的总价，收购阿联酋电信公司所持有的沃达丰约16%的股份。这笔交易一旦完成，尼埃尔将成为英国最大移动通信运营商沃达丰的最大股东。现年58岁的尼埃尔是法国电信企业伊利亚德集团的创始人和持有者，长期深耕欧洲电信投资领域。据路透社援引知情人士消息，尼埃尔注意到沃达丰股价出现下跌趋势后，主动与阿联酋电信公司接洽，并在短短数天内迅速达成了股份转手协议。\n与此同时，被称为“国产存储第一股”的长鑫科技，其IPO已进入发行倒计时。最新披露的招股意向书显示，长鑫科技预计于7月16日正式发行，承销团阵容也随之浮出水面。本次IPO中，中金公司和中信建投将担任联席保荐机构。这一进展标志着国内存储芯片领域在资本市场迈出了关键一步。\n在人工智能领域，OpenAI推出了ChatGPT智能体，进一步拓展了其对话模型的应用边界。而韩国芯片巨头SK海力士在登陆美股首日表现强劲，股价大涨近13%。这家市值已突破万亿美元的半导体企业，此次纳斯达克上市有望跻身史上规模最大的IPO行列。据知情人士透露，参与承销的高盛、花旗等华尔街投行，合计佣金池规模可能超过1.4亿美元，其中包括募资总额0.5%的基础承销费，以及SK海力士另行支付的浮动激励奖金。\n在具身智能领域，一家专注于仿生扑翼飞行机器人的初创公司“鹰瞰智翼”完成了数千万元人民币的A轮融资。值得注意的是，这是该公司在三个月内完成的第三轮融资，由元禾璞华领投，孚腾资本和厚雪资本跟投。资金将主要用于首款消费级产品的量产备货、市场拓展，以及下一代具身智能扑翼机器人与流体仿真引擎的研发。鹰瞰智翼成立于2025年3月，总部位于深圳，是全球较早专注于具身智能扑翼机器人的公司之一，其创始人为上海交通大学机械工程专业的直博生。\n在汽车行业，德国大众汽车集团正面临大规模裁员计划，最高可能裁减12万个岗位。这一消息引发了市场对欧洲汽车制造业前景的广泛关注。与此同时，三星电子副会长李在镕计划于7月底赴美，与英伟达首席执行官黄仁勋会晤，双方可能就芯片合作等议题展开讨论。\n在资本市场方面，百亿私募机构数量已达到142家，再次刷新历史纪录。高盛则发布报告称，套利交易当前所处的环境为2000年以来最佳。此外，谷歌已要求所有在搜索和YouTube等平台上投放的AI广告必须进行明确标注，以提升透明度。\n在OpenAI内部，高管层再次出现变动，首席运营官因健康原因离职。这一人事调整发生在公司持续扩展产品线和商业化进程的关键时期。\n徕芬科技位于珠海斗门的超级工厂，近日首次较大规模地向外界开放参观。这座总投资超过5亿元、占地超过20万平方米的制造基地，自去年8月投产以来，主要承接电动牙刷、剃须刀以及部分新品的生产。工厂内部配套了电机车间、精密成型车间、喷涂车间、组装车间，以及约3000平方米的可靠性实验室。对于一家成立仅7年的公司而言，自建工厂意味着重资产投入和较长的回报周期，在消费电子行业并非主流路径。徕芬选择将产线向珠海集中，显示出其在个护电器领域进一步深耕、以自有产能拉动新增长的战略意图。\n在生物科技领域，前传奇生物创始人、首席科学家范晓虎创办的深圳湾岛细胞，近日完成了1.4亿元人民币的A轮融资，本轮由松禾资本领投，东方富海跟投。范晓虎在中国细胞与基因治疗领域具有重要影响力，他的新公司致力于将原本价格高昂的“抗癌针”推向平价。过去一年，AI赛道吸引了大量资本，而创新药板块则在更严苛的估值环境中经历调整。但市场对好药新药的需求依然存在，创业者们正在科学、临床和商业化的多重关卡中寻找突破。这笔融资的落地，也显示出资本对细胞治疗领域降本增效路径的关注。\n在人工智能应用层面，36氪近期上线了AI测评小程序，旨在为用户提供标准化的产品体验与深度测评。面对市面上层出不穷的AI产品，用户常常面临注册繁琐、排队等待、免费额度有限以及信息真假难辨等问题。该平台希望通过搭建一套客观的测评体系，帮助用户筛选出真正值得使用的AI工具，减少试错成本。\n而在更前沿的触觉感知技术领域，北京他山科技完成了数亿元B轮融资。投资方包括均胜电子、太平创新、奥克斯、鹏翎股份、Lavender Hill Capital Partners以及洪山资本等产业资本，老股东道氏技术和彬复资本也进行了追加投资。他山科技成立于2017年，专注于人工智能触觉传感器及芯片的研发，是英伟达在全球的首家触觉仿真合作伙伴。公司透露，今年上半年的订单量已经超过去年全年的四倍。资金将主要用于触觉传感器及芯片的迭代、场景化解决方案的落地，以及触觉训练平台的建设。触觉感知被视为机器人智能化的关键一环，随着人形机器人等产业的升温，这一赛道正在吸引越来越多的产业资本和战略投资者入局。",
       "generationMode": "deepseek",
-      "updatedAt": "2026-07-11T17:07:55.234Z"
+      "updatedAt": "2026-07-11T21:02:12.520Z"
     },
     {
       "id": "section-0f0789ec",
@@ -6198,7 +6197,7 @@
       "durationHint": 1134,
       "script": "截至7月11日 00:02，最新消息显示：\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，Meta相关动态集中在人工智能。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在人工智能、AI芯片和算力。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。其中提到的关键数字包括US$26.5 billion。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。其中提到的关键数字包括 14%。\n财经消息。消息显示，相关动态集中在人工智能、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，英伟达相关动态集中在资本市场。资本投入和估值成为关注点。其中提到的关键数字包括$1.4 billion。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在企业落地。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。\n财经消息。消息显示，微软相关动态集中在云和数据中心。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点，监管和法律风险受到关注。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，Meta相关动态集中在人工智能。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在人工智能、AI芯片和算力。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。其中提到的关键数字包括US$26.5 billion。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。其中提到的关键数字包括 14%。\n财经消息。消息显示，相关动态集中在人工智能、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，Meta相关动态集中在人工智能。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在人工智能、AI芯片和算力。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。其中提到的关键数字包括US$26.5 billion。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。其中提到的关键数字包括 14%。\n财经消息。消息显示，相关动态集中在人工智能、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，Meta相关动态集中在人工智能。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在人工智能、AI芯片和算力。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。其中提到的关键数字包括US$26.5 billion。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。其中提到的关键数字包括 14%。\n财经消息。消息显示，相关动态集中在人工智能、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，Meta相关动态集中在人工智能。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在人工智能、AI芯片和算力。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。其中提到的关键数字包括US$26.5 billion。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。其中提到的关键数字包括 14%。\n财经消息。消息显示，相关动态集中在人工智能、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，Meta相关动态集中在人工智能。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在人工智能、AI芯片和算力。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。其中提到的关键数字包括US$26.5 billion。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。其中提到的关键数字包括 14%。\n财经消息。消息显示，相关动态集中在人工智能、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，Meta相关动态集中在人工智能。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在人工智能、AI芯片和算力。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。其中提到的关键数字包括US$26.5 billion。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。其中提到的关键数字包括 14%。\n财经消息。消息显示，相关动态集中在人工智能、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，Meta相关动态集中在人工智能。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在人工智能、AI芯片和算力。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。其中提到的关键数字包括US$26.5 billion。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。其中提到的关键数字包括 14%。\n财经消息。消息显示，相关动态集中在人工智能、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，Meta相关动态集中在人工智能。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在人工智能、AI芯片和算力。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。其中提到的关键数字包括US$26.5 billion。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。其中提到的关键数字包括 14%。\n财经消息。消息显示，相关动态集中在人工智能、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，Meta相关动态集中在人工智能。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在人工智能、AI芯片和算力。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。其中提到的关键数字包括US$26.5 billion。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。其中提到的关键数字包括 14%。\n财经消息。消息显示，相关动态集中在人工智能、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，Meta相关动态集中在人工智能。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在人工智能、AI芯片和算力。有新的产品或能力发布。\n财经消息。消息显示，相关动态集中在AI芯片和算力、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。其中提到的关键数字包括US$26.5 billion。\n财经消息。消息显示，OpenAI相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。其中提到的关键数字包括 14%。\n财经消息。消息显示，相关动态集中在人工智能、资本市场。资本投入和估值成为关注点，市场预期和需求变化正在发酵。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。",
       "generationMode": "local",
-      "updatedAt": "2026-07-11T17:08:33.941Z"
+      "updatedAt": "2026-07-11T21:03:05.116Z"
     }
   ]
 }
