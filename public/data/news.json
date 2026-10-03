@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T19:07:31.463Z",
+  "updatedAt": "2026-10-03T22:47:38.945Z",
   "statusText": "12/12 个来源更新成功",
   "sourceStatus": [
     {
@@ -34,7 +34,7 @@
       "name": "CNA Asia",
       "category": "亚太",
       "ok": true,
-      "count": 16,
+      "count": 15,
       "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511"
     },
     {
@@ -92,6 +92,102 @@
   "generationMode": "local",
   "items": [
     {
+      "id": "036eabeeea2ea2a9",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "description": "暂无摘要。",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "image": "",
+      "source": "Planet AI",
+      "category": "大模型",
+      "publishedAt": "2026-10-03T22:46:38.000Z",
+      "displayTitle": "大模型消息",
+      "displayDescription": "消息显示，相关动态集中在智能体。释放出新的行业信号。"
+    },
+    {
+      "id": "99232a5d8b73f12e",
+      "title": "September sponsors-only newsletter",
+      "description": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs",
+      "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
+      "image": "",
+      "source": "Planet AI",
+      "category": "大模型",
+      "publishedAt": "2026-10-03T22:00:31.000Z",
+      "displayTitle": "大模型消息",
+      "displayDescription": "消息显示，相关动态集中在大模型。释放出新的行业信号。"
+    },
+    {
+      "id": "20b7084318633e07",
+      "title": "Commentary: AI can be more comforting than a person. Here's what humans can learn from it",
+      "description": "Used carefully, generative artificial intelligence&nbsp;could help us become better at supporting one another, say psychology researchers.",
+      "link": "https://www.channelnewsasia.com/commentary/ai-chatbot-friend-help-problems-comfort-6391616",
+      "image": "https://dam.mediacorp.sg/image/upload/s--4WRgDWTJ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2024/08/10/christian_castillo_chatting_with_andre_his_friend_.png?itok=eCQze7vd",
+      "source": "CNA World",
+      "category": "国际要闻",
+      "publishedAt": "2026-10-03T22:00:00.000Z",
+      "displayTitle": "国际要闻消息",
+      "displayDescription": "消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。"
+    },
+    {
+      "id": "787f87cbaa210259",
+      "title": "From ‘red ocean’ to ‘blue ocean’: Why Singaporean firms are exploring Nanning to enter China’s market",
+      "description": "Recent pyramid scheme arrests involving Singaporeans have put Nanning in the spotlight, but businesses told CNA they remain undeterred from entering the Chinese market - and that making inroads can take months or even years.",
+      "link": "https://www.channelnewsasia.com/east-asia/nanning-business-caexpo-singapore-china-6407501",
+      "image": "https://dam.mediacorp.sg/image/upload/s--FyJVtAKy--/c_crop,h_1125,w_2000,x_0,y_183/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/09/23/lan_nanning_china_caexpo_2.jpg?itok=sFMvLugT",
+      "source": "CNA Asia",
+      "category": "亚太",
+      "publishedAt": "2026-10-03T22:00:00.000Z",
+      "displayTitle": "亚太消息",
+      "displayDescription": "消息显示，相关动态集中在企业落地。释放出新的行业信号。"
+    },
+    {
+      "id": "836177d8c56230dd",
+      "title": "Houthis say Saudi Arabia launches dozens of strikes on Yemen capital",
+      "description": "Strikes hit both capitals as the Houthis report 26 Saudi raids on Sanaa and a fire breaks out at an Aramco facility near Riyadh.",
+      "link": "https://www.channelnewsasia.com/world/houthis-say-saudi-arabia-launches-dozens-strikes-yemen-capital-6429646",
+      "image": "https://dam.mediacorp.sg/image/upload/s--HUL8GY87--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-02T160944Z_2_LYNXMPEM911DW_RTROPTP_3_IRAN-CRISIS-SAUDI-YEMEN-TAIZ.JPG?itok=OTymLvbh",
+      "source": "CNA World",
+      "category": "国际要闻",
+      "publishedAt": "2026-10-03T21:55:12.000Z",
+      "displayTitle": "国际要闻消息",
+      "displayDescription": "消息显示，相关动态集中在开发者工具。有新的产品或能力发布。"
+    },
+    {
+      "id": "efc865bddddc7061",
+      "title": "UAE beat Oman to reach Gulf Cup final against Saudi",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/sport/uae-beat-oman-reach-gulf-cup-final-against-saudi-6430206",
+      "image": "",
+      "source": "CNA Sport",
+      "category": "体育",
+      "publishedAt": "2026-10-03T21:46:07.000Z",
+      "displayTitle": "体育消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+    },
+    {
+      "id": "da536b4445632394",
+      "title": "b11381",
+      "description": "mtmd : fix deprecated strdup warning on Windows ( #29863 ) Signed-off-by: Adrien Gallouët angt@huggingface.co Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/52479259 macOS/iOS: macOS Apple Silico",
+      "link": "https://github.com/ggml-org/llama.cpp/releases/tag/b11381",
+      "image": "",
+      "source": "Planet AI",
+      "category": "大模型",
+      "publishedAt": "2026-10-03T21:35:50.000Z",
+      "displayTitle": "大模型消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。"
+    },
+    {
+      "id": "c54e65d59f4e4c86",
+      "title": "b11380",
+      "description": "vendor : update cpp-httplib to 0.59.0 ( #29886 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/52476117 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISAB",
+      "link": "https://github.com/ggml-org/llama.cpp/releases/tag/b11380",
+      "image": "",
+      "source": "Planet AI",
+      "category": "大模型",
+      "publishedAt": "2026-10-03T21:09:19.000Z",
+      "displayTitle": "大模型消息",
+      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。"
+    },
+    {
       "id": "ea28c5de0123ade6",
       "title": "Fernandes rejects talk of Portugal rift after Ronaldo's abrupt departure",
       "description": "暂无摘要。",
@@ -102,6 +198,18 @@
       "publishedAt": "2026-10-03T19:00:45.000Z",
       "displayTitle": "体育消息",
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+    },
+    {
+      "id": "02fc9c2dc0e9c302",
+      "title": "OpenAI safety employee quits, says 'time for trial and error is over'",
+      "description": "暂无摘要。",
+      "link": "https://www.channelnewsasia.com/business/openai-safety-employee-quits-says-time-trial-and-error-over-6430136",
+      "image": "https://dam.mediacorp.sg/image/upload/s--2Z6nuajX--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T190019Z_1_LYNXMPEM920K4_RTROPTP_3_GLOBAL-ECONOMY-AI.JPG?itok=5-C4pKIi",
+      "source": "CNA Business",
+      "category": "财经",
+      "publishedAt": "2026-10-03T19:00:19.000Z",
+      "displayTitle": "财经消息",
+      "displayDescription": "消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。"
     },
     {
       "id": "8ab8624893c4d48a",
@@ -116,10 +224,10 @@
       "displayDescription": "消息显示，相关动态集中在云和数据中心。释放出新的行业信号。"
     },
     {
-      "id": "793dff854d84d801",
-      "title": "Doubles from Kane and Saka power England to 7-0 rout of Croatia",
+      "id": "e066f9b1aec0fada",
+      "title": "England crush Croatia 7-0 as Spain stay perfect with Czech victory",
       "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/doubles-kane-and-saka-power-england-7-0-rout-croatia-6429971",
+      "link": "https://www.channelnewsasia.com/sport/england-crush-croatia-7-0-spain-stay-perfect-czech-victory-6429971",
       "image": "",
       "source": "CNA Sport",
       "category": "体育",
@@ -596,42 +704,6 @@
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
-      "id": "8ce14044e81078c7",
-      "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
-      "description": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "link": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
-      "image": "",
-      "source": "Planet AI",
-      "category": "大模型",
-      "publishedAt": "2026-10-03T07:32:03.000Z",
-      "displayTitle": "大模型消息",
-      "displayDescription": "消息显示，OpenAI、Anthropic相关动态集中在行业变化。有新的产品或能力发布。"
-    },
-    {
-      "id": "8e5f88993187e8fc",
-      "title": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
-      "description": "TL;DR: Meta’s Muse, OpenAI’s Dots and Uber’s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer to when to interrupt, on which channel, and with what offer. Classic ML and new decision mo",
-      "link": "https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/",
-      "image": "",
-      "source": "Planet AI",
-      "category": "大模型",
-      "publishedAt": "2026-10-03T07:05:11.000Z",
-      "displayTitle": "大模型消息",
-      "displayDescription": "消息显示，OpenAI、Meta相关动态集中在人工智能、智能体。释放出新的行业信号。"
-    },
-    {
-      "id": "7c024b2172268c46",
-      "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
-      "description": "IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own mode",
-      "link": "https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/",
-      "image": "",
-      "source": "Planet AI",
-      "category": "大模型",
-      "publishedAt": "2026-10-03T06:55:15.000Z",
-      "displayTitle": "大模型消息",
-      "displayDescription": "消息显示，相关动态集中在智能体、云和数据中心、开发者工具、企业落地。释放出新的行业信号。"
-    },
-    {
       "id": "6353011a751ffcd1",
       "title": "Marquez wins Japanese GP sprint to close in on Martin",
       "description": "暂无摘要。",
@@ -641,18 +713,6 @@
       "category": "体育",
       "publishedAt": "2026-10-03T06:38:35.000Z",
       "displayTitle": "体育消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
-      "id": "d832c09b8727abba",
-      "title": "b11370",
-      "description": "CUDA: fuse shared experts into MMVQ ( #29184 ) CUDA: fuse shared experts into MMVQ check if buffer is null move stride_col_dst to fusion args Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/523716",
-      "link": "https://github.com/ggml-org/llama.cpp/releases/tag/b11370",
-      "image": "",
-      "source": "Planet AI",
-      "category": "大模型",
-      "publishedAt": "2026-10-03T06:27:05.000Z",
-      "displayTitle": "大模型消息",
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
@@ -798,18 +858,6 @@
       "publishedAt": "2026-10-03T01:50:00.000Z",
       "displayTitle": "财经消息",
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
-      "id": "0a82846f326cf350",
-      "title": "Dominican Republic bans Haiti from its stadiums after Nations League clash",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/sport/dominican-republic-bans-haiti-its-stadiums-after-nations-league-clash-6428551",
-      "image": "",
-      "source": "CNA Sport",
-      "category": "体育",
-      "publishedAt": "2026-10-03T01:24:53.000Z",
-      "displayTitle": "体育消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。监管和法律风险受到关注。"
     },
     {
       "id": "5d4db180818019da",
@@ -1028,27 +1076,15 @@
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
-      "id": "f8e280e528cbcd48",
-      "title": "Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/world/russia-tearing-kyiv-apart-mayor-says-strikes-paralyse-traffic-6426761",
-      "image": "https://dam.mediacorp.sg/image/upload/s--IBBCWaTV--/c_crop,h_562,w_1000,x_0,y_51/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Russia_Ukraine_War_54_51.jpg?itok=Cf_bOF2P",
-      "source": "CNA World",
-      "category": "国际要闻",
-      "publishedAt": "2026-10-02T14:49:00.000Z",
-      "displayTitle": "国际要闻消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
-      "id": "eefc4ebb927deaf3",
+      "id": "0d357f2312908075",
       "title": "US job growth slows sharply in September; unemployment rate rises to 4.2%",
       "description": "暂无摘要。",
       "link": "https://www.channelnewsasia.com/world/us-job-growth-slows-sharply-in-september-unemployment-rate-rises-42-6426996",
       "image": "https://dam.mediacorp.sg/image/upload/s--NucEhehN--/c_crop,h_561,w_999,x_1,y_53/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/US_Economy_Jobs_Report_47938.jpg?itok=dKeHefUT",
-      "source": "CNA World",
-      "category": "国际要闻",
+      "source": "CNA Business",
+      "category": "财经",
       "publishedAt": "2026-10-02T14:17:50.000Z",
-      "displayTitle": "国际要闻消息",
+      "displayTitle": "财经消息",
       "displayDescription": "消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。"
     },
     {
@@ -1112,15 +1148,15 @@
       "displayDescription": "消息显示，相关动态集中在人工智能。释放出新的行业信号。"
     },
     {
-      "id": "f96671c7b103ea85",
+      "id": "4793a99e339c42c3",
       "title": "Thai Airways chief says he was fired by board after Bangkok flood chaos",
       "description": "The airline was forced to cancel dozens of flights this week when floods hit the Thai capital.",
       "link": "https://www.channelnewsasia.com/asia/thai-airways-ceo-fired-bangkok-floods-6426691",
       "image": "https://dam.mediacorp.sg/image/upload/s--x0WuFbAH--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-29T052309Z_2_LYNXMPEM8S0BE_RTROPTP_3_ASIA-WEATHER-THAILAND-FLOODS.JPG?itok=qWjCpnKR",
-      "source": "CNA Asia",
-      "category": "亚太",
+      "source": "CNA Business",
+      "category": "财经",
       "publishedAt": "2026-10-02T10:12:00.000Z",
-      "displayTitle": "亚太消息",
+      "displayTitle": "财经消息",
       "displayDescription": "消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。"
     },
     {
@@ -1241,18 +1277,6 @@
       "category": "亚太",
       "publishedAt": "2026-10-02T09:00:00.000Z",
       "displayTitle": "亚太消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
-      "id": "9df9d90ca0db76fa",
-      "title": "Stocks rise after weak US jobs data but bonds resume selling",
-      "description": "暂无摘要。",
-      "link": "https://www.channelnewsasia.com/business/stocks-rise-after-weak-us-jobs-data-bonds-resume-selling-6425861",
-      "image": "https://dam.mediacorp.sg/image/upload/s--OLg8FK4o--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-02T164749Z_1_LYNXMPEM911G3_RTROPTP_3_USA-STOCKS.JPG?itok=ViFLyXa4",
-      "source": "CNA Business",
-      "category": "财经",
-      "publishedAt": "2026-10-02T08:57:54.000Z",
-      "displayTitle": "财经消息",
       "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
     },
     {
@@ -1386,30 +1410,6 @@
       "publishedAt": "2026-10-01T23:44:13.000Z",
       "displayTitle": "大模型消息",
       "displayDescription": "消息显示，OpenAI、英伟达相关动态集中在大模型、AI芯片和算力、开发者工具。释放出新的行业信号。"
-    },
-    {
-      "id": "34706139bdfff1a3",
-      "title": "Commentary: China opens door to 100,000 American students. The US must do more to get them there",
-      "description": "If Americans head to China for educational exchanges, their experience and expertise could benefit more than the US, says Kevin Chen from the S Rajaratnam School of International Studies.",
-      "link": "https://www.channelnewsasia.com/commentary/trump-xi-summit-us-china-study-asia-benefits-6424301",
-      "image": "https://dam.mediacorp.sg/image/upload/s--LylAlqHl--/c_crop,h_561,w_999,x_1,y_1/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/APTOPIX_Trump_Xi__68_1.jpg?itok=zfD5YHng",
-      "source": "CNA Asia",
-      "category": "亚太",
-      "publishedAt": "2026-10-01T22:00:00.000Z",
-      "displayTitle": "亚太消息",
-      "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-    },
-    {
-      "id": "702c47c632c2a131",
-      "title": "Commentary: What happens when Chinese AI goes rogue?",
-      "description": "Using China as the boogeyman is no longer a convincing excuse for inaction on AI regulations by US lawmakers, says Catherine Thorbecke for Bloomberg Opinion.",
-      "link": "https://www.channelnewsasia.com/commentary/china-ai-rogue-us-safety-regulation-6424166",
-      "image": "https://dam.mediacorp.sg/image/upload/s--XzSjaYVL--/c_crop,h_562,w_1000,x_0,y_42/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/China_Anthropic_AI_3193_.jpg?itok=wA9GiQ4o",
-      "source": "CNA Asia",
-      "category": "亚太",
-      "publishedAt": "2026-10-01T21:58:00.000Z",
-      "displayTitle": "亚太消息",
-      "displayDescription": "消息显示，相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。"
     },
     {
       "id": "b3527bce98729156",
@@ -2012,18 +2012,6 @@
       "displayDescription": "消息显示，相关动态集中在智能体。释放出新的行业信号。"
     },
     {
-      "id": "76ece40e987eb33b",
-      "title": "Two years of OpenAI Academy",
-      "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "link": "https://openai.com/index/two-years-of-openai-academy",
-      "image": "",
-      "source": "OpenAI News",
-      "category": "大模型",
-      "publishedAt": "2026-09-23T16:00:00.000Z",
-      "displayTitle": "大模型消息",
-      "displayDescription": "消息显示，OpenAI相关动态集中在人工智能。释放出新的行业信号。"
-    },
-    {
       "id": "f8ed3a3ada645c66",
       "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
       "description": "An AI coding agent’s patch can pass tests yet fail when the server loads a real model and handles requests. Evaluating changes to inference-serving software...",
@@ -2034,6 +2022,18 @@
       "publishedAt": "2026-09-23T16:00:00.000Z",
       "displayTitle": "大模型消息",
       "displayDescription": "消息显示，相关动态集中在人工智能、大模型、智能体、开发者工具。释放出新的行业信号。"
+    },
+    {
+      "id": "76ece40e987eb33b",
+      "title": "Two years of OpenAI Academy",
+      "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "image": "",
+      "source": "OpenAI News",
+      "category": "大模型",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "displayTitle": "大模型消息",
+      "displayDescription": "消息显示，OpenAI相关动态集中在人工智能。释放出新的行业信号。"
     },
     {
       "id": "8e4bcffc6e7e4ec4",
@@ -2625,249 +2625,55 @@
     }
   ],
   "sections": {
-    "体育": [
-      {
-        "id": "ea28c5de0123ade6",
-        "title": "Fernandes rejects talk of Portugal rift after Ronaldo's abrupt departure",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/fernandes-rejects-talk-portugal-rift-after-ronaldos-abrupt-departure-6430141",
-        "image": "https://dam.mediacorp.sg/image/upload/s--HKDVaua0--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T190045Z_1_LYNXMPEM920K7_RTROPTP_3_SOCCER-WORLDCUP-POR-CRO.JPG?itok=PnlfQg71",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T19:00:45.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "793dff854d84d801",
-        "title": "Doubles from Kane and Saka power England to 7-0 rout of Croatia",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/doubles-kane-and-saka-power-england-7-0-rout-croatia-6429971",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T18:06:46.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "536fa0ea733c7fe8",
-        "title": "Qatar and Abu Dhabi F1 Grand Prix to go ahead: F1 boss",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/qatar-and-abu-dhabi-f1-grand-prix-go-ahead-f1-boss-6429611",
-        "image": "https://dam.mediacorp.sg/image/upload/s--DBpHwBGj--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T111938Z_1_LYNXMPEM92094_RTROPTP_3_MOTOR-F1-BAHRAIN.JPG?itok=Fk-90vF3",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T17:02:00.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "b963ebb66ac29d1f",
-        "title": "Brazil tame India in 4-0 friendly win",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/brazil-tame-india-in-4-0-friendly-win-6429591",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T16:18:55.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "84709047c889efed",
-        "title": "Netherlands coach Xavi joins critics of new-look international window",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/netherlands-coach-xavi-joins-critics-new-look-international-window-6429556",
-        "image": "https://dam.mediacorp.sg/image/upload/s--SGo2y6zu--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T154246Z_1_LYNXMPEM920EC_RTROPTP_3_SOCCER-UEFANATIONS-SRB-NLD.JPG?itok=1QG9KsFX",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T15:42:46.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "79cbd0c7f96f216a",
-        "title": "Singapore’s sailors conclude Asian Games campaign with three silvers, one bronze",
-        "description": "This marks the first Games in 24 years where the sailors have gone without a gold.&nbsp;",
-        "link": "https://www.channelnewsasia.com/sport/singapore-sailing-asian-games-silver-bronze-6429336",
-        "image": "https://dam.mediacorp.sg/image/upload/s--Fu46GEPw--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/10/03/ianjohn.jpeg?itok=_20Cvqh2",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T13:50:00.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "b82fed0a09356855",
-        "title": "Ireland coach Hallgrimsson hopes squad bonds will be stronger after tough period",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/ireland-coach-hallgrimsson-hopes-squad-bonds-will-be-stronger-after-tough-period-6429176",
-        "image": "https://dam.mediacorp.sg/image/upload/s--0_c5AT3V--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T113506Z_1_LYNXMPEM9209P_RTROPTP_3_SOCCER-UEFANATIONS-IRL-AUT.JPG?itok=tpN9NyuQ",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T11:35:06.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "42798043cfc45185",
-        "title": "Norris blames Sepang tarmac as McLaren struggle in Bahrain GP qualifying",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/norris-blames-sepang-tarmac-mclaren-struggle-in-bahrain-gp-qualifying-6429171",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T11:19:38.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "e8530fe390639965",
-        "title": "Upgrades backfire as Wolff admits Mercedes going backwards",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/upgrades-backfire-wolff-admits-mercedes-going-backwards-6429061",
-        "image": "https://dam.mediacorp.sg/image/upload/s--XKRV5dlm--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T102454Z_1_LYNXMPEM92070_RTROPTP_3_MOTOR-F1-BAHRAIN.JPG?itok=EveWpToS",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T10:24:54.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "49468fc58f21c5f8",
-        "title": "Brisbane 2032 logos accidentally revealed by official YouTube channel",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/brisbane-2032-logos-accidentally-revealed-official-youtube-channel-6429031",
-        "image": "https://dam.mediacorp.sg/image/upload/s--XagESbv5--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T114303Z_1_LYNXMPEM9209S_RTROPTP_3_OLYMPICS-IOC.JPG?itok=c_QbZ1OS",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T10:00:12.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。监管和法律风险受到关注。"
-      },
-      {
-        "id": "e299a738dbc6e98b",
-        "title": "South Africa hamstring 'epidemic' strikes again as De Zorzi ruled out of test",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/south-africa-hamstring-epidemic-strikes-again-de-zorzi-ruled-out-test-6429016",
-        "image": "https://dam.mediacorp.sg/image/upload/s--NqNJ0Ey---/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T110837Z_1_LYNXMPEM9207W_RTROPTP_3_CRICKET-TEST-ZAF-AUS.JPG?itok=lBkeeEFa",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T09:51:17.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "2fcf74742ce8f1cd",
-        "title": "Verstappen claims first pole of season at Bahrain GP in Malaysia",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/verstappen-claims-first-pole-season-bahrain-gp-in-malaysia-6429001",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T09:12:32.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "0978ef40c5e62fce",
-        "title": "Games-Abhishek and Varma shine as India beat Pakistan to complete cricket double",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/games-abhishek-and-varma-shine-india-beat-pakistan-complete-cricket-double-6428951",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T08:28:01.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "14fb49ce4e3b50bd",
-        "title": "Transport operators to improve services after F1 fans left stranded in Sepang",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/transport-operators-improve-services-after-f1-fans-left-stranded-in-sepang-6428941",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T08:11:00.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "eefc97b78d1dda6e",
-        "title": "Belgium's De Bruyne, Tielemans to miss France match due to suspension",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/belgiums-de-bruyne-tielemans-miss-france-match-due-suspension-6428916",
-        "image": "https://dam.mediacorp.sg/image/upload/s--hAd_nbJQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T074028Z_1_LYNXMPEM9204T_RTROPTP_3_SOCCER-UEFANATIONS-BEL-TUR.JPG?itok=mukJDFat",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T07:40:28.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "6353011a751ffcd1",
-        "title": "Marquez wins Japanese GP sprint to close in on Martin",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/marquez-wins-japanese-gp-sprint-close-in-martin-6428866",
-        "image": "https://dam.mediacorp.sg/image/upload/s--4iHC8YpZ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T063835Z_1_LYNXMPEM9203V_RTROPTP_3_MOTOR-MOTOGP-AUSTRIA.JPG?itok=rjs-iwNc",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T06:38:35.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "ce98fbd3a0b71f46",
-        "title": "Antonelli finds his rhythm to top final Sepang practice",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/antonelli-finds-his-rhythm-top-final-sepang-practice-6428846",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T06:09:36.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "939c51790ebcaaac",
-        "title": "Singapore’s Shannon Tan takes historic Asian Games golf bronze",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/singapores-shannon-tan-takes-historic-asian-games-golf-bronze-6428726",
-        "image": "https://dam.mediacorp.sg/image/upload/s--rmNJzf_c--/c_crop,h_1125,w_2000,x_0,y_238/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/10/03/wal_3296.jpg?itok=3hHjQkMr",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T04:47:00.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "3108c5f0d85f76d0",
-        "title": "Aprilia's Martin sets lap record at Japanese MotoGP to snatch pole from Marquez",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/aprilias-martin-sets-lap-record-japanese-motogp-snatch-pole-marquez-6428671",
-        "image": "https://dam.mediacorp.sg/image/upload/s--vvUE-MV_--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T032008Z_1_LYNXMPEM9201Y_RTROPTP_3_MOTOR-MOTOGP-AUSTRIA.JPG?itok=nAgMZ93o",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T03:20:08.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "0a82846f326cf350",
-        "title": "Dominican Republic bans Haiti from its stadiums after Nations League clash",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/sport/dominican-republic-bans-haiti-its-stadiums-after-nations-league-clash-6428551",
-        "image": "",
-        "source": "CNA Sport",
-        "category": "体育",
-        "publishedAt": "2026-10-03T01:24:53.000Z",
-        "displayTitle": "体育消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。监管和法律风险受到关注。"
-      }
-    ],
     "大模型": [
+      {
+        "id": "036eabeeea2ea2a9",
+        "title": "The Agent Said It Was Done. The Database Disagreed.",
+        "description": "暂无摘要。",
+        "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "image": "",
+        "source": "Planet AI",
+        "category": "大模型",
+        "publishedAt": "2026-10-03T22:46:38.000Z",
+        "displayTitle": "大模型消息",
+        "displayDescription": "消息显示，相关动态集中在智能体。释放出新的行业信号。"
+      },
+      {
+        "id": "99232a5d8b73f12e",
+        "title": "September sponsors-only newsletter",
+        "description": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs",
+        "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
+        "image": "",
+        "source": "Planet AI",
+        "category": "大模型",
+        "publishedAt": "2026-10-03T22:00:31.000Z",
+        "displayTitle": "大模型消息",
+        "displayDescription": "消息显示，相关动态集中在大模型。释放出新的行业信号。"
+      },
+      {
+        "id": "da536b4445632394",
+        "title": "b11381",
+        "description": "mtmd : fix deprecated strdup warning on Windows ( #29863 ) Signed-off-by: Adrien Gallouët angt@huggingface.co Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/52479259 macOS/iOS: macOS Apple Silico",
+        "link": "https://github.com/ggml-org/llama.cpp/releases/tag/b11381",
+        "image": "",
+        "source": "Planet AI",
+        "category": "大模型",
+        "publishedAt": "2026-10-03T21:35:50.000Z",
+        "displayTitle": "大模型消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。"
+      },
+      {
+        "id": "c54e65d59f4e4c86",
+        "title": "b11380",
+        "description": "vendor : update cpp-httplib to 0.59.0 ( #29886 ) Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/52476117 macOS/iOS: macOS Apple Silicon (arm64) macOS Apple Silicon (arm64, KleidiAI enabled) DISAB",
+        "link": "https://github.com/ggml-org/llama.cpp/releases/tag/b11380",
+        "image": "",
+        "source": "Planet AI",
+        "category": "大模型",
+        "publishedAt": "2026-10-03T21:09:19.000Z",
+        "displayTitle": "大模型消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。"
+      },
       {
         "id": "8ab8624893c4d48a",
         "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -3105,54 +2911,6 @@
         "source": "Planet AI",
         "category": "大模型",
         "publishedAt": "2026-10-03T08:45:15.000Z",
-        "displayTitle": "大模型消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "8ce14044e81078c7",
-        "title": "LWiAI Podcast #258 - Opus 5.5, Sol and Luna, Muse, DeepSeek-V4.1-Flash, Xi",
-        "description": "(Belated post :/ ) Anthropic releases Opus 5.5 with lower prices and Fable-level performance, OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-        "link": "https://lastweekin.ai/p/lwiai-podcast-258-opus-55-sol-and",
-        "image": "",
-        "source": "Planet AI",
-        "category": "大模型",
-        "publishedAt": "2026-10-03T07:32:03.000Z",
-        "displayTitle": "大模型消息",
-        "displayDescription": "消息显示，OpenAI、Anthropic相关动态集中在行业变化。有新的产品或能力发布。"
-      },
-      {
-        "id": "8e5f88993187e8fc",
-        "title": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
-        "description": "TL;DR: Meta’s Muse, OpenAI’s Dots and Uber’s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer to when to interrupt, on which channel, and with what offer. Classic ML and new decision mo",
-        "link": "https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/",
-        "image": "",
-        "source": "Planet AI",
-        "category": "大模型",
-        "publishedAt": "2026-10-03T07:05:11.000Z",
-        "displayTitle": "大模型消息",
-        "displayDescription": "消息显示，OpenAI、Meta相关动态集中在人工智能、智能体。释放出新的行业信号。"
-      },
-      {
-        "id": "7c024b2172268c46",
-        "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
-        "description": "IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premises, in private or sovereign clouds, and in air-gapped networks. They bring their own mode",
-        "link": "https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/",
-        "image": "",
-        "source": "Planet AI",
-        "category": "大模型",
-        "publishedAt": "2026-10-03T06:55:15.000Z",
-        "displayTitle": "大模型消息",
-        "displayDescription": "消息显示，相关动态集中在智能体、云和数据中心、开发者工具、企业落地。释放出新的行业信号。"
-      },
-      {
-        "id": "d832c09b8727abba",
-        "title": "b11370",
-        "description": "CUDA: fuse shared experts into MMVQ ( #29184 ) CUDA: fuse shared experts into MMVQ check if buffer is null move stride_col_dst to fusion args Website: https://llama.app Attestations: https://github.com/ggml-org/llama.cpp/attestations/523716",
-        "link": "https://github.com/ggml-org/llama.cpp/releases/tag/b11370",
-        "image": "",
-        "source": "Planet AI",
-        "category": "大模型",
-        "publishedAt": "2026-10-03T06:27:05.000Z",
         "displayTitle": "大模型消息",
         "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       },
@@ -3649,18 +3407,6 @@
         "displayDescription": "消息显示，相关动态集中在智能体。释放出新的行业信号。"
       },
       {
-        "id": "76ece40e987eb33b",
-        "title": "Two years of OpenAI Academy",
-        "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-        "link": "https://openai.com/index/two-years-of-openai-academy",
-        "image": "",
-        "source": "OpenAI News",
-        "category": "大模型",
-        "publishedAt": "2026-09-23T16:00:00.000Z",
-        "displayTitle": "大模型消息",
-        "displayDescription": "消息显示，OpenAI相关动态集中在人工智能。释放出新的行业信号。"
-      },
-      {
         "id": "f8ed3a3ada645c66",
         "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
         "description": "An AI coding agent’s patch can pass tests yet fail when the server loads a real model and handles requests. Evaluating changes to inference-serving software...",
@@ -3671,6 +3417,18 @@
         "publishedAt": "2026-09-23T16:00:00.000Z",
         "displayTitle": "大模型消息",
         "displayDescription": "消息显示，相关动态集中在人工智能、大模型、智能体、开发者工具。释放出新的行业信号。"
+      },
+      {
+        "id": "76ece40e987eb33b",
+        "title": "Two years of OpenAI Academy",
+        "description": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+        "link": "https://openai.com/index/two-years-of-openai-academy",
+        "image": "",
+        "source": "OpenAI News",
+        "category": "大模型",
+        "publishedAt": "2026-09-23T16:00:00.000Z",
+        "displayTitle": "大模型消息",
+        "displayDescription": "消息显示，OpenAI相关动态集中在人工智能。释放出新的行业信号。"
       },
       {
         "id": "8e4bcffc6e7e4ec4",
@@ -4239,6 +3997,30 @@
     ],
     "国际要闻": [
       {
+        "id": "20b7084318633e07",
+        "title": "Commentary: AI can be more comforting than a person. Here's what humans can learn from it",
+        "description": "Used carefully, generative artificial intelligence&nbsp;could help us become better at supporting one another, say psychology researchers.",
+        "link": "https://www.channelnewsasia.com/commentary/ai-chatbot-friend-help-problems-comfort-6391616",
+        "image": "https://dam.mediacorp.sg/image/upload/s--4WRgDWTJ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2024/08/10/christian_castillo_chatting_with_andre_his_friend_.png?itok=eCQze7vd",
+        "source": "CNA World",
+        "category": "国际要闻",
+        "publishedAt": "2026-10-03T22:00:00.000Z",
+        "displayTitle": "国际要闻消息",
+        "displayDescription": "消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。"
+      },
+      {
+        "id": "836177d8c56230dd",
+        "title": "Houthis say Saudi Arabia launches dozens of strikes on Yemen capital",
+        "description": "Strikes hit both capitals as the Houthis report 26 Saudi raids on Sanaa and a fire breaks out at an Aramco facility near Riyadh.",
+        "link": "https://www.channelnewsasia.com/world/houthis-say-saudi-arabia-launches-dozens-strikes-yemen-capital-6429646",
+        "image": "https://dam.mediacorp.sg/image/upload/s--HUL8GY87--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-02T160944Z_2_LYNXMPEM911DW_RTROPTP_3_IRAN-CRISIS-SAUDI-YEMEN-TAIZ.JPG?itok=OTymLvbh",
+        "source": "CNA World",
+        "category": "国际要闻",
+        "publishedAt": "2026-10-03T21:55:12.000Z",
+        "displayTitle": "国际要闻消息",
+        "displayDescription": "消息显示，相关动态集中在开发者工具。有新的产品或能力发布。"
+      },
+      {
         "id": "42c23a5ce3ae2f09",
         "title": "Protests over housing flare in Spain after relief measures rejected",
         "description": "Spain housing protests swell after lawmakers reject tenant relief, with 70,000 to 500,000 marching as anger over soaring rents deepens.",
@@ -4489,30 +4271,6 @@
         "publishedAt": "2026-10-02T15:09:03.000Z",
         "displayTitle": "国际要闻消息",
         "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "f8e280e528cbcd48",
-        "title": "Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/world/russia-tearing-kyiv-apart-mayor-says-strikes-paralyse-traffic-6426761",
-        "image": "https://dam.mediacorp.sg/image/upload/s--IBBCWaTV--/c_crop,h_562,w_1000,x_0,y_51/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/Russia_Ukraine_War_54_51.jpg?itok=Cf_bOF2P",
-        "source": "CNA World",
-        "category": "国际要闻",
-        "publishedAt": "2026-10-02T14:49:00.000Z",
-        "displayTitle": "国际要闻消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
-      {
-        "id": "eefc4ebb927deaf3",
-        "title": "US job growth slows sharply in September; unemployment rate rises to 4.2%",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/world/us-job-growth-slows-sharply-in-september-unemployment-rate-rises-42-6426996",
-        "image": "https://dam.mediacorp.sg/image/upload/s--NucEhehN--/c_crop,h_561,w_999,x_1,y_53/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/US_Economy_Jobs_Report_47938.jpg?itok=dKeHefUT",
-        "source": "CNA World",
-        "category": "国际要闻",
-        "publishedAt": "2026-10-02T14:17:50.000Z",
-        "displayTitle": "国际要闻消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。"
       },
       {
         "id": "722cc4b819753932",
@@ -4769,6 +4527,18 @@
     ],
     "亚太": [
       {
+        "id": "787f87cbaa210259",
+        "title": "From ‘red ocean’ to ‘blue ocean’: Why Singaporean firms are exploring Nanning to enter China’s market",
+        "description": "Recent pyramid scheme arrests involving Singaporeans have put Nanning in the spotlight, but businesses told CNA they remain undeterred from entering the Chinese market - and that making inroads can take months or even years.",
+        "link": "https://www.channelnewsasia.com/east-asia/nanning-business-caexpo-singapore-china-6407501",
+        "image": "https://dam.mediacorp.sg/image/upload/s--FyJVtAKy--/c_crop,h_1125,w_2000,x_0,y_183/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/09/23/lan_nanning_china_caexpo_2.jpg?itok=sFMvLugT",
+        "source": "CNA Asia",
+        "category": "亚太",
+        "publishedAt": "2026-10-03T22:00:00.000Z",
+        "displayTitle": "亚太消息",
+        "displayDescription": "消息显示，相关动态集中在企业落地。释放出新的行业信号。"
+      },
+      {
         "id": "9fc89b73c8d71678",
         "title": "Indian police detain several people in Gen Z-led protests against voter roll changes",
         "description": "About 100 demonstrators removed security barricades before police forcibly detained some of them.",
@@ -4827,18 +4597,6 @@
         "publishedAt": "2026-10-02T12:07:00.000Z",
         "displayTitle": "亚太消息",
         "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。"
-      },
-      {
-        "id": "f96671c7b103ea85",
-        "title": "Thai Airways chief says he was fired by board after Bangkok flood chaos",
-        "description": "The airline was forced to cancel dozens of flights this week when floods hit the Thai capital.",
-        "link": "https://www.channelnewsasia.com/asia/thai-airways-ceo-fired-bangkok-floods-6426691",
-        "image": "https://dam.mediacorp.sg/image/upload/s--x0WuFbAH--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-29T052309Z_2_LYNXMPEM8S0BE_RTROPTP_3_ASIA-WEATHER-THAILAND-FLOODS.JPG?itok=qWjCpnKR",
-        "source": "CNA Asia",
-        "category": "亚太",
-        "publishedAt": "2026-10-02T10:12:00.000Z",
-        "displayTitle": "亚太消息",
-        "displayDescription": "消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。"
       },
       {
         "id": "6dccb20cd5cb83d7",
@@ -4923,33 +4681,263 @@
         "publishedAt": "2026-10-02T02:26:00.000Z",
         "displayTitle": "亚太消息",
         "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
-      },
+      }
+    ],
+    "体育": [
       {
-        "id": "34706139bdfff1a3",
-        "title": "Commentary: China opens door to 100,000 American students. The US must do more to get them there",
-        "description": "If Americans head to China for educational exchanges, their experience and expertise could benefit more than the US, says Kevin Chen from the S Rajaratnam School of International Studies.",
-        "link": "https://www.channelnewsasia.com/commentary/trump-xi-summit-us-china-study-asia-benefits-6424301",
-        "image": "https://dam.mediacorp.sg/image/upload/s--LylAlqHl--/c_crop,h_561,w_999,x_1,y_1/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/APTOPIX_Trump_Xi__68_1.jpg?itok=zfD5YHng",
-        "source": "CNA Asia",
-        "category": "亚太",
-        "publishedAt": "2026-10-01T22:00:00.000Z",
-        "displayTitle": "亚太消息",
+        "id": "efc865bddddc7061",
+        "title": "UAE beat Oman to reach Gulf Cup final against Saudi",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/uae-beat-oman-reach-gulf-cup-final-against-saudi-6430206",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T21:46:07.000Z",
+        "displayTitle": "体育消息",
         "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       },
       {
-        "id": "702c47c632c2a131",
-        "title": "Commentary: What happens when Chinese AI goes rogue?",
-        "description": "Using China as the boogeyman is no longer a convincing excuse for inaction on AI regulations by US lawmakers, says Catherine Thorbecke for Bloomberg Opinion.",
-        "link": "https://www.channelnewsasia.com/commentary/china-ai-rogue-us-safety-regulation-6424166",
-        "image": "https://dam.mediacorp.sg/image/upload/s--XzSjaYVL--/c_crop,h_562,w_1000,x_0,y_42/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/China_Anthropic_AI_3193_.jpg?itok=wA9GiQ4o",
-        "source": "CNA Asia",
-        "category": "亚太",
-        "publishedAt": "2026-10-01T21:58:00.000Z",
-        "displayTitle": "亚太消息",
-        "displayDescription": "消息显示，相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。"
+        "id": "ea28c5de0123ade6",
+        "title": "Fernandes rejects talk of Portugal rift after Ronaldo's abrupt departure",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/fernandes-rejects-talk-portugal-rift-after-ronaldos-abrupt-departure-6430141",
+        "image": "https://dam.mediacorp.sg/image/upload/s--HKDVaua0--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T190045Z_1_LYNXMPEM920K7_RTROPTP_3_SOCCER-WORLDCUP-POR-CRO.JPG?itok=PnlfQg71",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T19:00:45.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "e066f9b1aec0fada",
+        "title": "England crush Croatia 7-0 as Spain stay perfect with Czech victory",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/england-crush-croatia-7-0-spain-stay-perfect-czech-victory-6429971",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T18:06:46.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "536fa0ea733c7fe8",
+        "title": "Qatar and Abu Dhabi F1 Grand Prix to go ahead: F1 boss",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/qatar-and-abu-dhabi-f1-grand-prix-go-ahead-f1-boss-6429611",
+        "image": "https://dam.mediacorp.sg/image/upload/s--DBpHwBGj--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T111938Z_1_LYNXMPEM92094_RTROPTP_3_MOTOR-F1-BAHRAIN.JPG?itok=Fk-90vF3",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T17:02:00.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "b963ebb66ac29d1f",
+        "title": "Brazil tame India in 4-0 friendly win",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/brazil-tame-india-in-4-0-friendly-win-6429591",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T16:18:55.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "84709047c889efed",
+        "title": "Netherlands coach Xavi joins critics of new-look international window",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/netherlands-coach-xavi-joins-critics-new-look-international-window-6429556",
+        "image": "https://dam.mediacorp.sg/image/upload/s--SGo2y6zu--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T154246Z_1_LYNXMPEM920EC_RTROPTP_3_SOCCER-UEFANATIONS-SRB-NLD.JPG?itok=1QG9KsFX",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T15:42:46.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "79cbd0c7f96f216a",
+        "title": "Singapore’s sailors conclude Asian Games campaign with three silvers, one bronze",
+        "description": "This marks the first Games in 24 years where the sailors have gone without a gold.&nbsp;",
+        "link": "https://www.channelnewsasia.com/sport/singapore-sailing-asian-games-silver-bronze-6429336",
+        "image": "https://dam.mediacorp.sg/image/upload/s--Fu46GEPw--/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/10/03/ianjohn.jpeg?itok=_20Cvqh2",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T13:50:00.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "b82fed0a09356855",
+        "title": "Ireland coach Hallgrimsson hopes squad bonds will be stronger after tough period",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/ireland-coach-hallgrimsson-hopes-squad-bonds-will-be-stronger-after-tough-period-6429176",
+        "image": "https://dam.mediacorp.sg/image/upload/s--0_c5AT3V--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T113506Z_1_LYNXMPEM9209P_RTROPTP_3_SOCCER-UEFANATIONS-IRL-AUT.JPG?itok=tpN9NyuQ",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T11:35:06.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "42798043cfc45185",
+        "title": "Norris blames Sepang tarmac as McLaren struggle in Bahrain GP qualifying",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/norris-blames-sepang-tarmac-mclaren-struggle-in-bahrain-gp-qualifying-6429171",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T11:19:38.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "e8530fe390639965",
+        "title": "Upgrades backfire as Wolff admits Mercedes going backwards",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/upgrades-backfire-wolff-admits-mercedes-going-backwards-6429061",
+        "image": "https://dam.mediacorp.sg/image/upload/s--XKRV5dlm--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T102454Z_1_LYNXMPEM92070_RTROPTP_3_MOTOR-F1-BAHRAIN.JPG?itok=EveWpToS",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T10:24:54.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "49468fc58f21c5f8",
+        "title": "Brisbane 2032 logos accidentally revealed by official YouTube channel",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/brisbane-2032-logos-accidentally-revealed-official-youtube-channel-6429031",
+        "image": "https://dam.mediacorp.sg/image/upload/s--XagESbv5--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T114303Z_1_LYNXMPEM9209S_RTROPTP_3_OLYMPICS-IOC.JPG?itok=c_QbZ1OS",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T10:00:12.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。监管和法律风险受到关注。"
+      },
+      {
+        "id": "e299a738dbc6e98b",
+        "title": "South Africa hamstring 'epidemic' strikes again as De Zorzi ruled out of test",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/south-africa-hamstring-epidemic-strikes-again-de-zorzi-ruled-out-test-6429016",
+        "image": "https://dam.mediacorp.sg/image/upload/s--NqNJ0Ey---/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T110837Z_1_LYNXMPEM9207W_RTROPTP_3_CRICKET-TEST-ZAF-AUS.JPG?itok=lBkeeEFa",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T09:51:17.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "2fcf74742ce8f1cd",
+        "title": "Verstappen claims first pole of season at Bahrain GP in Malaysia",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/verstappen-claims-first-pole-season-bahrain-gp-in-malaysia-6429001",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T09:12:32.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "0978ef40c5e62fce",
+        "title": "Games-Abhishek and Varma shine as India beat Pakistan to complete cricket double",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/games-abhishek-and-varma-shine-india-beat-pakistan-complete-cricket-double-6428951",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T08:28:01.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "14fb49ce4e3b50bd",
+        "title": "Transport operators to improve services after F1 fans left stranded in Sepang",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/transport-operators-improve-services-after-f1-fans-left-stranded-in-sepang-6428941",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T08:11:00.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "eefc97b78d1dda6e",
+        "title": "Belgium's De Bruyne, Tielemans to miss France match due to suspension",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/belgiums-de-bruyne-tielemans-miss-france-match-due-suspension-6428916",
+        "image": "https://dam.mediacorp.sg/image/upload/s--hAd_nbJQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T074028Z_1_LYNXMPEM9204T_RTROPTP_3_SOCCER-UEFANATIONS-BEL-TUR.JPG?itok=mukJDFat",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T07:40:28.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "6353011a751ffcd1",
+        "title": "Marquez wins Japanese GP sprint to close in on Martin",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/marquez-wins-japanese-gp-sprint-close-in-martin-6428866",
+        "image": "https://dam.mediacorp.sg/image/upload/s--4iHC8YpZ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T063835Z_1_LYNXMPEM9203V_RTROPTP_3_MOTOR-MOTOGP-AUSTRIA.JPG?itok=rjs-iwNc",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T06:38:35.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "ce98fbd3a0b71f46",
+        "title": "Antonelli finds his rhythm to top final Sepang practice",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/antonelli-finds-his-rhythm-top-final-sepang-practice-6428846",
+        "image": "",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T06:09:36.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "939c51790ebcaaac",
+        "title": "Singapore’s Shannon Tan takes historic Asian Games golf bronze",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/singapores-shannon-tan-takes-historic-asian-games-golf-bronze-6428726",
+        "image": "https://dam.mediacorp.sg/image/upload/s--rmNJzf_c--/c_crop,h_1125,w_2000,x_0,y_238/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/mediacorp/cna/image/2026/10/03/wal_3296.jpg?itok=3hHjQkMr",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T04:47:00.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
+      },
+      {
+        "id": "3108c5f0d85f76d0",
+        "title": "Aprilia's Martin sets lap record at Japanese MotoGP to snatch pole from Marquez",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/sport/aprilias-martin-sets-lap-record-japanese-motogp-snatch-pole-marquez-6428671",
+        "image": "https://dam.mediacorp.sg/image/upload/s--vvUE-MV_--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T032008Z_1_LYNXMPEM9201Y_RTROPTP_3_MOTOR-MOTOGP-AUSTRIA.JPG?itok=nAgMZ93o",
+        "source": "CNA Sport",
+        "category": "体育",
+        "publishedAt": "2026-10-03T03:20:08.000Z",
+        "displayTitle": "体育消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       }
     ],
     "财经": [
+      {
+        "id": "02fc9c2dc0e9c302",
+        "title": "OpenAI safety employee quits, says 'time for trial and error is over'",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/business/openai-safety-employee-quits-says-time-trial-and-error-over-6430136",
+        "image": "https://dam.mediacorp.sg/image/upload/s--2Z6nuajX--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-03T190019Z_1_LYNXMPEM920K4_RTROPTP_3_GLOBAL-ECONOMY-AI.JPG?itok=5-C4pKIi",
+        "source": "CNA Business",
+        "category": "财经",
+        "publishedAt": "2026-10-03T19:00:19.000Z",
+        "displayTitle": "财经消息",
+        "displayDescription": "消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。"
+      },
       {
         "id": "fbce1ec3c17f7066",
         "title": "As public fears of AI grow, Trump digs in on voluntary safeguards",
@@ -5047,6 +5035,18 @@
         "displayDescription": "消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。"
       },
       {
+        "id": "0d357f2312908075",
+        "title": "US job growth slows sharply in September; unemployment rate rises to 4.2%",
+        "description": "暂无摘要。",
+        "link": "https://www.channelnewsasia.com/world/us-job-growth-slows-sharply-in-september-unemployment-rate-rises-42-6426996",
+        "image": "https://dam.mediacorp.sg/image/upload/s--NucEhehN--/c_crop,h_561,w_999,x_1,y_53/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/US_Economy_Jobs_Report_47938.jpg?itok=dKeHefUT",
+        "source": "CNA Business",
+        "category": "财经",
+        "publishedAt": "2026-10-02T14:17:50.000Z",
+        "displayTitle": "财经消息",
+        "displayDescription": "消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。"
+      },
+      {
         "id": "b125fa2096b3590e",
         "title": "G7 countries say they will release '100 million barrels' of diesel and crude",
         "description": "The United States has upped pressure on Europe to release its strategic reserves by threatening a diesel export ban.",
@@ -5081,6 +5081,18 @@
         "publishedAt": "2026-10-02T10:28:17.000Z",
         "displayTitle": "财经消息",
         "displayDescription": "消息显示，相关动态集中在人工智能。释放出新的行业信号。"
+      },
+      {
+        "id": "4793a99e339c42c3",
+        "title": "Thai Airways chief says he was fired by board after Bangkok flood chaos",
+        "description": "The airline was forced to cancel dozens of flights this week when floods hit the Thai capital.",
+        "link": "https://www.channelnewsasia.com/asia/thai-airways-ceo-fired-bangkok-floods-6426691",
+        "image": "https://dam.mediacorp.sg/image/upload/s--x0WuFbAH--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-29T052309Z_2_LYNXMPEM8S0BE_RTROPTP_3_ASIA-WEATHER-THAILAND-FLOODS.JPG?itok=qWjCpnKR",
+        "source": "CNA Business",
+        "category": "财经",
+        "publishedAt": "2026-10-02T10:12:00.000Z",
+        "displayTitle": "财经消息",
+        "displayDescription": "消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。"
       },
       {
         "id": "e85f6e2e8efd6002",
@@ -5153,18 +5165,6 @@
         "publishedAt": "2026-10-02T09:02:58.000Z",
         "displayTitle": "财经消息",
         "displayDescription": "消息显示，相关动态集中在云和数据中心、资本市场。资本投入和估值成为关注点。其中提到的关键数字包括$1 billion。"
-      },
-      {
-        "id": "9df9d90ca0db76fa",
-        "title": "Stocks rise after weak US jobs data but bonds resume selling",
-        "description": "暂无摘要。",
-        "link": "https://www.channelnewsasia.com/business/stocks-rise-after-weak-us-jobs-data-bonds-resume-selling-6425861",
-        "image": "https://dam.mediacorp.sg/image/upload/s--OLg8FK4o--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-10-02T164749Z_1_LYNXMPEM911G3_RTROPTP_3_USA-STOCKS.JPG?itok=ViFLyXa4",
-        "source": "CNA Business",
-        "category": "财经",
-        "publishedAt": "2026-10-02T08:57:54.000Z",
-        "displayTitle": "财经消息",
-        "displayDescription": "消息显示，相关动态集中在行业变化。释放出新的行业信号。"
       }
     ]
   },
@@ -5175,9 +5175,18 @@
       "subtitle": "跨领域重点新闻。",
       "category": "综合",
       "itemIds": [
+        "036eabeeea2ea2a9",
+        "99232a5d8b73f12e",
+        "20b7084318633e07",
+        "787f87cbaa210259",
+        "836177d8c56230dd",
+        "efc865bddddc7061",
+        "da536b4445632394",
+        "c54e65d59f4e4c86",
         "ea28c5de0123ade6",
+        "02fc9c2dc0e9c302",
         "8ab8624893c4d48a",
-        "793dff854d84d801",
+        "e066f9b1aec0fada",
         "8f55d292428e6ba8",
         "536fa0ea733c7fe8",
         "42c23a5ce3ae2f09",
@@ -5207,56 +5216,13 @@
         "42798043cfc45185",
         "e8530fe390639965",
         "fbce1ec3c17f7066",
-        "49468fc58f21c5f8",
-        "e299a738dbc6e98b",
-        "2fcf74742ce8f1cd",
-        "9ecb8767d6db0e64",
-        "0ca0be3e6fbdc7da",
-        "0978ef40c5e62fce",
-        "04ad1e3a651abf3e",
-        "14fb49ce4e3b50bd",
-        "eefc97b78d1dda6e",
-        "f51ced1a29489c09"
+        "49468fc58f21c5f8"
       ],
       "count": 42,
-      "durationHint": 1140,
-      "script": "截至10月3日 19:00，最新消息显示：\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻方面，国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n大模型方面，大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型方面，大模型消息。消息显示，Claude相关动态集中在人工智能、研究进展。释放出新的行业信号。其中提到的关键数字包括 37%、 100%、 10 m。\n大模型方面，大模型消息。消息显示，Anthropic、Claude相关动态集中在人工智能。有新的产品或能力发布。\n亚太方面，亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻方面，国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，Meta相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括3.5 M。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经方面，财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻方面，国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻方面，国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻方面，国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。",
+      "durationHint": 1136,
+      "script": "截至10月3日 22:46，最新消息显示：\n大模型方面，大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n国际要闻方面，国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n亚太方面，亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n国际要闻方面，国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经方面，财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻方面，国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n大模型方面，大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型方面，大模型消息。消息显示，Claude相关动态集中在人工智能、研究进展。释放出新的行业信号。其中提到的关键数字包括 37%、 100%、 10 m。\n大模型方面，大模型消息。消息显示，Anthropic、Claude相关动态集中在人工智能。有新的产品或能力发布。\n亚太方面，亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻方面，国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，Meta相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括3.5 M。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型方面，大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经方面，财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n体育方面，体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。",
       "generationMode": "local",
-      "updatedAt": "2026-10-03T19:07:27.496Z",
-      "generationError": "DeepSeek HTTP 402"
-    },
-    {
-      "id": "section-b0dc2f50",
-      "title": "体育早报",
-      "subtitle": "体育重点新闻。",
-      "category": "体育",
-      "itemIds": [
-        "ea28c5de0123ade6",
-        "793dff854d84d801",
-        "536fa0ea733c7fe8",
-        "b963ebb66ac29d1f",
-        "84709047c889efed",
-        "79cbd0c7f96f216a",
-        "b82fed0a09356855",
-        "42798043cfc45185",
-        "e8530fe390639965",
-        "49468fc58f21c5f8",
-        "e299a738dbc6e98b",
-        "2fcf74742ce8f1cd",
-        "0978ef40c5e62fce",
-        "14fb49ce4e3b50bd",
-        "eefc97b78d1dda6e",
-        "6353011a751ffcd1",
-        "ce98fbd3a0b71f46",
-        "939c51790ebcaaac",
-        "3108c5f0d85f76d0",
-        "0a82846f326cf350"
-      ],
-      "count": 20,
-      "durationHint": 1131,
-      "script": "截至10月3日 19:00，最新消息显示：\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。",
-      "generationMode": "local",
-      "updatedAt": "2026-10-03T19:07:28.186Z",
+      "updatedAt": "2026-10-03T22:47:35.024Z",
       "generationError": "DeepSeek HTTP 402"
     },
     {
@@ -5265,6 +5231,10 @@
       "subtitle": "大模型重点新闻。",
       "category": "大模型",
       "itemIds": [
+        "036eabeeea2ea2a9",
+        "99232a5d8b73f12e",
+        "da536b4445632394",
+        "c54e65d59f4e4c86",
         "8ab8624893c4d48a",
         "8f55d292428e6ba8",
         "8fd2b4c3343cd99d",
@@ -5285,10 +5255,6 @@
         "90b6356c7705dce2",
         "5587dc9fb5f87137",
         "9ecb8767d6db0e64",
-        "8ce14044e81078c7",
-        "8e5f88993187e8fc",
-        "7c024b2172268c46",
-        "d832c09b8727abba",
         "f38530060b7bfe5d",
         "8416d822e1467d51",
         "1bd191a424bf4189",
@@ -5299,10 +5265,10 @@
         "aa17ee82bd5d078a"
       ],
       "count": 32,
-      "durationHint": 1139,
-      "script": "截至10月3日 18:43，最新消息显示：\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型消息。消息显示，Claude相关动态集中在人工智能、研究进展。释放出新的行业信号。其中提到的关键数字包括 37%、 100%、 10 m。\n大模型消息。消息显示，Anthropic、Claude相关动态集中在人工智能。有新的产品或能力发布。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括3.5 M。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic相关动态集中在行业变化。有新的产品或能力发布。\n大模型消息。消息显示，OpenAI、Meta相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体、云和数据中心、开发者工具、企业落地。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。其中提到的关键数字包括6 m。\n大模型消息。消息显示，英伟达相关动态集中在人工智能、大模型、智能体、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在开发者工具。释放出新的行业信号。其中提到的关键数字包括 30 m。\n大模型消息。消息显示，Anthropic、Claude相关动态集中在人工智能、企业落地、资本市场。资本投入和估值成为关注点。其中提到的关键数字包括$100 million、$100 million。\n大模型消息。消息显示，OpenAI、英伟达相关动态集中在大模型、AI芯片和算力、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能、智能体、云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能、大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。",
+      "durationHint": 1137,
+      "script": "截至10月3日 22:46，最新消息显示：\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52418791 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在行业变化。开源生态有新动向。\n大模型消息。消息显示，Claude相关动态集中在人工智能、研究进展。释放出新的行业信号。其中提到的关键数字包括 37%、 100%、 10 m。\n大模型消息。消息显示，Anthropic、Claude相关动态集中在人工智能。有新的产品或能力发布。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，Meta相关动态集中在人工智能、智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括3.5 M。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。其中提到的关键数字包括6 m。\n大模型消息。消息显示，英伟达相关动态集中在人工智能、大模型、智能体、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在开发者工具。释放出新的行业信号。其中提到的关键数字包括 30 m。\n大模型消息。消息显示，Anthropic、Claude相关动态集中在人工智能、企业落地、资本市场。资本投入和估值成为关注点。其中提到的关键数字包括$100 million、$100 million。\n大模型消息。消息显示，OpenAI、英伟达相关动态集中在大模型、AI芯片和算力、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能、智能体、云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能、大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在智能体。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在大模型。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52479259 m。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52476117 m。\n大模型消息。消息显示，相关动态集中在云和数据中心。释放出新的行业信号。\n大模型消息。消息显示，英伟达相关动态集中在人工智能。释放出新的行业信号。\n大模型消息。消息显示，OpenAI相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n大模型消息。消息显示，Claude相关动态集中在行业变化。释放出新的行业信号。\n大模型消息。消息显示，OpenAI、Anthropic、Claude、英伟达相关动态集中在大模型、开发者工具。释放出新的行业信号。\n大模型消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括52429962 m。",
       "generationMode": "local",
-      "updatedAt": "2026-10-03T19:07:28.816Z",
+      "updatedAt": "2026-10-03T22:47:35.688Z",
       "generationError": "DeepSeek HTTP 402"
     },
     {
@@ -5311,6 +5277,8 @@
       "subtitle": "国际要闻重点新闻。",
       "category": "国际要闻",
       "itemIds": [
+        "20b7084318633e07",
+        "836177d8c56230dd",
         "42c23a5ce3ae2f09",
         "42c83b521f9dd471",
         "0ca0be3e6fbdc7da",
@@ -5332,8 +5300,6 @@
         "699bb46c388da1a0",
         "6018d9a22da4619e",
         "c2f76e62f12feabf",
-        "f8e280e528cbcd48",
-        "eefc4ebb927deaf3",
         "722cc4b819753932",
         "f8f9cc859fb108f9",
         "ad69fd7d025a59ca",
@@ -5345,10 +5311,10 @@
         "cdf419a2ae9d65bb"
       ],
       "count": 32,
-      "durationHint": 1145,
-      "script": "截至10月3日 16:37，最新消息显示：\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？。杜拜航空這班飛往特拉維夫的航班上，斯米特·馬查爾機長（Capt Smit Machchhar）遭另一名機師襲擊。以色列總理內塔尼亞胡讚揚他是「真正的英雄」，「拯救了174人的生命」，並阻止了一場「災難性的空中事故」。\n美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？。這名被定罪的殺人犯在兩次致命注射後仍然生還，目前正在田納西州的醫院接受治療。這是當地半年內第二宗死刑執行失敗事件，引發許多疑問。\n西班牙與中國愈走愈近，歐盟多方為何不滿？。全球局勢動盪之際，西班牙與中國意外走近，但這並非唯一不尋常的夥伴關係。\n康乃爾大學輪姦案調查：我們目前知道多少？。該女子指稱，兩年前她在該大學一處兄弟會宿舍遭人下藥並遭到性侵。\n「我喜歡證明別人錯了」：這些女性拿起工具，自己做裝修和水喉工程。女性DIY專家和女性工匠談及她們如何改變傳統男性主導的領域。\n香港國安處以「23條」拘捕網媒記者，與8.31事件相關。香港記者協會關注事件，指鄧浩榮是首名在涉嫌違反《維護國家安全條例》（俗稱「23條」）生效後，於公眾領域中因該例煽動罪被捕的新聞工作者。\n中國開始打擊AI戀愛關係，是過度干預還是先見之明？。北京正在打擊那些能夠模擬人際關係的AI聊天機器人。專家質疑這是否是正確的做法。\n日本收緊外國人居留條件，申請費用上調二十倍。這次加費是高市政府收緊移民政策的一環，目的是管理快速增長的外國人口。\n機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難。一架從阿聯酋杜拜飛往以色列的「杜拜航空」（Flydubai）客機上，發生企圖空中劫機事件。其中一名機師刺傷另一名機副機後，機上乘客在機人員協助下闖進駕駛艙並合力制伏施襲者。以色列即將舉行大選，當局尚未透露涉案副機師的施襲動機。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。",
+      "durationHint": 1146,
+      "script": "截至10月3日 22:00，最新消息显示：\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？。杜拜航空這班飛往特拉維夫的航班上，斯米特·馬查爾機長（Capt Smit Machchhar）遭另一名機師襲擊。以色列總理內塔尼亞胡讚揚他是「真正的英雄」，「拯救了174人的生命」，並阻止了一場「災難性的空中事故」。\n美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？。這名被定罪的殺人犯在兩次致命注射後仍然生還，目前正在田納西州的醫院接受治療。這是當地半年內第二宗死刑執行失敗事件，引發許多疑問。\n西班牙與中國愈走愈近，歐盟多方為何不滿？。全球局勢動盪之際，西班牙與中國意外走近，但這並非唯一不尋常的夥伴關係。\n康乃爾大學輪姦案調查：我們目前知道多少？。該女子指稱，兩年前她在該大學一處兄弟會宿舍遭人下藥並遭到性侵。\n「我喜歡證明別人錯了」：這些女性拿起工具，自己做裝修和水喉工程。女性DIY專家和女性工匠談及她們如何改變傳統男性主導的領域。\n香港國安處以「23條」拘捕網媒記者，與8.31事件相關。香港記者協會關注事件，指鄧浩榮是首名在涉嫌違反《維護國家安全條例》（俗稱「23條」）生效後，於公眾領域中因該例煽動罪被捕的新聞工作者。\n中國開始打擊AI戀愛關係，是過度干預還是先見之明？。北京正在打擊那些能夠模擬人際關係的AI聊天機器人。專家質疑這是否是正確的做法。\n日本收緊外國人居留條件，申請費用上調二十倍。這次加費是高市政府收緊移民政策的一環，目的是管理快速增長的外國人口。\n機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難。一架從阿聯酋杜拜飛往以色列的「杜拜航空」（Flydubai）客機上，發生企圖空中劫機事件。其中一名機師刺傷另一名機副機後，機上乘客在機人員協助下闖進駕駛艙並合力制伏施襲者。以色列即將舉行大選，當局尚未透露涉案副機師的施襲動機。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在人工智能、研究进展。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在开发者工具。有新的产品或能力发布。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括000 m。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在资本市场。资本投入和估值成为关注点。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n国际要闻消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n為什麼有些人坐電動車更容易暈車？。一名治療暈動症的醫生說：「（坐電動車暈車的個案）我聽過很多、很多、很多次。」。\n中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？。面對就業、收入與未來的焦慮，許多人希望藉此尋求運氣、心安以及掌控感。對某些人來說，這意味著去寺廟上香祈福或算命求籤；對另一些人來說，則是購買號稱能帶來好運的手鍊、符咒等各類產品。\n「工程師治國」：中國為何熱衷於「超級工程」？。大型建設工程正在重塑中國——從巨型大壩、龐大的太陽能發電場，到覆蓋全國的高鐵網絡。北京的「工程師思維」能否助其應對氣候變化？。",
       "generationMode": "local",
-      "updatedAt": "2026-10-03T19:07:29.518Z",
+      "updatedAt": "2026-10-03T22:47:36.359Z",
       "generationError": "DeepSeek HTTP 402"
     },
     {
@@ -5357,27 +5323,59 @@
       "subtitle": "亚太重点新闻。",
       "category": "亚太",
       "itemIds": [
+        "787f87cbaa210259",
         "9fc89b73c8d71678",
         "2b8e3a9fe3baaa82",
         "0e39e096d1d69ed9",
         "ac3a9c41d38493bd",
         "b2c6813feb122d19",
-        "f96671c7b103ea85",
         "6dccb20cd5cb83d7",
         "6b338aceeeecfa02",
         "ef9d33f960f4a579",
         "3749168e79df89ee",
         "9ad8a3e6af835ff0",
         "52455c0c6bf2e692",
-        "2ff4d71c574d820f",
-        "34706139bdfff1a3",
-        "702c47c632c2a131"
+        "2ff4d71c574d820f"
       ],
-      "count": 15,
-      "durationHint": 1134,
-      "script": "截至10月3日 12:57，最新消息显示：\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能、安全与监管。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。",
+      "count": 13,
+      "durationHint": 1137,
+      "script": "截至10月3日 22:00，最新消息显示：\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在开发者工具。市场预期和需求变化正在发酵。\n亚太消息。消息显示，相关动态集中在企业落地。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括US$300 million。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在安全与监管。释放出新的行业信号。\n亚太消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。",
       "generationMode": "local",
-      "updatedAt": "2026-10-03T19:07:30.248Z",
+      "updatedAt": "2026-10-03T22:47:37.001Z",
+      "generationError": "DeepSeek HTTP 402"
+    },
+    {
+      "id": "section-b0dc2f50",
+      "title": "体育早报",
+      "subtitle": "体育重点新闻。",
+      "category": "体育",
+      "itemIds": [
+        "efc865bddddc7061",
+        "ea28c5de0123ade6",
+        "e066f9b1aec0fada",
+        "536fa0ea733c7fe8",
+        "b963ebb66ac29d1f",
+        "84709047c889efed",
+        "79cbd0c7f96f216a",
+        "b82fed0a09356855",
+        "42798043cfc45185",
+        "e8530fe390639965",
+        "49468fc58f21c5f8",
+        "e299a738dbc6e98b",
+        "2fcf74742ce8f1cd",
+        "0978ef40c5e62fce",
+        "14fb49ce4e3b50bd",
+        "eefc97b78d1dda6e",
+        "6353011a751ffcd1",
+        "ce98fbd3a0b71f46",
+        "939c51790ebcaaac",
+        "3108c5f0d85f76d0"
+      ],
+      "count": 20,
+      "durationHint": 1130,
+      "script": "截至10月3日 21:46，最新消息显示：\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n体育消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。",
+      "generationMode": "local",
+      "updatedAt": "2026-10-03T22:47:37.689Z",
       "generationError": "DeepSeek HTTP 402"
     },
     {
@@ -5386,6 +5384,7 @@
       "subtitle": "财经重点新闻。",
       "category": "财经",
       "itemIds": [
+        "02fc9c2dc0e9c302",
         "fbce1ec3c17f7066",
         "c1930aa196edcb02",
         "782bb3ae5a70517b",
@@ -5394,22 +5393,23 @@
         "0fedae2fd077ac88",
         "5273717624f4bf14",
         "2bdd75d10bed8251",
+        "0d357f2312908075",
         "b125fa2096b3590e",
         "30d3971b178f1dab",
         "3db40a37a031c067",
+        "4793a99e339c42c3",
         "e85f6e2e8efd6002",
         "45e3fe07982c5c3a",
         "0e29d844c811feeb",
         "abb82a9d2f5e2922",
         "3cc68fd134ea9a8d",
-        "2140458f39713544",
-        "9df9d90ca0db76fa"
+        "2140458f39713544"
       ],
-      "count": 18,
-      "durationHint": 1134,
-      "script": "截至10月3日 10:05，最新消息显示：\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 5.6%。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在云和数据中心、资本市场。资本投入和估值成为关注点。其中提到的关键数字包括$1 billion。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。",
+      "count": 20,
+      "durationHint": 1138,
+      "script": "截至10月3日 19:00，最新消息显示：\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在开发者工具。监管和法律风险受到关注。\n财经消息。消息显示，Anthropic相关动态集中在企业落地、资本市场。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。其中提到的关键数字包括 5.6%。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在云和数据中心、资本市场。资本投入和估值成为关注点。其中提到的关键数字包括$1 billion。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。市场预期和需求变化正在发酵。其中提到的关键数字包括 4.2%。\n财经消息。消息显示，相关动态集中在行业变化。有新的产品或能力发布，监管和法律风险受到关注。其中提到的关键数字包括100 million。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，OpenAI相关动态集中在安全与监管。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。\n财经消息。消息显示，Meta相关动态集中在人工智能。释放出新的行业信号。\n财经消息。消息显示，相关动态集中在行业变化。监管和法律风险受到关注。\n财经消息。消息显示，相关动态集中在安全与监管。监管和法律风险受到关注。其中提到的关键数字包括 737 M。\n财经消息。消息显示，相关动态集中在行业变化。释放出新的行业信号。",
       "generationMode": "local",
-      "updatedAt": "2026-10-03T19:07:30.867Z",
+      "updatedAt": "2026-10-03T22:47:38.332Z",
       "generationError": "DeepSeek HTTP 402"
     }
   ]
